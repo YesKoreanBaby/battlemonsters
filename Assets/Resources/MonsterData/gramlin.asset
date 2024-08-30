@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: gramlin
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 2401060309922018485, guid: 05854ae5aa877d6418d59f3991ac27e4, type: 3}
+  battleAIType: 0
+  evolutionType: 0
+  status: 9
+  monsterWeight: 0
+  monsterClass: 1
+  spawnItems: []
+  tranningType: 0
+  dictionaryData: {fileID: 11400000, guid: 857bf1f816a84054da2750d6864c29ce, type: 2}
+  hp: 20
+  mp: 20
+  dex: 4.2
+  atk: 1
+  def: 0
+  manaRecoveryRatio: 0.25
+  hpRecoveryRatio: 0.1
+  repeatRatio: 0.1
+  creaticalRatio: 0.1
+  datas:
+  - {fileID: 11400000, guid: e81e6c0b856871740bf1a43d986226a2, type: 2}
+  - {fileID: 11400000, guid: 81498bc515eb1124cbc849185a4c4143, type: 2}
+  - {fileID: 11400000, guid: 7fb1a36c42cbda64db82493fc31a4e01, type: 2}
+  - {fileID: 11400000, guid: add4bdd51d5a7584fa06fb257c382db2, type: 2}
+  - {fileID: 11400000, guid: 3942eeaf9826787409e80cfef0b5d3ef, type: 2}
+  percentSkillDatas:
+  - {fileID: 11400000, guid: a88144834becca745a519c21e72c8d57, type: 2}
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: df15b5a6bab7f334f9d3ff8ee013685e, type: 2}
+  abilities: 
+  confirmSkillPrioritys: 08000000
+  selectDetailTargetTypes: 00000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

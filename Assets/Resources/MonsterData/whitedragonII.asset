@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: whitedragonII
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 3592631470397822265, guid: 66df01a25c94779459d8fe70aa682838, type: 3}
+  battleAIType: 3
+  evolutionType: 0
+  status: 10
+  monsterWeight: 2
+  monsterClass: 2
+  spawnItems: []
+  tranningType: 0
+  dictionaryData: {fileID: 11400000, guid: 13d44db5079a7b24aa092c5a7ce82195, type: 2}
+  hp: 45
+  mp: 20
+  dex: 3.6
+  atk: 25
+  def: 0
+  manaRecoveryRatio: 0.1
+  hpRecoveryRatio: 0.1
+  repeatRatio: 0.1
+  creaticalRatio: 0.1
+  datas:
+  - {fileID: 11400000, guid: 9f71ff3fe047eec46813f6b14eb28cb7, type: 2}
+  percentSkillDatas: []
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: ac5094535e00c874a93cb39331fea663, type: 2}
+  abilities: 03000000
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 04000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 02000000040000000a0000000f000000
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

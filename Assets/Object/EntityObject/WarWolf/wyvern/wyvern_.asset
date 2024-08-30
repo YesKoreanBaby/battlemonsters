@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15b14fa3d9808264b8fe827ed02cbbcc, type: 3}
+  m_Name: wyvern_
+  m_EditorClassIdentifier: 
+  monsterName: "\uC640\uC774\uBC88"
+  description: "\uC9C0\uB2A5\uC740 \uB5A8\uC5B4\uC9C0\uC9C0\uB9CC\n\uAC15\uB825\uD558\uACE0
+    \uC794\uD639\uD55C \uD798\uC744\n\uAC00\uC84C\uB2E4.\n\n\uAF2C\uB9AC\uC5D0 \uB3C5\uC744
+    \uD488\uACE0 \uC788\uB2E4."

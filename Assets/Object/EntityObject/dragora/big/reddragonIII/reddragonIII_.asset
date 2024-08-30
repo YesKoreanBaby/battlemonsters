@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15b14fa3d9808264b8fe827ed02cbbcc, type: 3}
+  m_Name: reddragonIII_
+  m_EditorClassIdentifier: 
+  monsterName: "<b><size=28>\uB808\uB4DC \uB4DC\uB798\uACE4 III"
+  description: "\uB808\uB4DC \uB4DC\uB798\uACE4\uC758 \uAC01\uC131\uCCB4\n\uBAA8\uB4E0
+    \uD654\uB8E1\uB4E4\uC758 \uC815\uC810\uC5D0 \uC11C\uC11C\n\uADF8\uB4E4\uC744
+    \uC774\uB04C\uC5C8\uB2E4\uACE0 \uC804\uD574\uC9C4\uB2E4."

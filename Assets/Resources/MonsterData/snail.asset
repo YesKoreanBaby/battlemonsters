@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: snail
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 6757818607489825364, guid: 58264baea5f058d4bad28e5ab030ae59, type: 3}
+  battleAIType: 5
+  evolutionType: 0
+  status: 0
+  monsterWeight: 1
+  monsterClass: 1
+  spawnItems: []
+  tranningType: 6
+  dictionaryData: {fileID: 11400000, guid: b68f9eac50a26c64ab9d6f19b6c651b4, type: 2}
+  hp: 10
+  mp: 10
+  dex: 5.8
+  atk: 1
+  def: 15
+  manaRecoveryRatio: 0.25
+  hpRecoveryRatio: 0.25
+  repeatRatio: -4
+  creaticalRatio: 0
+  datas:
+  - {fileID: 11400000, guid: 4d737496508e8f44fa9c2ee08bfcd6f4, type: 2}
+  percentSkillDatas: []
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: 538f8c3a83cd00a4d988d5535a044a07, type: 2}
+  abilities: 050000000f00000011000000
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 04000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 00000000010000000f00000005000000
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

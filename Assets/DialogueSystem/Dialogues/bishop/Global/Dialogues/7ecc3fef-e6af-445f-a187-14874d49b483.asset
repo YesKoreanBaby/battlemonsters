@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f262818b55b0f4418296bad0176bdab, type: 3}
+  m_Name: 7ecc3fef-e6af-445f-a187-14874d49b483
+  m_EditorClassIdentifier: 
+  <DialogueName>k__BackingField: bishop
+  <Text>k__BackingField: 
+  <Choices>k__BackingField:
+  - <Text>k__BackingField: bishop_10
+    <NextDialogue>k__BackingField: {fileID: 11400000, guid: 218500f58f6231e4ea4b9a1e09aa0231, type: 2}
+  - <Text>k__BackingField: bishop_11
+    <NextDialogue>k__BackingField: {fileID: 11400000, guid: 8a8a487c663d77d428f0692bbf2cd0e9, type: 2}
+  - <Text>k__BackingField: bishop_12
+    <NextDialogue>k__BackingField: {fileID: 11400000, guid: 9029c4d36443b5349ae96f513be6c23e, type: 2}
+  - <Text>k__BackingField: bishop_13
+    <NextDialogue>k__BackingField: {fileID: 11400000, guid: 96cc1fb1f50ecb0439ba9f47f2a9171f, type: 2}
+  <DialogueType>k__BackingField: 1
+  <IsStartingDialogue>k__BackingField: 0

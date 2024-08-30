@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: fly
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 964657911709117111, guid: 290bdb3b2257f8f42b54418974659e47, type: 3}
+  battleAIType: 2
+  evolutionType: 0
+  status: 4
+  monsterWeight: 1
+  monsterClass: 1
+  spawnItems: []
+  tranningType: 9
+  dictionaryData: {fileID: 11400000, guid: 07ccb9efd71e5314ba0b5901840071cd, type: 2}
+  hp: 10
+  mp: 10
+  dex: 3.4
+  atk: 12
+  def: 0
+  manaRecoveryRatio: 0.1
+  hpRecoveryRatio: 0.1
+  repeatRatio: 0.25
+  creaticalRatio: 0.1
+  datas:
+  - {fileID: 11400000, guid: 44b04bb6d942ebf49a6c535f63cfef8b, type: 2}
+  percentSkillDatas:
+  - {fileID: 11400000, guid: 1bc2d60fec97dc249ab34ffd86f9ad11, type: 2}
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: 9df7b586b9df94944921a3532c7402e5, type: 2}
+  - {fileID: 11400000, guid: f410754d9d5d1c94b8cf2b72496cc657, type: 2}
+  abilities: 08000000
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 00000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 10000000
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 010000000200000003000000040000000500000006000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

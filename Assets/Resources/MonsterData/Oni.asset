@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: Oni
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 4741770383340351606, guid: 38038cfcf7b6f8141846c6be1bb20e9a, type: 3}
+  battleAIType: 2
+  evolutionType: 0
+  status: 9
+  monsterWeight: 2
+  monsterClass: 2
+  spawnItems: []
+  tranningType: 2
+  dictionaryData: {fileID: 11400000, guid: 8712ac57381548f498fe4b3514e9be09, type: 2}
+  hp: 45
+  mp: 45
+  dex: 4.8
+  atk: 15
+  def: 15
+  manaRecoveryRatio: 0.25
+  hpRecoveryRatio: 0.1
+  repeatRatio: 0.1
+  creaticalRatio: 0.25
+  datas:
+  - {fileID: 11400000, guid: 7a061eec36bfe2d40857ead718ad391c, type: 2}
+  - {fileID: 11400000, guid: da3540712f3f46343bdfe2a062f07257, type: 2}
+  - {fileID: 11400000, guid: c8cf3b2c0a05c5041982d9d9108af891, type: 2}
+  - {fileID: 11400000, guid: 33dbdbb47a4501043b9849e5660e7df5, type: 2}
+  percentSkillDatas: []
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: eba5c618b5a970642b890d0bb6acac46, type: 2}
+  - {fileID: 11400000, guid: 38ec5763a43e37e40a15f7512c3bb6ef, type: 2}
+  abilities: 
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 00000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

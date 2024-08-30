@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a06ce28b585120d4f8c813140b1b22c5, type: 3}
+  m_Name: Synthesis_
+  m_EditorClassIdentifier: 
+  skillName: "\uAD11\uD569\uC131"
+  skillDmageType: '-'
+  skillDmgType: 7
+  targetRange: '-'
+  addEffect: '-'
+  skillIcon: {fileID: 21300000, guid: 37e4e378d4493214e8d36cf46bac4700, type: 3}
+  description: "\uC790\uC5F0\uC758 \uD798\uC73C\uB85C \uC790\uC2E0\uC744 \uCE58\uC720\uD55C\uB2E4."

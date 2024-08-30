@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15b14fa3d9808264b8fe827ed02cbbcc, type: 3}
+  m_Name: elderdragon_
+  m_EditorClassIdentifier: 
+  monsterName: "\uC5D8\uB354 \uB4DC\uB798\uACE4"
+  description: "\uACFC\uAC70 \uB9C8\uC655\uACFC \uD798\uC744 \uC591\uBD84\uD588\uB358\n\uC804\uC124\uC758
+    \uB4DC\uB798\uACE4\n\n\uC624\uB9CC\uBC29\uC790\uD55C \uC131\uACA9 \uB355\uBD84\uC5D0\n\uC5B4\uB290
+    \uD3C9\uBC94\uD55C \uC6A9\uC0AC\uC758\n\uC77C\uACA9\uC5D0 \uC4F0\uB7EC\uC84C\uB2E4.\n"

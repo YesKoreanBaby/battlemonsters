@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: impaler
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 1522634991393691231, guid: 00cf144c8c60d2449a9cfe4ff5bbf6f9, type: 3}
+  battleAIType: 2
+  evolutionType: 0
+  status: 2
+  monsterWeight: 0
+  monsterClass: 1
+  spawnItems: []
+  tranningType: 9
+  dictionaryData: {fileID: 11400000, guid: f295e9e669a26f8448f4a0e55b95032f, type: 2}
+  hp: 20
+  mp: 10
+  dex: 4.2
+  atk: 10
+  def: 10
+  manaRecoveryRatio: 0.25
+  hpRecoveryRatio: 0.25
+  repeatRatio: 0.25
+  creaticalRatio: 0.75
+  datas:
+  - {fileID: 11400000, guid: 0c46f921554befd4d88394ae54abd0c7, type: 2}
+  percentSkillDatas:
+  - {fileID: 11400000, guid: efb747a939aea80439e6d98b7b18d7c5, type: 2}
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: 29afeed6fd49e74408209991cf605d71, type: 2}
+  - {fileID: 11400000, guid: c7cc3a747170ef94b833cdee66844055, type: 2}
+  abilities: 08000000
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 0a000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 000000000100000002000000030000000400000005000000060000000b0000000c0000000d0000000e0000000f000000100000001100000012000000
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

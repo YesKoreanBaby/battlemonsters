@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: iceGiant
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 501451617885522092, guid: 28080085560fa8840ac8d74c605b4998, type: 3}
+  battleAIType: 1
+  evolutionType: 0
+  status: 2
+  monsterWeight: 2
+  monsterClass: 4
+  spawnItems: []
+  tranningType: 4
+  dictionaryData: {fileID: 11400000, guid: 828ba60ac9e154542bf635f14203ec66, type: 2}
+  hp: 45
+  mp: 20
+  dex: 3.6
+  atk: 15
+  def: 15
+  manaRecoveryRatio: 0.1
+  hpRecoveryRatio: 0.1
+  repeatRatio: 0.1
+  creaticalRatio: 0.1
+  datas:
+  - {fileID: 11400000, guid: cc865e9474a6ea34298d72635f2a23f4, type: 2}
+  - {fileID: 11400000, guid: bb41f51596107904291dbd411de16762, type: 2}
+  percentSkillDatas:
+  - {fileID: 11400000, guid: efb747a939aea80439e6d98b7b18d7c5, type: 2}
+  - {fileID: 11400000, guid: e70ca355aa685464e935b5a6af2c5b79, type: 2}
+  triggerSkillDatas: []
+  abilities: 
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 00000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 0100000007000000090000000a0000000b000000
+  possibleSelectDetailTargetTypeDatas: 0100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

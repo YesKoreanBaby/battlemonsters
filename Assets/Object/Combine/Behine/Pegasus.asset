@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40f3705e675e1ff4b8976aa0268e6505, type: 3}
+  m_Name: Pegasus
+  m_EditorClassIdentifier: 
+  combineMonster: {fileID: 11400000, guid: 6fb6cf3d6ab59444ebea6a1188885453, type: 2}
+  monsterDatas:
+  - monsterData: {fileID: 11400000, guid: d945ab916ae773940ab22eb3325feede, type: 2}
+    count: 1
+  - monsterData: {fileID: 11400000, guid: 056a90498969cff469ffae5aad3e68d7, type: 2}
+    count: 1
+  costItemDatas: []
+  consumeItemDatas:
+  - consumeItem: {fileID: 11400000, guid: f2a4d56ebeafb9c4da79decef76948df, type: 2}
+    count: 1

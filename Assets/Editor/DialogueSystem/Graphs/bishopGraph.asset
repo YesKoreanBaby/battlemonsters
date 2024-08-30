@@ -1,0 +1,307 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0202a3095b7477a4091d56344f0af6b3, type: 3}
+  m_Name: bishopGraph
+  m_EditorClassIdentifier: 
+  <FileName>k__BackingField: bishop
+  <Groups>k__BackingField: []
+  <Nodes>k__BackingField:
+  - <ID>k__BackingField: 026ad06f-7b0f-4935-a56b-539a488913e9
+    <Name>k__BackingField: bishop
+    <Text>k__BackingField: bishop_0
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: de93670b-3517-43de-86c3-82b7ce166f42
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 711, y: 361}
+  - <ID>k__BackingField: de93670b-3517-43de-86c3-82b7ce166f42
+    <Name>k__BackingField: bishop
+    <Text>k__BackingField: bishop_1
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 10ccb837-af8b-4c94-99e7-b115eaf775d3
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 1505, y: 361}
+  - <ID>k__BackingField: 10ccb837-af8b-4c94-99e7-b115eaf775d3
+    <Name>k__BackingField: bishop
+    <Text>k__BackingField: bishop_2
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 0527e555-5527-43fe-8d84-c9cb72ba0014
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 2327, y: 377}
+  - <ID>k__BackingField: 0527e555-5527-43fe-8d84-c9cb72ba0014
+    <Name>k__BackingField: bishop
+    <Text>k__BackingField: bishop_3
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 1d2cc701-f2cc-4a06-a828-a8f02098df5c
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 2802, y: 442}
+  - <ID>k__BackingField: 1d2cc701-f2cc-4a06-a828-a8f02098df5c
+    <Name>k__BackingField: bishop
+    <Text>k__BackingField: bishop_4
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: b1c837a4-1da0-4db9-b279-42b458f15e53
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 3230, y: 549}
+  - <ID>k__BackingField: b1c837a4-1da0-4db9-b279-42b458f15e53
+    <Name>k__BackingField: bishop
+    <Text>k__BackingField: bishop_5
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: ccd790ea-01c5-4d82-b6c6-ec5e6fe1b6b0
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 3728, y: 553}
+  - <ID>k__BackingField: ccd790ea-01c5-4d82-b6c6-ec5e6fe1b6b0
+    <Name>k__BackingField: bishop
+    <Text>k__BackingField: Dialogue text.
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: bishop_6
+      <NodeID>k__BackingField: 0e24c8fb-ed98-4b79-9586-8f2b62cb08ac
+    - <Text>k__BackingField: bishop_7
+      <NodeID>k__BackingField: 4a33cfee-2aac-4780-9f76-3c48cc136abc
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 1
+    <Position>k__BackingField: {x: 4563, y: 553}
+  - <ID>k__BackingField: 4a33cfee-2aac-4780-9f76-3c48cc136abc
+    <Name>k__BackingField: bishop
+    <Text>k__BackingField: bishop_9
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 961a5d26-1abf-40a0-8d08-8a3b4637633e
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 5371, y: 802}
+  - <ID>k__BackingField: 2043002a-ef38-4597-8a8c-d470d28a3e92
+    <Name>k__BackingField: bishop
+    <Text>k__BackingField: bishop_15
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: ef048c3f-70e4-4a32-a341-337836170804
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 6830, y: 458}
+  - <ID>k__BackingField: 961a5d26-1abf-40a0-8d08-8a3b4637633e
+    <Name>k__BackingField: bishop
+    <Text>k__BackingField: bishop_14
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 48176bd5-4417-4b84-9443-81184ea05fc4
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 6060, y: 898}
+  - <ID>k__BackingField: 2ab9cf3d-8772-4eee-95aa-e14fb9596988
+    <Name>k__BackingField: bishop
+    <Text>k__BackingField: bishop_19
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 7d78e8bd-0348-484d-8545-8ff491cc36cd
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 8566, y: 526}
+  - <ID>k__BackingField: ef048c3f-70e4-4a32-a341-337836170804
+    <Name>k__BackingField: bishop
+    <Text>k__BackingField: bishop_16
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 2ab9cf3d-8772-4eee-95aa-e14fb9596988
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 7760, y: 526}
+  - <ID>k__BackingField: 48176bd5-4417-4b84-9443-81184ea05fc4
+    <Name>k__BackingField: bishop
+    <Text>k__BackingField: Dialogue text.
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: negotiation
+      <NodeID>k__BackingField: 50d9154f-31c3-417b-932d-7846a3f2fe21
+    - <Text>k__BackingField: breakdown
+      <NodeID>k__BackingField: 
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 1
+    <Position>k__BackingField: {x: 6920, y: 898}
+  - <ID>k__BackingField: 50d9154f-31c3-417b-932d-7846a3f2fe21
+    <Name>k__BackingField: bishop
+    <Text>k__BackingField: bishop_17
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 0dfda324-e9bc-4ca6-9c54-2c0725cc47ed
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 7484, y: 911}
+  - <ID>k__BackingField: e17c2dc5-3a07-45a2-910f-d2adec444014
+    <Name>k__BackingField: bishop
+    <Text>k__BackingField: 18
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 2043002a-ef38-4597-8a8c-d470d28a3e92
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 6087, y: 196}
+  - <ID>k__BackingField: 1e6f4dca-37c4-4933-af71-6a2b69e7a496
+    <Name>k__BackingField: bishop
+    <Text>k__BackingField: 19
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 2043002a-ef38-4597-8a8c-d470d28a3e92
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 6112, y: 420}
+  - <ID>k__BackingField: 20c461c5-f01a-4d2c-bd3f-b49735b70ec5
+    <Name>k__BackingField: bishop
+    <Text>k__BackingField: 21
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 2043002a-ef38-4597-8a8c-d470d28a3e92
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 5831, y: 748}
+  - <ID>k__BackingField: d1bc3137-0a92-47eb-91f5-1c4d4419ca00
+    <Name>k__BackingField: bishop
+    <Text>k__BackingField: 20
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 2043002a-ef38-4597-8a8c-d470d28a3e92
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 6165, y: 680}
+  - <ID>k__BackingField: 0d45d0aa-21e0-490c-a1ab-adcbe7334ffe
+    <Name>k__BackingField: bishop
+    <Text>k__BackingField: Dialogue text.
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: bishop_10
+      <NodeID>k__BackingField: 08522485-0f1c-4f7d-8a3f-4bd951ea83e4
+    - <Text>k__BackingField: bishop_11
+      <NodeID>k__BackingField: 4a7c781f-dd6d-4e9c-a5ea-f1fcfe44d20f
+    - <Text>k__BackingField: bishop_12
+      <NodeID>k__BackingField: 9093783e-b133-4443-ae56-7d74a0e4df21
+    - <Text>k__BackingField: bishop_13
+      <NodeID>k__BackingField: efa9cf7c-70c4-4817-836d-4c38c0cf58df
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 1
+    <Position>k__BackingField: {x: 8202, y: 915}
+  - <ID>k__BackingField: 0dfda324-e9bc-4ca6-9c54-2c0725cc47ed
+    <Name>k__BackingField: bishop
+    <Text>k__BackingField: 22
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 0d45d0aa-21e0-490c-a1ab-adcbe7334ffe
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 7869, y: 977}
+  - <ID>k__BackingField: 7d78e8bd-0348-484d-8545-8ff491cc36cd
+    <Name>k__BackingField: bishop
+    <Text>k__BackingField: bishop_20
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 9163, y: 800}
+  - <ID>k__BackingField: 08522485-0f1c-4f7d-8a3f-4bd951ea83e4
+    <Name>k__BackingField: bishop
+    <Text>k__BackingField: 18
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 7d78e8bd-0348-484d-8545-8ff491cc36cd
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 8697, y: 915}
+  - <ID>k__BackingField: 4a7c781f-dd6d-4e9c-a5ea-f1fcfe44d20f
+    <Name>k__BackingField: bishop
+    <Text>k__BackingField: 19
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 7d78e8bd-0348-484d-8545-8ff491cc36cd
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 8697, y: 1134}
+  - <ID>k__BackingField: 9093783e-b133-4443-ae56-7d74a0e4df21
+    <Name>k__BackingField: bishop
+    <Text>k__BackingField: 20
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 7d78e8bd-0348-484d-8545-8ff491cc36cd
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 8697, y: 1360}
+  - <ID>k__BackingField: efa9cf7c-70c4-4817-836d-4c38c0cf58df
+    <Name>k__BackingField: DialogueName
+    <Text>k__BackingField: 21
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 7d78e8bd-0348-484d-8545-8ff491cc36cd
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 8697, y: 1582}
+  - <ID>k__BackingField: 7ecc3fef-e6af-445f-a187-14874d49b483
+    <Name>k__BackingField: bishop
+    <Text>k__BackingField: 
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: bishop_10
+      <NodeID>k__BackingField: e17c2dc5-3a07-45a2-910f-d2adec444014
+    - <Text>k__BackingField: bishop_11
+      <NodeID>k__BackingField: 1e6f4dca-37c4-4933-af71-6a2b69e7a496
+    - <Text>k__BackingField: bishop_12
+      <NodeID>k__BackingField: d1bc3137-0a92-47eb-91f5-1c4d4419ca00
+    - <Text>k__BackingField: bishop_13
+      <NodeID>k__BackingField: 20c461c5-f01a-4d2c-bd3f-b49735b70ec5
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 1
+    <Position>k__BackingField: {x: 5678, y: 348}
+  - <ID>k__BackingField: 0e24c8fb-ed98-4b79-9586-8f2b62cb08ac
+    <Name>k__BackingField: bishop
+    <Text>k__BackingField: bishop_8
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 7ecc3fef-e6af-445f-a187-14874d49b483
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 5165, y: 420}
+  <OldGroupNames>k__BackingField: []
+  <OldUngroupedNodeNames>k__BackingField:
+  - 026ad06f-7b0f-4935-a56b-539a488913e9
+  - de93670b-3517-43de-86c3-82b7ce166f42
+  - 10ccb837-af8b-4c94-99e7-b115eaf775d3
+  - 0527e555-5527-43fe-8d84-c9cb72ba0014
+  - 1d2cc701-f2cc-4a06-a828-a8f02098df5c
+  - b1c837a4-1da0-4db9-b279-42b458f15e53
+  - ccd790ea-01c5-4d82-b6c6-ec5e6fe1b6b0
+  - 4a33cfee-2aac-4780-9f76-3c48cc136abc
+  - 2043002a-ef38-4597-8a8c-d470d28a3e92
+  - 961a5d26-1abf-40a0-8d08-8a3b4637633e
+  - 2ab9cf3d-8772-4eee-95aa-e14fb9596988
+  - ef048c3f-70e4-4a32-a341-337836170804
+  - 48176bd5-4417-4b84-9443-81184ea05fc4
+  - 50d9154f-31c3-417b-932d-7846a3f2fe21
+  - e17c2dc5-3a07-45a2-910f-d2adec444014
+  - 1e6f4dca-37c4-4933-af71-6a2b69e7a496
+  - 20c461c5-f01a-4d2c-bd3f-b49735b70ec5
+  - d1bc3137-0a92-47eb-91f5-1c4d4419ca00
+  - 0d45d0aa-21e0-490c-a1ab-adcbe7334ffe
+  - 0dfda324-e9bc-4ca6-9c54-2c0725cc47ed
+  - 7d78e8bd-0348-484d-8545-8ff491cc36cd
+  - 08522485-0f1c-4f7d-8a3f-4bd951ea83e4
+  - 4a7c781f-dd6d-4e9c-a5ea-f1fcfe44d20f
+  - 9093783e-b133-4443-ae56-7d74a0e4df21
+  - efa9cf7c-70c4-4817-836d-4c38c0cf58df
+  - 7ecc3fef-e6af-445f-a187-14874d49b483
+  - 0e24c8fb-ed98-4b79-9586-8f2b62cb08ac
+  <OldGroupedNodeNames>k__BackingField:
+    list: []

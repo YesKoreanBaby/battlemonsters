@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15b14fa3d9808264b8fe827ed02cbbcc, type: 3}
+  m_Name: IceFairy_
+  m_EditorClassIdentifier: 
+  monsterName: "\uD398\uC5B4\uB9AC"
+  description: "\uC2E0\uC758 \uC0AC\uB3C4.\n\n\uC120\uD55C \uB9C8\uC74C\uC744 \uAC00\uC9C4
+    \uC0AC\uB78C\uB4E4 \uC55E\uC5D0\n\uB098\uD0C0\uB098 \uADF8\uB4E4\uC744 \uB3C4\uC640\uC900\uB2E4"

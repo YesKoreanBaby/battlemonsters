@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: giantcrawler
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 6805957074507806431, guid: c0916fbd0c170bd4bab5421c425cd195, type: 3}
+  battleAIType: 0
+  evolutionType: 0
+  status: 3
+  monsterWeight: 3
+  monsterClass: 3
+  spawnItems: []
+  tranningType: 4
+  dictionaryData: {fileID: 11400000, guid: 875ef06ffc5050c4882ac3db95d42e45, type: 2}
+  hp: 100
+  mp: 45
+  dex: 4
+  atk: 25
+  def: 5
+  manaRecoveryRatio: 0.25
+  hpRecoveryRatio: 0.5
+  repeatRatio: 0
+  creaticalRatio: 0.25
+  datas:
+  - {fileID: 11400000, guid: 8f72f8a8e21ec404b84abdb56547beb7, type: 2}
+  - {fileID: 11400000, guid: bb41f51596107904291dbd411de16762, type: 2}
+  percentSkillDatas: []
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: 65590ff1ab0783f4ba15242ef3c84457, type: 2}
+  abilities: 030000000a000000
+  confirmSkillPrioritys: 09000000
+  selectDetailTargetTypes: 01000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

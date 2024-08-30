@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: Warog
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 7365164486405915451, guid: 8abaced5863c45140867003f370f84a0, type: 3}
+  battleAIType: 3
+  evolutionType: 0
+  status: 9
+  monsterWeight: 2
+  monsterClass: 3
+  spawnItems: []
+  tranningType: 3
+  dictionaryData: {fileID: 11400000, guid: 8137ff9119a6512488d56928cebcba00, type: 2}
+  hp: 45
+  mp: 20
+  dex: 6
+  atk: 25
+  def: 25
+  manaRecoveryRatio: 0.1
+  hpRecoveryRatio: 0.1
+  repeatRatio: 0
+  creaticalRatio: 0.5
+  datas:
+  - {fileID: 11400000, guid: ba1b32afa7a21f4499b6efbc9e74a63b, type: 2}
+  percentSkillDatas: []
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: 9c7222d19b2daa1489f2c6b324c0159d, type: 2}
+  - {fileID: 11400000, guid: 09e68dc47bbc0f941a4278b27326c1f1, type: 2}
+  abilities: 00000000050000000f00000007000000
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 04000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

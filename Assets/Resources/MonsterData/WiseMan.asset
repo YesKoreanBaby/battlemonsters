@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: WiseMan
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 120367693718703622, guid: a08102e0a1c8df44c91c9c1a3e199ec5, type: 3}
+  battleAIType: 0
+  evolutionType: 0
+  status: 10
+  monsterWeight: 0
+  monsterClass: 2
+  spawnItems: []
+  tranningType: 2
+  dictionaryData: {fileID: 11400000, guid: 192e608732e28d44b8297761ddcf7459, type: 2}
+  hp: 20
+  mp: 45
+  dex: 4.2
+  atk: 1
+  def: 0
+  manaRecoveryRatio: 0.25
+  hpRecoveryRatio: 0.1
+  repeatRatio: 0.1
+  creaticalRatio: 0.1
+  datas:
+  - {fileID: 11400000, guid: ff24b77592916334590e8addb84dcb1c, type: 2}
+  - {fileID: 11400000, guid: 4d737496508e8f44fa9c2ee08bfcd6f4, type: 2}
+  percentSkillDatas:
+  - {fileID: 11400000, guid: 7eb75ae97a57e0241a313eca737e96a4, type: 2}
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: ac5094535e00c874a93cb39331fea663, type: 2}
+  - {fileID: 11400000, guid: bca76567e5fdd6b4db8b204e9d407645, type: 2}
+  - {fileID: 11400000, guid: 8d3eeb973868283488a829a4e52eaae9, type: 2}
+  - {fileID: 11400000, guid: 6e5b48a9aacd2af48b421875ed2e0603, type: 2}
+  abilities: 0d000000
+  confirmSkillPrioritys: 08000000
+  selectDetailTargetTypes: 00000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 0d000000
+  possibleConfirmSkillPriorityDatas: 000000000400000007000000090000000c000000
+  possibleSelectDetailTargetTypeDatas: 0100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 1

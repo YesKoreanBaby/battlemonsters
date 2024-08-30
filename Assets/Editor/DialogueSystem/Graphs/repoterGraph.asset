@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0202a3095b7477a4091d56344f0af6b3, type: 3}
+  m_Name: repoterGraph
+  m_EditorClassIdentifier: 
+  <FileName>k__BackingField: repoter
+  <Groups>k__BackingField: []
+  <Nodes>k__BackingField:
+  - <ID>k__BackingField: 2725927e-9f35-4ca8-8e5a-074e66ce3fb6
+    <Name>k__BackingField: repoter
+    <Text>k__BackingField: Dialogue text.
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: repoter_1
+      <NodeID>k__BackingField: e53be054-550b-4544-94c4-6bf76b912bfc
+    - <Text>k__BackingField: repoter_2
+      <NodeID>k__BackingField: f6dad2a2-1735-4e53-9278-0a9436b0236c
+    - <Text>k__BackingField: repoter_3
+      <NodeID>k__BackingField: 41ea3b87-e91b-4473-ab32-62f25bcd2988
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 1
+    <Position>k__BackingField: {x: 1506, y: 435}
+  - <ID>k__BackingField: e53be054-550b-4544-94c4-6bf76b912bfc
+    <Name>k__BackingField: repoter
+    <Text>k__BackingField: repoter_4
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 4412a233-3892-4fe6-a5cf-411ac94d0ff1
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 1934, y: 188}
+  - <ID>k__BackingField: 4412a233-3892-4fe6-a5cf-411ac94d0ff1
+    <Name>k__BackingField: repoter
+    <Text>k__BackingField: repoter_5
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: f4a70f5d-6bdd-4cf2-9b94-408354454f14
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 2713, y: 188}
+  - <ID>k__BackingField: f4a70f5d-6bdd-4cf2-9b94-408354454f14
+    <Name>k__BackingField: repoter
+    <Text>k__BackingField: 28
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 3540, y: 188}
+  - <ID>k__BackingField: f6dad2a2-1735-4e53-9278-0a9436b0236c
+    <Name>k__BackingField: repoter
+    <Text>k__BackingField: repoter_6
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 0c721378-644a-4750-affd-20a32a69783d
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 2057, y: 594}
+  - <ID>k__BackingField: 0c721378-644a-4750-affd-20a32a69783d
+    <Name>k__BackingField: repoter
+    <Text>k__BackingField: repoter_7
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 30d62895-8e8d-40ff-b4a9-2fdc498885d3
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 2898, y: 594}
+  - <ID>k__BackingField: 30d62895-8e8d-40ff-b4a9-2fdc498885d3
+    <Name>k__BackingField: repoter
+    <Text>k__BackingField: 29
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 3720, y: 610}
+  - <ID>k__BackingField: 32b301b6-3d71-414e-9151-03a00c8d048a
+    <Name>k__BackingField: repoter
+    <Text>k__BackingField: 30
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 3226, y: 1005}
+  - <ID>k__BackingField: 15414de2-7785-4b08-9387-2b837d68f9f0
+    <Name>k__BackingField: repoter
+    <Text>k__BackingField: repoter_0
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 2725927e-9f35-4ca8-8e5a-074e66ce3fb6
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 690, y: 435}
+  - <ID>k__BackingField: 41ea3b87-e91b-4473-ab32-62f25bcd2988
+    <Name>k__BackingField: repoter
+    <Text>k__BackingField: repoter_8
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 32b301b6-3d71-414e-9151-03a00c8d048a
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 2174, y: 959}
+  <OldGroupNames>k__BackingField: []
+  <OldUngroupedNodeNames>k__BackingField:
+  - 2725927e-9f35-4ca8-8e5a-074e66ce3fb6
+  - e53be054-550b-4544-94c4-6bf76b912bfc
+  - 4412a233-3892-4fe6-a5cf-411ac94d0ff1
+  - f4a70f5d-6bdd-4cf2-9b94-408354454f14
+  - f6dad2a2-1735-4e53-9278-0a9436b0236c
+  - 0c721378-644a-4750-affd-20a32a69783d
+  - 30d62895-8e8d-40ff-b4a9-2fdc498885d3
+  - 32b301b6-3d71-414e-9151-03a00c8d048a
+  - 15414de2-7785-4b08-9387-2b837d68f9f0
+  - 41ea3b87-e91b-4473-ab32-62f25bcd2988
+  <OldGroupedNodeNames>k__BackingField:
+    list: []

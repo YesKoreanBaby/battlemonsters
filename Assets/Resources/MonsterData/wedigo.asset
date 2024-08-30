@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: wedigo
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 5228686080354417008, guid: ecedd9e3f3ec2994eb7f1d289e5b828f, type: 3}
+  battleAIType: 0
+  evolutionType: 0
+  status: 9
+  monsterWeight: 0
+  monsterClass: 1
+  spawnItems: []
+  tranningType: 4
+  dictionaryData: {fileID: 11400000, guid: 80c13e88c7deb1a4b81e8c18c937d216, type: 2}
+  hp: 20
+  mp: 20
+  dex: 4.2
+  atk: 5
+  def: 0
+  manaRecoveryRatio: 0.1
+  hpRecoveryRatio: 0.1
+  repeatRatio: -4
+  creaticalRatio: 0
+  datas:
+  - {fileID: 11400000, guid: e81e6c0b856871740bf1a43d986226a2, type: 2}
+  percentSkillDatas:
+  - {fileID: 11400000, guid: 630d12733ab97bb4fa27b4b1d7f72b71, type: 2}
+  - {fileID: 11400000, guid: a88144834becca745a519c21e72c8d57, type: 2}
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: bb726b8725002b742b43566a8eaccc6d, type: 2}
+  abilities: 
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 00000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 1
+  isPocketLock: 0

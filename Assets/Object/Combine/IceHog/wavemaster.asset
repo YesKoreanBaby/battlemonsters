@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40f3705e675e1ff4b8976aa0268e6505, type: 3}
+  m_Name: wavemaster
+  m_EditorClassIdentifier: 
+  combineMonster: {fileID: 11400000, guid: ce96e2a4854b76843b7bbca8c334a13f, type: 2}
+  combineItem: {fileID: 0}
+  monsterDatas:
+  - monsterData: {fileID: 11400000, guid: 93b7f096b23497846b04fcbce63a0d05, type: 2}
+    count: 3
+  - monsterData: {fileID: 11400000, guid: f12dd03eb7f16414b916fe65ae7c1d3c, type: 2}
+    count: 3
+  costItemDatas:
+  - itemType: 2
+    count: 100
+  consumeItemDatas:
+  - consumeItem: {fileID: 11400000, guid: 9ad7635f5e4b0ce47ad433580b21be69, type: 2}
+    count: 1
+  onlyOne: 1

@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0202a3095b7477a4091d56344f0af6b3, type: 3}
+  m_Name: paladin3Graph
+  m_EditorClassIdentifier: 
+  <FileName>k__BackingField: paladin3
+  <Groups>k__BackingField: []
+  <Nodes>k__BackingField:
+  - <ID>k__BackingField: 9c6e7c55-3aa5-47ea-ae1c-c0f235a425ec
+    <Name>k__BackingField: paladin
+    <Text>k__BackingField: paladin3_0
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 3cbf76fd-7117-4a9e-b6f7-089d36e67a0d
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 1336, y: 534}
+  - <ID>k__BackingField: 3cbf76fd-7117-4a9e-b6f7-089d36e67a0d
+    <Name>k__BackingField: paladin
+    <Text>k__BackingField: paladin3_1
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 2d9be9fe-9bb9-4919-be1d-2eae47ae49c3
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 1797, y: 553}
+  - <ID>k__BackingField: 2d9be9fe-9bb9-4919-be1d-2eae47ae49c3
+    <Name>k__BackingField: paladin
+    <Text>k__BackingField: paladin3_2
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: b7f9fe84-6ba8-4eb3-9efd-81328ec4b649
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 2242, y: 549}
+  - <ID>k__BackingField: b7f9fe84-6ba8-4eb3-9efd-81328ec4b649
+    <Name>k__BackingField: paladin
+    <Text>k__BackingField: paladin3_3
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 3212, y: 573}
+  <OldGroupNames>k__BackingField: []
+  <OldUngroupedNodeNames>k__BackingField:
+  - 9c6e7c55-3aa5-47ea-ae1c-c0f235a425ec
+  - 3cbf76fd-7117-4a9e-b6f7-089d36e67a0d
+  - 2d9be9fe-9bb9-4919-be1d-2eae47ae49c3
+  - b7f9fe84-6ba8-4eb3-9efd-81328ec4b649
+  <OldGroupedNodeNames>k__BackingField:
+    list: []

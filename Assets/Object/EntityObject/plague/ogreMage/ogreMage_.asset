@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15b14fa3d9808264b8fe827ed02cbbcc, type: 3}
+  m_Name: ogreMage_
+  m_EditorClassIdentifier: 
+  monsterName: "<b><size=28>\uC624\uC6B0\uAC70\uBA54\uC774\uC9C0"
+  description: "\uB9C8\uBC95\uC0AC\uC9C0\uB9CC \uB2E8\uB2E8\uD55C \uD53C\uC9C0\uAC78\uC744
+    \uAC16\uCDC4\uB2E4"

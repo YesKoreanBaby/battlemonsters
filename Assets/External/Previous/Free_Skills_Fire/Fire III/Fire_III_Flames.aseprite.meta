@@ -1,0 +1,643 @@
+fileFormatVersion: 2
+guid: fc485a794c245bc458c3675cfc61cd82
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Fire_III_Flames_Frame_0
+    originalName: 
+    pivot: {x: 2.4615386, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 190
+      y: 153
+      width: 13
+      height: 3
+    spriteID: 75b4da76863e8cb4ea4a9b31ef499afd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 190, y: 153}
+  - name: Fire_III_Flames_Frame_1
+    originalName: 
+    pivot: {x: 1.3703704, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 190
+      y: 114
+      width: 27
+      height: 31
+    spriteID: da5b8ec2e5973bc4bb7149ddac28096a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 190, y: 114}
+  - name: Fire_III_Flames_Frame_2
+    originalName: 
+    pivot: {x: 1.3571429, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 114
+      width: 28
+      height: 37
+    spriteID: 44dcb8e9828012f48b79425e37da57e6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 121, y: 114}
+  - name: Fire_III_Flames_Frame_3
+    originalName: 
+    pivot: {x: 1.3448277, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 114
+      width: 29
+      height: 39
+    spriteID: fb1b8091736e3ff499446caf47695a26
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: 114}
+  - name: Fire_III_Flames_Frame_4
+    originalName: 
+    pivot: {x: 1.3000001, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 46
+      y: 114
+      width: 30
+      height: 39
+    spriteID: 570c42c63ff408847afdd166ec5aa595
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 114}
+  - name: Fire_III_Flames_Frame_5
+    originalName: 
+    pivot: {x: 11, y: -18.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 211
+      y: 153
+      width: 3
+      height: 2
+    spriteID: bfe28adc14a16cc48ac56ac3761faa41
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 211, y: 153}
+  - name: Fire_III_Flames_Frame_6
+    originalName: 
+    pivot: {x: 1.9166666, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 225
+      y: 141
+      width: 12
+      height: 5
+    spriteID: 06572c2e8f718cc4c91b45258a39c1a2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 225, y: 141}
+  - name: Fire_III_Flames_Frame_7
+    originalName: 
+    pivot: {x: 1.1600001, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 157
+      y: 114
+      width: 25
+      height: 38
+    spriteID: 9974d94f609ed7a47b8aa9b2a6e7ffdb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 157, y: 114}
+  - name: Fire_III_Flames_Frame_8
+    originalName: 
+    pivot: {x: 1.0000001, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 114
+      width: 34
+      height: 42
+    spriteID: 2cd3183c46c884a4fa30f1073d537d65
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 114}
+  - name: Fire_III_Flames_Frame_9
+    originalName: 
+    pivot: {x: 0.94736844, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 214
+      y: 60
+      width: 38
+      height: 44
+    spriteID: e06f4ccdda8540747b7d1f3da1ca29b0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 214, y: 60}
+  - name: Fire_III_Flames_Frame_10
+    originalName: 
+    pivot: {x: 0.9230769, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 167
+      y: 60
+      width: 39
+      height: 43
+    spriteID: dd57cb42f80b7874eb90adb13df8a6de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 167, y: 60}
+  - name: Fire_III_Flames_Frame_11
+    originalName: 
+    pivot: {x: 1.3333334, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 225
+      y: 114
+      width: 21
+      height: 19
+    spriteID: 827c1f66c7ddc4a468ae18fc888563b6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 225, y: 114}
+  - name: Fire_III_Flames_Frame_12
+    originalName: 
+    pivot: {x: 0.4642857, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 164
+      width: 56
+      height: 5
+    spriteID: a9379cfad6656e7408702e42e3087439
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 164}
+  - name: Fire_III_Flames_Frame_13
+    originalName: 
+    pivot: {x: 0.47297296, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 60
+      width: 74
+      height: 37
+    spriteID: a555274a1988b9a4ebe7d4f3ff19de01
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 60}
+  - name: Fire_III_Flames_Frame_14
+    originalName: 
+    pivot: {x: 0.47945204, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 60
+      width: 73
+      height: 46
+    spriteID: 006a18f23e483fe4c852c026c6796232
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 60}
+  - name: Fire_III_Flames_Frame_15
+    originalName: 
+    pivot: {x: 0.50666666, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 86
+      y: 4
+      width: 75
+      height: 47
+    spriteID: 38323a1bfe57db4428b3ce1e14b13ec2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 86, y: 4}
+  - name: Fire_III_Flames_Frame_16
+    originalName: 
+    pivot: {x: 0.5416667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 169
+      y: 4
+      width: 72
+      height: 48
+    spriteID: db8237322980f8c40af3378747294efd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 169, y: 4}
+  - name: Fire_III_Flames_Frame_17
+    originalName: 
+    pivot: {x: 0.5405405, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 74
+      height: 48
+    spriteID: 63f01d63028f45d4a9f7ea6870760350
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 714181325
+    name: Fire_III_Flames
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Fire_III_Flames_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 8
+        y: 0
+        width: 13
+        height: 3
+      spriteId: 75b4da76863e8cb4ea4a9b31ef499afd
+    - name: Fire_III_Flames_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 3
+        y: 0
+        width: 27
+        height: 31
+      spriteId: da5b8ec2e5973bc4bb7149ddac28096a
+    - name: Fire_III_Flames_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 2
+        y: 0
+        width: 28
+        height: 37
+      spriteId: 44dcb8e9828012f48b79425e37da57e6
+    - name: Fire_III_Flames_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 1
+        y: 0
+        width: 29
+        height: 39
+      spriteId: fb1b8091736e3ff499446caf47695a26
+    - name: Fire_III_Flames_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 1
+        y: 0
+        width: 30
+        height: 39
+      spriteId: 570c42c63ff408847afdd166ec5aa595
+    - name: Fire_III_Flames_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 7
+        y: 37
+        width: 3
+        height: 2
+      spriteId: bfe28adc14a16cc48ac56ac3761faa41
+    - name: Fire_III_Flames_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 17
+        y: 0
+        width: 12
+        height: 5
+      spriteId: 06572c2e8f718cc4c91b45258a39c1a2
+    - name: Fire_III_Flames_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 11
+        y: 0
+        width: 25
+        height: 38
+      spriteId: 9974d94f609ed7a47b8aa9b2a6e7ffdb
+    - name: Fire_III_Flames_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 6
+        y: 0
+        width: 34
+        height: 42
+      spriteId: 2cd3183c46c884a4fa30f1073d537d65
+    - name: Fire_III_Flames_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 4
+        y: 0
+        width: 38
+        height: 44
+      spriteId: e06f4ccdda8540747b7d1f3da1ca29b0
+    - name: Fire_III_Flames_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 4
+        y: 0
+        width: 39
+        height: 43
+      spriteId: dd57cb42f80b7874eb90adb13df8a6de
+    - name: Fire_III_Flames_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 12
+        y: 0
+        width: 21
+        height: 19
+      spriteId: 827c1f66c7ddc4a468ae18fc888563b6
+    - name: Fire_III_Flames_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 14
+        y: 0
+        width: 56
+        height: 5
+      spriteId: a9379cfad6656e7408702e42e3087439
+    - name: Fire_III_Flames_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 5
+        y: 0
+        width: 74
+        height: 37
+      spriteId: a555274a1988b9a4ebe7d4f3ff19de01
+    - name: Fire_III_Flames_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 5
+        y: 0
+        width: 73
+        height: 46
+      spriteId: 006a18f23e483fe4c852c026c6796232
+    - name: Fire_III_Flames_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 2
+        y: 0
+        width: 75
+        height: 47
+      spriteId: 38323a1bfe57db4428b3ce1e14b13ec2
+    - name: Fire_III_Flames_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 1
+        y: 0
+        width: 72
+        height: 48
+      spriteId: db8237322980f8c40af3378747294efd
+    - name: Fire_III_Flames_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 0
+        y: 0
+        width: 74
+        height: 48
+      spriteId: 63f01d63028f45d4a9f7ea6870760350
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 80, y: 48}

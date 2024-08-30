@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: treant3
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 120367693718703622, guid: 1e998307cfade254b89f2060bb10e300, type: 3}
+  battleAIType: 0
+  evolutionType: 0
+  status: 6
+  monsterWeight: 2
+  monsterClass: 1
+  spawnItems: []
+  tranningType: 3
+  dictionaryData: {fileID: 11400000, guid: f07a272a7c77858429d6cf99331c1a2a, type: 2}
+  hp: 45
+  mp: 20
+  dex: 4
+  atk: 15
+  def: 5
+  manaRecoveryRatio: 0.25
+  hpRecoveryRatio: 0.25
+  repeatRatio: 0.1
+  creaticalRatio: 0.1
+  datas:
+  - {fileID: 11400000, guid: 8a93abddd41208a44b6c5cc0770b8304, type: 2}
+  percentSkillDatas: []
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: bca76567e5fdd6b4db8b204e9d407645, type: 2}
+  - {fileID: 11400000, guid: 3d671490375d04240b9ced9ae2dba863, type: 2}
+  - {fileID: 11400000, guid: bd2e45c8dba77954cade05e538a9d891, type: 2}
+  abilities: 01000000
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 00000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 0100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

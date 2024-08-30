@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: caaa76378291a144d849f29230be0a5a, type: 3}
+  m_Name: wolf3
+  m_EditorClassIdentifier: 
+  <FileName>k__BackingField: wolf3
+  <DialogueGroups>k__BackingField:
+    list: []
+  <UngroupedDialogues>k__BackingField:
+  - {fileID: 11400000, guid: 93765c6978eccf94cbf397b2f37431c3, type: 2}
+  - {fileID: 11400000, guid: 48c63ad7a90868d49bdf66110d8b2cfe, type: 2}
+  - {fileID: 11400000, guid: 278eef18a02d3e2478984092dace979c, type: 2}
+  - {fileID: 11400000, guid: 06e332dac1c07a943895090a38b46408, type: 2}
+  - {fileID: 11400000, guid: 81dc13531decf72458223182e50f1e72, type: 2}
+  - {fileID: 11400000, guid: 445b8b1c072bd5e45ae4f0d67d055f5b, type: 2}
+  - {fileID: 11400000, guid: b027fa4242ab0ff4f9cb9969494d672f, type: 2}

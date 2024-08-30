@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a06ce28b585120d4f8c813140b1b22c5, type: 3}
+  m_Name: DoubleBarrel_
+  m_EditorClassIdentifier: 
+  skillName: "\uB354\uBE14 \uBC30\uB7F4"
+  skillDmageType: Normal
+  skillDmgType: 0
+  skillEffectType: 4
+  targetRange: short
+  addEffect: "\uD654\uC0C1"
+  skillIcon: {fileID: 21300000, guid: 3eabd64182ce67344a5693fe12f49404, type: 3}
+  description: "\uC6A9\uC554\uC73C\uB85C \uC774\uB8E8\uC5B4\uC9C4 \uAC70\uB300\uD55C
+    \uC190\uBC14\uB2E5\uC774\n\uADFC\uC811\uD55C \uC801\uC5D0\uAC8C \uB0B4\uB824\uCE58\uACE0\n\n\uAC19\uC740
+    \uB77C\uC778\uC5D0 \uC801\uB4E4\uC5D0\uAC8C \uCD94\uAC00 \uD53C\uD574\uB97C \uC785\uD78C\uB2E4\n"

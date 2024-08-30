@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: orcshaman
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 1242305499743981023, guid: 6c92ca6479ae8b0408853242d15c66de, type: 3}
+  battleAIType: 5
+  evolutionType: 0
+  status: 9
+  monsterWeight: 0
+  monsterClass: 1
+  spawnItems: []
+  tranningType: 8
+  dictionaryData: {fileID: 11400000, guid: 39bb05935fc44234e941f677d63c21db, type: 2}
+  hp: 20
+  mp: 45
+  dex: 4.6
+  atk: 15
+  def: 0
+  manaRecoveryRatio: 0.25
+  hpRecoveryRatio: 0.1
+  repeatRatio: 0
+  creaticalRatio: 0
+  datas:
+  - {fileID: 11400000, guid: 7a061eec36bfe2d40857ead718ad391c, type: 2}
+  - {fileID: 11400000, guid: 33dbdbb47a4501043b9849e5660e7df5, type: 2}
+  percentSkillDatas:
+  - {fileID: 11400000, guid: efb747a939aea80439e6d98b7b18d7c5, type: 2}
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: 41b42c054117a2b459841b084d8cf1e5, type: 2}
+  - {fileID: 11400000, guid: bca76567e5fdd6b4db8b204e9d407645, type: 2}
+  - {fileID: 11400000, guid: 6e5b48a9aacd2af48b421875ed2e0603, type: 2}
+  - {fileID: 11400000, guid: cd6d578cfa28da64a92a84b1d8d2a930, type: 2}
+  abilities: 0c000000
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 00000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 0200000001000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

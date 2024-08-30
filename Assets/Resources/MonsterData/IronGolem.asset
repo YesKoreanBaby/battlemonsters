@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: IronGolem
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 120367693718703622, guid: 1f9ebb8eafdd0184d8d992926ede43fe, type: 3}
+  battleAIType: 2
+  evolutionType: 0
+  status: 3
+  monsterWeight: 2
+  monsterClass: 2
+  spawnItems: []
+  tranningType: 3
+  dictionaryData: {fileID: 11400000, guid: e44ef77f9f606c74294be01e45d56569, type: 2}
+  hp: 45
+  mp: 10
+  dex: 5.2
+  atk: 25
+  def: 25
+  manaRecoveryRatio: 0.1
+  hpRecoveryRatio: 0.1
+  repeatRatio: -2
+  creaticalRatio: 0.25
+  datas:
+  - {fileID: 11400000, guid: 4f7ea42ef86d21146a8a0e30d61ec530, type: 2}
+  percentSkillDatas:
+  - {fileID: 11400000, guid: 23ec4a677ddbc19449f45409b7e519ef, type: 2}
+  - {fileID: 11400000, guid: e70ca355aa685464e935b5a6af2c5b79, type: 2}
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: c7cc3a747170ef94b833cdee66844055, type: 2}
+  - {fileID: 11400000, guid: 0c42d34a746cdf744b50a65d4fbd421b, type: 2}
+  abilities: 050000000f000000
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 00000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

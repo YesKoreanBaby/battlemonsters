@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0202a3095b7477a4091d56344f0af6b3, type: 3}
+  m_Name: witch3Graph
+  m_EditorClassIdentifier: 
+  <FileName>k__BackingField: witch3
+  <Groups>k__BackingField: []
+  <Nodes>k__BackingField:
+  - <ID>k__BackingField: b10ceafa-d211-4f4f-a306-0dc4e9e56732
+    <Name>k__BackingField: witch
+    <Text>k__BackingField: Dialogue text.
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: witch3_2
+      <NodeID>k__BackingField: 25fb0d80-6c35-4fcd-af6c-2ea8db99a1d0
+    - <Text>k__BackingField: witch3_3
+      <NodeID>k__BackingField: d7e4305d-cd03-4a8a-ac6e-83d15055cc30
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 1
+    <Position>k__BackingField: {x: 1841, y: 172}
+  - <ID>k__BackingField: 25fb0d80-6c35-4fcd-af6c-2ea8db99a1d0
+    <Name>k__BackingField: witch
+    <Text>k__BackingField: wtich3_4
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: e3a9e5f5-a171-4248-aecc-fb914a60df3b
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 2325, y: 172}
+  - <ID>k__BackingField: e3a9e5f5-a171-4248-aecc-fb914a60df3b
+    <Name>k__BackingField: witch
+    <Text>k__BackingField: witch3_5
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 7701528f-d53d-4591-bb5b-575b4295e6df
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 3152, y: 172}
+  - <ID>k__BackingField: 7701528f-d53d-4591-bb5b-575b4295e6df
+    <Name>k__BackingField: witch
+    <Text>k__BackingField: Dialogue text.
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: negotiation
+      <NodeID>k__BackingField: 7b0b6d59-ef7b-482b-9661-7cfd18e893d8
+    - <Text>k__BackingField: breakdown
+      <NodeID>k__BackingField: d7e4305d-cd03-4a8a-ac6e-83d15055cc30
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 1
+    <Position>k__BackingField: {x: 4011, y: 172}
+  - <ID>k__BackingField: d7e4305d-cd03-4a8a-ac6e-83d15055cc30
+    <Name>k__BackingField: witch
+    <Text>k__BackingField: witch3_8
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 4651, y: 604}
+  - <ID>k__BackingField: 7b0b6d59-ef7b-482b-9661-7cfd18e893d8
+    <Name>k__BackingField: witch
+    <Text>k__BackingField: witch3_6
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 6b671c10-bba0-42f1-8876-da4dab06436a
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 4523, y: 120}
+  - <ID>k__BackingField: 6b671c10-bba0-42f1-8876-da4dab06436a
+    <Name>k__BackingField: witch
+    <Text>k__BackingField: witch3_7
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 3d7be7ed-34f7-49ea-a42b-6a0425876671
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 5431, y: 228}
+  - <ID>k__BackingField: 3d7be7ed-34f7-49ea-a42b-6a0425876671
+    <Name>k__BackingField: witch
+    <Text>k__BackingField: 12
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 5887, y: 303}
+  - <ID>k__BackingField: 5afd7d8f-b030-44a0-925a-07d2f32048a1
+    <Name>k__BackingField: witch
+    <Text>k__BackingField: witch3_0
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: e4eb67f9-4102-4a8f-a454-373826f4e391
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 579, y: 172}
+  - <ID>k__BackingField: e4eb67f9-4102-4a8f-a454-373826f4e391
+    <Name>k__BackingField: witch
+    <Text>k__BackingField: witch3_1
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: b10ceafa-d211-4f4f-a306-0dc4e9e56732
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 1048, y: 172}
+  <OldGroupNames>k__BackingField: []
+  <OldUngroupedNodeNames>k__BackingField:
+  - b10ceafa-d211-4f4f-a306-0dc4e9e56732
+  - 25fb0d80-6c35-4fcd-af6c-2ea8db99a1d0
+  - e3a9e5f5-a171-4248-aecc-fb914a60df3b
+  - 7701528f-d53d-4591-bb5b-575b4295e6df
+  - d7e4305d-cd03-4a8a-ac6e-83d15055cc30
+  - 7b0b6d59-ef7b-482b-9661-7cfd18e893d8
+  - 6b671c10-bba0-42f1-8876-da4dab06436a
+  - 3d7be7ed-34f7-49ea-a42b-6a0425876671
+  - 5afd7d8f-b030-44a0-925a-07d2f32048a1
+  - e4eb67f9-4102-4a8f-a454-373826f4e391
+  <OldGroupedNodeNames>k__BackingField:
+    list: []

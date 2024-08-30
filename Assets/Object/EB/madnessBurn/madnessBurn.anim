@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: madnessBurn
+  serializedVersion: 7
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves:
+  - serializedVersion: 2
+    curve:
+    - time: 0
+      value: {fileID: 21300000, guid: cc32ec8c0f684ec40bc3341d5ddfe0ff, type: 3}
+    - time: 0.083333336
+      value: {fileID: 21300000, guid: 45f51d959decbc846bf7c3daa9d86f8a, type: 3}
+    - time: 0.16666667
+      value: {fileID: 21300000, guid: 2ee31a2ce667c30458fa02240f712bdb, type: 3}
+    - time: 0.25
+      value: {fileID: 21300000, guid: d32bea4f364a61a4699cf94903d4993f, type: 3}
+    - time: 0.33333334
+      value: {fileID: 21300000, guid: ae5bc1d38e80bb4418241e3c3b82d487, type: 3}
+    - time: 0.41666666
+      value: {fileID: 21300000, guid: d2bc30522e675da4da48fdd8fd148bb8, type: 3}
+    - time: 0.5
+      value: {fileID: 21300000, guid: b7716031720a7f84589745bcbc524bc1, type: 3}
+    - time: 0.5833333
+      value: {fileID: 21300000, guid: 5e4b3f1bc67ee1248b4f0611f7c22046, type: 3}
+    - time: 0.6666667
+      value: {fileID: 21300000, guid: a890d6ac1c95ad64b8d34736ebd270c0, type: 3}
+    - time: 0.75
+      value: {fileID: 21300000, guid: 855444fe27ad0b747bcd06a0a6b64248, type: 3}
+    - time: 0.8333333
+      value: {fileID: 21300000, guid: fa5d16ed5e904fc4eb5e98cda31fd841, type: 3}
+    - time: 0.9166667
+      value: {fileID: 21300000, guid: 20dedb41ad87cd8409131636b1991559, type: 3}
+    - time: 1
+      value: {fileID: 21300000, guid: 79675bbdcc154e14d826bd957d08fa31, type: 3}
+    - time: 1.0833334
+      value: {fileID: 0}
+    attribute: m_Sprite
+    path: 
+    classID: 212
+    script: {fileID: 0}
+    flags: 2
+  m_SampleRate: 12
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 0
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    pptrCurveMapping:
+    - {fileID: 21300000, guid: cc32ec8c0f684ec40bc3341d5ddfe0ff, type: 3}
+    - {fileID: 21300000, guid: 45f51d959decbc846bf7c3daa9d86f8a, type: 3}
+    - {fileID: 21300000, guid: 2ee31a2ce667c30458fa02240f712bdb, type: 3}
+    - {fileID: 21300000, guid: d32bea4f364a61a4699cf94903d4993f, type: 3}
+    - {fileID: 21300000, guid: ae5bc1d38e80bb4418241e3c3b82d487, type: 3}
+    - {fileID: 21300000, guid: d2bc30522e675da4da48fdd8fd148bb8, type: 3}
+    - {fileID: 21300000, guid: b7716031720a7f84589745bcbc524bc1, type: 3}
+    - {fileID: 21300000, guid: 5e4b3f1bc67ee1248b4f0611f7c22046, type: 3}
+    - {fileID: 21300000, guid: a890d6ac1c95ad64b8d34736ebd270c0, type: 3}
+    - {fileID: 21300000, guid: 855444fe27ad0b747bcd06a0a6b64248, type: 3}
+    - {fileID: 21300000, guid: fa5d16ed5e904fc4eb5e98cda31fd841, type: 3}
+    - {fileID: 21300000, guid: 20dedb41ad87cd8409131636b1991559, type: 3}
+    - {fileID: 21300000, guid: 79675bbdcc154e14d826bd957d08fa31, type: 3}
+    - {fileID: 0}
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 1.1666667
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 1
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_Events:
+  - time: 0
+    functionName: FireBombExit
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.083333336
+    functionName: PalseSound
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.0833334
+    functionName: Dead
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0

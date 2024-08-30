@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: greendragon
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 6899158603402881675, guid: 6d484e4c0dc89724792effb17c34666e, type: 3}
+  battleAIType: 1
+  evolutionType: 0
+  status: 6
+  monsterWeight: 0
+  monsterClass: 1
+  spawnItems: []
+  tranningType: 0
+  dictionaryData: {fileID: 11400000, guid: 1cb732845777db64c89ca0397582c76c, type: 2}
+  hp: 25
+  mp: 20
+  dex: 4.2
+  atk: 5
+  def: 5
+  manaRecoveryRatio: 0.1
+  hpRecoveryRatio: 0.1
+  repeatRatio: 0.1
+  creaticalRatio: 0.1
+  datas:
+  - {fileID: 11400000, guid: a56bb8b9fc255ef48827b0fc9bc4826a, type: 2}
+  - {fileID: 11400000, guid: 5e423463eb14be943ad32741542fd0d1, type: 2}
+  - {fileID: 11400000, guid: 88980dc21393c1740915fcf20afba846, type: 2}
+  percentSkillDatas: []
+  triggerSkillDatas: []
+  abilities: 
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 00000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas:
+  - {fileID: 11400000, guid: 3d671490375d04240b9ced9ae2dba863, type: 2}
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 07000000090000000a0000000b00000001000000
+  possibleSelectDetailTargetTypeDatas: 0100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000
+  evolutionMonsterData: {fileID: 11400000, guid: 122fde41946fd604bb05be7bb2696dd5, type: 2}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

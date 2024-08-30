@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a06ce28b585120d4f8c813140b1b22c5, type: 3}
+  m_Name: ElectronicNet_
+  m_EditorClassIdentifier: 
+  skillName: "\uC77C\uB809\uD2B8\uB85C\uB2C9 \uB124\uD2B8"
+  skillDmageType: '-'
+  skillDmgType: 7
+  skillEffectType: 13
+  targetRange: '-'
+  addEffect: "\uBD09\uC778(\uC804\uAE30)"
+  skillIcon: {fileID: 21300000, guid: c91a22d33262ae3428748290ab7fceb2, type: 3}
+  description: "\uBC1E\uC740 \uC790\uB294 \uC804\uC790\uAE30\uC7A5\uC5D0 \uAC00\uB46C\uBC84\uB9B0\uB2E4."

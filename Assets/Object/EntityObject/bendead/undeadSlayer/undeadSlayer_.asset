@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15b14fa3d9808264b8fe827ed02cbbcc, type: 3}
+  m_Name: undeadSlayer_
+  m_EditorClassIdentifier: 
+  monsterName: "<b><size=28>\uC5B8\uB370\uB4DC \uC2AC\uB808\uC774\uC5B4"
+  description: "\uC704\uC6A9\uC744 \uB5A8\uCE58\uB358 \uC218\uB9CE\uC740 \uC6A9\uC0AC\uB4E4\uC744
+    \n\uD559\uC0B4\uD558\uC600\uB2E4\uACE0 \uC804\uD574\uC9C4\uB2E4."

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15b14fa3d9808264b8fe827ed02cbbcc, type: 3}
+  m_Name: ancientdragonIII_
+  m_EditorClassIdentifier: 
+  monsterName: "<b><size=24>\uC5D0\uC774\uC158\uD2B8 \uB4DC\uB798\uACE4 III"
+  description: "\uC74C\uC720\uC2DC\uC778\uC5D0 \uC758\uD574 \uAD6C\uC804\uB418\uC5B4\uC628\n\uB178\uB798\uC18D\uC5D0\uC11C\uB9CC
+    \uC874\uC7AC\uD558\uB294\n\uD658\uC0C1\uC758 \uC874\uC7AC"

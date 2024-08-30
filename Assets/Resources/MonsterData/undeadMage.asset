@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: undeadMage
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 6782293586787901749, guid: 23c2a6e79568d7941a2c0bed64554c3f, type: 3}
+  battleAIType: 5
+  evolutionType: 0
+  status: 9
+  monsterWeight: 0
+  monsterClass: 2
+  spawnItems: []
+  tranningType: 10
+  dictionaryData: {fileID: 11400000, guid: bc778458ab6091141a5a3585023404a5, type: 2}
+  hp: 20
+  mp: 45
+  dex: 4.2
+  atk: 3
+  def: 0
+  manaRecoveryRatio: 0.25
+  hpRecoveryRatio: 0.1
+  repeatRatio: 0
+  creaticalRatio: 0
+  datas:
+  - {fileID: 11400000, guid: 076ea1f0ca0582d44a5392ba4ea09202, type: 2}
+  - {fileID: 11400000, guid: 33dbdbb47a4501043b9849e5660e7df5, type: 2}
+  percentSkillDatas:
+  - {fileID: 11400000, guid: a88144834becca745a519c21e72c8d57, type: 2}
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: 06fdecfb9d0a7ab418e2b983c1e3b71b, type: 2}
+  abilities: 10000000
+  confirmSkillPrioritys: 08000000
+  selectDetailTargetTypes: 00000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 08000000
+  possibleSelectDetailTargetTypeDatas: 09000000
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 1
+  isPocketLock: 0

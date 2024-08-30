@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: gorgon
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 4793711079451013563, guid: fca0462bb8bf37b48b013756a9554775, type: 3}
+  battleAIType: 1
+  evolutionType: 0
+  status: 8
+  monsterWeight: 2
+  monsterClass: 1
+  spawnItems: []
+  tranningType: 9
+  dictionaryData: {fileID: 11400000, guid: bb24b5fc8584bc3449db36e85cf5a6cc, type: 2}
+  hp: 45
+  mp: 20
+  dex: 4.4
+  atk: 12
+  def: 5
+  manaRecoveryRatio: 0.1
+  hpRecoveryRatio: 0.1
+  repeatRatio: 0
+  creaticalRatio: 0
+  datas:
+  - {fileID: 11400000, guid: 581f09290613a4b4fac272afb405bb9a, type: 2}
+  percentSkillDatas:
+  - {fileID: 11400000, guid: d759897990443c948b08d5dfd109689f, type: 2}
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: d879a01d6266e5a419cdeb374736c8c7, type: 2}
+  abilities: 0a00000002000000
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 00000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 010000000200000003000000040000000500000006000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

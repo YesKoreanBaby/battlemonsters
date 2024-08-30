@@ -1,0 +1,671 @@
+fileFormatVersion: 2
+guid: 0f1ce5cb9d7b1f14d83e0873e026811b
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: P9 VFX 04 (Magical Boost)_Frame_0
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 27
+      y: 4
+      width: 16
+      height: 16
+    spriteID: 7dd8bfd5ef9a82c4e9d4ed60b45ea50f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 27, y: 4}
+  - name: P9 VFX 04 (Magical Boost)_Frame_2
+    originalName: 
+    pivot: {x: 0.3, y: -0.1875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 51
+      y: 66
+      width: 10
+      height: 16
+    spriteID: 4ee0308cd12844b4ea53fbf0de18f4fe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 51, y: 66}
+  - name: P9 VFX 04 (Magical Boost)_Frame_3
+    originalName: 
+    pivot: {x: 0.35714287, y: -0.1764706}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 27
+      y: 52
+      width: 14
+      height: 17
+    spriteID: a0fabbe6ac1fc6747a8eb85a94d048cf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 27, y: 52}
+  - name: P9 VFX 04 (Magical Boost)_Frame_4
+    originalName: 
+    pivot: {x: 0.4666667, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 82
+      width: 15
+      height: 16
+    spriteID: cc7c496c43feecf4d92f01ab1e2eb3b6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 82}
+  - name: P9 VFX 04 (Magical Boost)_Frame_5
+    originalName: 
+    pivot: {x: 0.4666667, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 106
+      width: 15
+      height: 16
+    spriteID: 59985258af2e1f64b89a3f2ac86cc73a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 106}
+  - name: P9 VFX 04 (Magical Boost)_Frame_6
+    originalName: 
+    pivot: {x: 0.4666667, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 27
+      y: 28
+      width: 15
+      height: 16
+    spriteID: ddd7020192fd73a42bc4093e1b0b1f84
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 27, y: 28}
+  - name: P9 VFX 04 (Magical Boost)_Frame_7
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.2777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 56
+      width: 14
+      height: 18
+    spriteID: 2f9a80ffca1fbe74aa6fdda633bfd252
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 56}
+  - name: P9 VFX 04 (Magical Boost)_Frame_8
+    originalName: 
+    pivot: {x: 0.4666667, y: -0.2777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 15
+      height: 18
+    spriteID: 2cb682295bece324abe5b1dba23b599b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: P9 VFX 04 (Magical Boost)_Frame_9
+    originalName: 
+    pivot: {x: 0.4666667, y: -0.2777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 30
+      width: 15
+      height: 18
+    spriteID: ca1bb4a0034477f4e8a3472dec012e4b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 30}
+  - name: P9 VFX 04 (Magical Boost)_Frame_10
+    originalName: 
+    pivot: {x: 0.4666667, y: -1.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 4
+      width: 15
+      height: 4
+    spriteID: 560f0d281dd225f4fa4a89d8fecf8238
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 96, y: 4}
+  - name: P9 VFX 04 (Magical Boost)_Frame_14
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 75
+      y: 4
+      width: 13
+      height: 10
+    spriteID: 058a73757e606b34a8a1c8454f011fce
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 75, y: 4}
+  - name: P9 VFX 04 (Magical Boost)_Frame_15
+    originalName: 
+    pivot: {x: 0.5333333, y: -0.30769232}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 51
+      y: 26
+      width: 15
+      height: 13
+    spriteID: 9d926102bc600ae41932dc9a6d722736
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 51, y: 26}
+  - name: P9 VFX 04 (Magical Boost)_Frame_16
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.2857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 27
+      y: 77
+      width: 16
+      height: 14
+    spriteID: 1053481a89e1c9f41ad50bbdce18d795
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 27, y: 77}
+  - name: P9 VFX 04 (Magical Boost)_Frame_17
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.2857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 27
+      y: 99
+      width: 16
+      height: 14
+    spriteID: 077cdbc711621e14493304470360533f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 27, y: 99}
+  - name: P9 VFX 04 (Magical Boost)_Frame_18
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.2857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 51
+      y: 4
+      width: 16
+      height: 14
+    spriteID: a4cf6d86dc3c7094e937181d33d8bd59
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 51, y: 4}
+  - name: P9 VFX 04 (Magical Boost)_Frame_19
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.083333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 51
+      y: 90
+      width: 13
+      height: 12
+    spriteID: 8eb351fb77c629b45bfb4b6267b6ae94
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 51, y: 90}
+  - name: P9 VFX 04 (Magical Boost)_Frame_20
+    originalName: 
+    pivot: {x: 0.4666667, y: -0.09090909}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 51
+      y: 47
+      width: 15
+      height: 11
+    spriteID: c9dab87c510864b4fb560ba1932c73ed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 51, y: 47}
+  - name: P9 VFX 04 (Magical Boost)_Frame_21
+    originalName: 
+    pivot: {x: 0.4666667, y: -0.10000001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 51
+      y: 110
+      width: 15
+      height: 10
+    spriteID: 648aa4a1a8f148c4aaba9188428a66e2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 51, y: 110}
+  - name: P9 VFX 04 (Magical Boost)_Frame_22
+    originalName: 
+    pivot: {x: 0.4666667, y: -10}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 27
+      y: 121
+      width: 15
+      height: 1
+    spriteID: d992bd09abfba6f43ad59b0ef4809e39
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 27, y: 121}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1687108917
+    name: P9 VFX 04 (Magical Boost)
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: P9 VFX 04 (Magical Boost)_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 4
+        y: 4
+        width: 16
+        height: 16
+      spriteId: 7dd8bfd5ef9a82c4e9d4ed60b45ea50f
+    - name: P9 VFX 04 (Magical Boost)_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 9
+        y: 3
+        width: 10
+        height: 16
+      spriteId: 4ee0308cd12844b4ea53fbf0de18f4fe
+    - name: P9 VFX 04 (Magical Boost)_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 7
+        y: 3
+        width: 14
+        height: 17
+      spriteId: a0fabbe6ac1fc6747a8eb85a94d048cf
+    - name: P9 VFX 04 (Magical Boost)_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 5
+        y: 4
+        width: 15
+        height: 16
+      spriteId: cc7c496c43feecf4d92f01ab1e2eb3b6
+    - name: P9 VFX 04 (Magical Boost)_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 5
+        y: 4
+        width: 15
+        height: 16
+      spriteId: 59985258af2e1f64b89a3f2ac86cc73a
+    - name: P9 VFX 04 (Magical Boost)_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 5
+        y: 4
+        width: 15
+        height: 16
+      spriteId: ddd7020192fd73a42bc4093e1b0b1f84
+    - name: P9 VFX 04 (Magical Boost)_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 5
+        y: 5
+        width: 14
+        height: 18
+      spriteId: 2f9a80ffca1fbe74aa6fdda633bfd252
+    - name: P9 VFX 04 (Magical Boost)_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 5
+        y: 5
+        width: 15
+        height: 18
+      spriteId: 2cb682295bece324abe5b1dba23b599b
+    - name: P9 VFX 04 (Magical Boost)_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 5
+        y: 5
+        width: 15
+        height: 18
+      spriteId: ca1bb4a0034477f4e8a3472dec012e4b
+    - name: P9 VFX 04 (Magical Boost)_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 5
+        y: 7
+        width: 15
+        height: 4
+      spriteId: 560f0d281dd225f4fa4a89d8fecf8238
+    - name: P9 VFX 04 (Magical Boost)_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 5
+        y: 5
+        width: 13
+        height: 10
+      spriteId: 058a73757e606b34a8a1c8454f011fce
+    - name: P9 VFX 04 (Magical Boost)_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 4
+        y: 4
+        width: 15
+        height: 13
+      spriteId: 9d926102bc600ae41932dc9a6d722736
+    - name: P9 VFX 04 (Magical Boost)_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 4
+        y: 4
+        width: 16
+        height: 14
+      spriteId: 1053481a89e1c9f41ad50bbdce18d795
+    - name: P9 VFX 04 (Magical Boost)_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 4
+        y: 4
+        width: 16
+        height: 14
+      spriteId: 077cdbc711621e14493304470360533f
+    - name: P9 VFX 04 (Magical Boost)_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 4
+        y: 4
+        width: 16
+        height: 14
+      spriteId: a4cf6d86dc3c7094e937181d33d8bd59
+    - name: P9 VFX 04 (Magical Boost)_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 5
+        y: 1
+        width: 13
+        height: 12
+      spriteId: 8eb351fb77c629b45bfb4b6267b6ae94
+    - name: P9 VFX 04 (Magical Boost)_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 5
+        y: 1
+        width: 15
+        height: 11
+      spriteId: c9dab87c510864b4fb560ba1932c73ed
+    - name: P9 VFX 04 (Magical Boost)_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 5
+        y: 1
+        width: 15
+        height: 10
+      spriteId: 648aa4a1a8f148c4aaba9188428a66e2
+    - name: P9 VFX 04 (Magical Boost)_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 5
+        y: 10
+        width: 15
+        height: 1
+      spriteId: d992bd09abfba6f43ad59b0ef4809e39
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 24, y: 24}

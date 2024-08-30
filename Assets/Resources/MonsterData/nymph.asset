@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: nymph
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 8485144701904948115, guid: 63ac64276169f7040b3b22856b4e7c42, type: 3}
+  battleAIType: 0
+  evolutionType: 0
+  status: 0
+  monsterWeight: 1
+  monsterClass: 0
+  spawnItems: []
+  tranningType: 10
+  dictionaryData: {fileID: 11400000, guid: cc68c2574bf15f148b0bfe758f427f2d, type: 2}
+  hp: 10
+  mp: 10
+  dex: 5.2
+  atk: 5
+  def: 0
+  manaRecoveryRatio: 0.1
+  hpRecoveryRatio: 0.1
+  repeatRatio: 0
+  creaticalRatio: 0
+  datas:
+  - {fileID: 11400000, guid: 0c46f921554befd4d88394ae54abd0c7, type: 2}
+  percentSkillDatas: []
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: 3d671490375d04240b9ced9ae2dba863, type: 2}
+  abilities: 
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 00000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 
+  evolutionMonsterData: {fileID: 11400000, guid: edc6f0393edff704d9808be9e4c4d2f3, type: 2}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

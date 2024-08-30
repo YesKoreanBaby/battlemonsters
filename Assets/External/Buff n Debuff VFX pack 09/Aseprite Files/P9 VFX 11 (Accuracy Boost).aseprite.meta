@@ -1,0 +1,671 @@
+fileFormatVersion: 2
+guid: 913d09b888ec28e43bf8a1e9b2165927
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: P9 VFX 11 (Accuracy Boost)_Frame_0
+    originalName: 
+    pivot: {x: 0.5, y: -0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 18
+      height: 18
+    spriteID: 7047b78bde53a824d910ed7b98bc1dab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: P9 VFX 11 (Accuracy Boost)_Frame_2
+    originalName: 
+    pivot: {x: 0.3076923, y: -0.5833333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 55
+      y: 74
+      width: 13
+      height: 12
+    spriteID: f0e40bff53c505f439764409e72e9e2c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 55, y: 74}
+  - name: P9 VFX 11 (Accuracy Boost)_Frame_3
+    originalName: 
+    pivot: {x: 0.41176474, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 30
+      y: 54
+      width: 17
+      height: 16
+    spriteID: cdd687aa763760c47a8a3bf179b7ee48
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 30, y: 54}
+  - name: P9 VFX 11 (Accuracy Boost)_Frame_4
+    originalName: 
+    pivot: {x: 0.44444442, y: -0.1764706}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 30
+      width: 18
+      height: 17
+    spriteID: 7236c1a10d183ab4c8fb6351719d905a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 30}
+  - name: P9 VFX 11 (Accuracy Boost)_Frame_5
+    originalName: 
+    pivot: {x: 0.44444442, y: -0.1764706}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 55
+      width: 18
+      height: 17
+    spriteID: d96dc6a73a67f5c4a8aa256f8046e335
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 55}
+  - name: P9 VFX 11 (Accuracy Boost)_Frame_6
+    originalName: 
+    pivot: {x: 0.44444442, y: -0.1764706}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 80
+      width: 18
+      height: 17
+    spriteID: b548a895577a9e944abe6ca6978f0d72
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 80}
+  - name: P9 VFX 11 (Accuracy Boost)_Frame_7
+    originalName: 
+    pivot: {x: 0.35714287, y: -0.4375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 55
+      y: 27
+      width: 14
+      height: 16
+    spriteID: 02f15264ad54af54eadb599faeaa7326
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 55, y: 27}
+  - name: P9 VFX 11 (Accuracy Boost)_Frame_8
+    originalName: 
+    pivot: {x: 0.43750003, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 30
+      y: 78
+      width: 16
+      height: 15
+    spriteID: 0e3c67cc5b353354a81cf829bfd50f8f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 30, y: 78}
+  - name: P9 VFX 11 (Accuracy Boost)_Frame_9
+    originalName: 
+    pivot: {x: 0.43750003, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 30
+      y: 101
+      width: 16
+      height: 15
+    spriteID: 6de29078c2e0b7e44b617b74debecbed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 30, y: 101}
+  - name: P9 VFX 11 (Accuracy Boost)_Frame_10
+    originalName: 
+    pivot: {x: 0.4666667, y: -11}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 55
+      y: 116
+      width: 15
+      height: 1
+    spriteID: 3a38afd600b2bf64ab9badc9da063942
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 55, y: 116}
+  - name: P9 VFX 11 (Accuracy Boost)_Frame_13
+    originalName: 
+    pivot: {x: 0.5833334, y: -0.45454547}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 98
+      y: 4
+      width: 12
+      height: 11
+    spriteID: c0b46614cb3449c49bc6ade2eb2291d4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 98, y: 4}
+  - name: P9 VFX 11 (Accuracy Boost)_Frame_14
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.26666668}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 55
+      y: 4
+      width: 16
+      height: 15
+    spriteID: 840660d9e4bbd234d8a0cb8d88c054be
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 55, y: 4}
+  - name: P9 VFX 11 (Accuracy Boost)_Frame_15
+    originalName: 
+    pivot: {x: 0.4705882, y: -0.1764706}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 105
+      width: 17
+      height: 17
+    spriteID: 5dfb61b56f48cd54b8459ab2628147a4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 105}
+  - name: P9 VFX 11 (Accuracy Boost)_Frame_16
+    originalName: 
+    pivot: {x: 0.4705882, y: -0.1764706}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 30
+      y: 4
+      width: 17
+      height: 17
+    spriteID: 1f785698e93ca4749bfa539429c7d6b6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 30, y: 4}
+  - name: P9 VFX 11 (Accuracy Boost)_Frame_17
+    originalName: 
+    pivot: {x: 0.4705882, y: -0.1764706}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 30
+      y: 29
+      width: 17
+      height: 17
+    spriteID: 94356410143ba0f4894d270b210d5add
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 30, y: 29}
+  - name: P9 VFX 11 (Accuracy Boost)_Frame_18
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.06666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 55
+      y: 51
+      width: 13
+      height: 15
+    spriteID: 6fb7e97002f9203449edc66a089acadb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 55, y: 51}
+  - name: P9 VFX 11 (Accuracy Boost)_Frame_19
+    originalName: 
+    pivot: {x: 0.6363637, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 55
+      y: 94
+      width: 11
+      height: 14
+    spriteID: 024289015ead408469c40cea7ba9b98d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 55, y: 94}
+  - name: P9 VFX 11 (Accuracy Boost)_Frame_20
+    originalName: 
+    pivot: {x: 0.6363637, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 4
+      width: 11
+      height: 14
+    spriteID: a7b44cc7298b91643b0eac18f452dc97
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 79, y: 4}
+  - name: P9 VFX 11 (Accuracy Boost)_Frame_21
+    originalName: 
+    pivot: {x: 0, y: -11}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 26
+      width: 1
+      height: 1
+    spriteID: b52f92d46cf673b4ba3711cf6cd1eaab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 79, y: 26}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 742829790
+    name: P9 VFX 11 (Accuracy Boost)
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: P9 VFX 11 (Accuracy Boost)_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 3
+        y: 3
+        width: 18
+        height: 18
+      spriteId: 7047b78bde53a824d910ed7b98bc1dab
+    - name: P9 VFX 11 (Accuracy Boost)_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 8
+        y: 7
+        width: 13
+        height: 12
+      spriteId: f0e40bff53c505f439764409e72e9e2c
+    - name: P9 VFX 11 (Accuracy Boost)_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 5
+        y: 4
+        width: 17
+        height: 16
+      spriteId: cdd687aa763760c47a8a3bf179b7ee48
+    - name: P9 VFX 11 (Accuracy Boost)_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 4
+        y: 3
+        width: 18
+        height: 17
+      spriteId: 7236c1a10d183ab4c8fb6351719d905a
+    - name: P9 VFX 11 (Accuracy Boost)_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 4
+        y: 3
+        width: 18
+        height: 17
+      spriteId: d96dc6a73a67f5c4a8aa256f8046e335
+    - name: P9 VFX 11 (Accuracy Boost)_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 4
+        y: 3
+        width: 18
+        height: 17
+      spriteId: b548a895577a9e944abe6ca6978f0d72
+    - name: P9 VFX 11 (Accuracy Boost)_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 7
+        y: 7
+        width: 14
+        height: 16
+      spriteId: 02f15264ad54af54eadb599faeaa7326
+    - name: P9 VFX 11 (Accuracy Boost)_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 5
+        y: 8
+        width: 16
+        height: 15
+      spriteId: 0e3c67cc5b353354a81cf829bfd50f8f
+    - name: P9 VFX 11 (Accuracy Boost)_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 5
+        y: 8
+        width: 16
+        height: 15
+      spriteId: 6de29078c2e0b7e44b617b74debecbed
+    - name: P9 VFX 11 (Accuracy Boost)_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 5
+        y: 11
+        width: 15
+        height: 1
+      spriteId: 3a38afd600b2bf64ab9badc9da063942
+    - name: P9 VFX 11 (Accuracy Boost)_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 5
+        y: 5
+        width: 12
+        height: 11
+      spriteId: c0b46614cb3449c49bc6ade2eb2291d4
+    - name: P9 VFX 11 (Accuracy Boost)_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 4
+        y: 4
+        width: 16
+        height: 15
+      spriteId: 840660d9e4bbd234d8a0cb8d88c054be
+    - name: P9 VFX 11 (Accuracy Boost)_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 4
+        y: 3
+        width: 17
+        height: 17
+      spriteId: 5dfb61b56f48cd54b8459ab2628147a4
+    - name: P9 VFX 11 (Accuracy Boost)_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 4
+        y: 3
+        width: 17
+        height: 17
+      spriteId: 1f785698e93ca4749bfa539429c7d6b6
+    - name: P9 VFX 11 (Accuracy Boost)_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 4
+        y: 3
+        width: 17
+        height: 17
+      spriteId: 94356410143ba0f4894d270b210d5add
+    - name: P9 VFX 11 (Accuracy Boost)_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 5
+        y: 1
+        width: 13
+        height: 15
+      spriteId: 6fb7e97002f9203449edc66a089acadb
+    - name: P9 VFX 11 (Accuracy Boost)_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 5
+        y: 1
+        width: 11
+        height: 14
+      spriteId: 024289015ead408469c40cea7ba9b98d
+    - name: P9 VFX 11 (Accuracy Boost)_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 5
+        y: 1
+        width: 11
+        height: 14
+      spriteId: a7b44cc7298b91643b0eac18f452dc97
+    - name: P9 VFX 11 (Accuracy Boost)_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 12
+        y: 11
+        width: 1
+        height: 1
+      spriteId: b52f92d46cf673b4ba3711cf6cd1eaab
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 24, y: 24}

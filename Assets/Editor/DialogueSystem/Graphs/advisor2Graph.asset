@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0202a3095b7477a4091d56344f0af6b3, type: 3}
+  m_Name: advisor2Graph
+  m_EditorClassIdentifier: 
+  <FileName>k__BackingField: advisor2
+  <Groups>k__BackingField: []
+  <Nodes>k__BackingField:
+  - <ID>k__BackingField: 37f6bb8c-b8ac-4fdb-9625-f195f2416b0e
+    <Name>k__BackingField: advisor
+    <Text>k__BackingField: advisor2_0
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: a5aa08ca-3093-4a37-a5e3-845faeab0b2a
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 575, y: 392}
+  - <ID>k__BackingField: a71d1b7f-e464-4b45-be60-63102761209d
+    <Name>k__BackingField: advisor
+    <Text>k__BackingField: Dialogue text.
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: advisor2_3
+      <NodeID>k__BackingField: 82b0209b-29a6-48f9-a7b1-db8049f6372e
+    - <Text>k__BackingField: advisor2_4
+      <NodeID>k__BackingField: 53b60119-e87b-4eb5-b2d0-d98c8cd7d013
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 1
+    <Position>k__BackingField: {x: 2871, y: 424}
+  - <ID>k__BackingField: 82b0209b-29a6-48f9-a7b1-db8049f6372e
+    <Name>k__BackingField: advisor
+    <Text>k__BackingField: 26
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 3565, y: 194}
+  - <ID>k__BackingField: 53b60119-e87b-4eb5-b2d0-d98c8cd7d013
+    <Name>k__BackingField: advisor
+    <Text>k__BackingField: 10
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 3565, y: 601}
+  - <ID>k__BackingField: a5aa08ca-3093-4a37-a5e3-845faeab0b2a
+    <Name>k__BackingField: advisor
+    <Text>k__BackingField: advisor2_1
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 83784d4f-e394-46b5-bd82-706b01521bbf
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 1443, y: 408}
+  - <ID>k__BackingField: 83784d4f-e394-46b5-bd82-706b01521bbf
+    <Name>k__BackingField: advisor
+    <Text>k__BackingField: advisor2_2
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: a71d1b7f-e464-4b45-be60-63102761209d
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 2345, y: 424}
+  <OldGroupNames>k__BackingField: []
+  <OldUngroupedNodeNames>k__BackingField:
+  - 37f6bb8c-b8ac-4fdb-9625-f195f2416b0e
+  - a71d1b7f-e464-4b45-be60-63102761209d
+  - 82b0209b-29a6-48f9-a7b1-db8049f6372e
+  - 53b60119-e87b-4eb5-b2d0-d98c8cd7d013
+  - a5aa08ca-3093-4a37-a5e3-845faeab0b2a
+  - 83784d4f-e394-46b5-bd82-706b01521bbf
+  <OldGroupedNodeNames>k__BackingField:
+    list: []

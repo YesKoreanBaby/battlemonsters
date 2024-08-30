@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: MagmaGolem
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 120367693718703622, guid: 8a834f9a405830c4c9a7965d87d35194, type: 3}
+  battleAIType: 3
+  evolutionType: 0
+  status: 1
+  monsterWeight: 3
+  monsterClass: 3
+  spawnItems: []
+  tranningType: 3
+  dictionaryData: {fileID: 11400000, guid: 0fce32d5820718a45b209fd0dfa2bf23, type: 2}
+  hp: 100
+  mp: 20
+  dex: 6
+  atk: 25
+  def: 25
+  manaRecoveryRatio: 0.1
+  hpRecoveryRatio: 0.1
+  repeatRatio: 0
+  creaticalRatio: 0.25
+  datas:
+  - {fileID: 11400000, guid: 808198c6ecd70a04583f789dd2bcbc46, type: 2}
+  - {fileID: 11400000, guid: 0d8032c3a9297d94aa93db768a48692d, type: 2}
+  percentSkillDatas: []
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: d6fe155dcf946c142b524a9b2b103c4e, type: 2}
+  - {fileID: 11400000, guid: 09e68dc47bbc0f941a4278b27326c1f1, type: 2}
+  - {fileID: 11400000, guid: 80f5d6787c8f6da41b4c21013ad4d034, type: 2}
+  abilities: 00000000050000000f000000
+  confirmSkillPrioritys: 07000000
+  selectDetailTargetTypes: 04000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

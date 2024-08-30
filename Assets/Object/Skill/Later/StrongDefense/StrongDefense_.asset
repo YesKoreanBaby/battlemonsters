@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a06ce28b585120d4f8c813140b1b22c5, type: 3}
+  m_Name: StrongDefense_
+  m_EditorClassIdentifier: 
+  skillName: "\uCCA0\uBCBD"
+  skillDmageType: '-'
+  skillDmgType: 7
+  targetRange: '-'
+  addEffect: '-'
+  skillIcon: {fileID: 21300000, guid: 04f1045dfb3211e45aa7e1f8be92d156, type: 3}
+  description: "\uAC15\uD55C \uC815\uC2E0\uB825\uC73C\uB85C \uBAA8\uB4E0 \uACF5\uACA9\uC744
+    \uBC1B\uC544\uB0B8\uB2E4."

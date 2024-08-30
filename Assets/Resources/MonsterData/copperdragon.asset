@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: copperdragon
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 76856061494074186, guid: 5e95058eb9ea0ce469c6e3822eb9819f, type: 3}
+  battleAIType: 1
+  evolutionType: 0
+  status: 3
+  monsterWeight: 0
+  monsterClass: 1
+  spawnItems: []
+  tranningType: 0
+  dictionaryData: {fileID: 11400000, guid: 0d4883a5da3aa1f4fa1a301260e6a40a, type: 2}
+  hp: 20
+  mp: 20
+  dex: 4.2
+  atk: 5
+  def: 5
+  manaRecoveryRatio: 0.1
+  hpRecoveryRatio: 0.1
+  repeatRatio: 0.1
+  creaticalRatio: 0.1
+  datas:
+  - {fileID: 11400000, guid: a56bb8b9fc255ef48827b0fc9bc4826a, type: 2}
+  - {fileID: 11400000, guid: 88980dc21393c1740915fcf20afba846, type: 2}
+  - {fileID: 11400000, guid: 19abd5f9c1dfd134996e6267164c9f03, type: 2}
+  percentSkillDatas: []
+  triggerSkillDatas: []
+  abilities: 
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 00000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas:
+  - {fileID: 11400000, guid: e70ca355aa685464e935b5a6af2c5b79, type: 2}
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 0700000009000000010000000a0000000b000000
+  possibleSelectDetailTargetTypeDatas: 0100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000
+  evolutionMonsterData: {fileID: 11400000, guid: c16b99c3dc5b71a4396abe6f35109ac0, type: 2}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

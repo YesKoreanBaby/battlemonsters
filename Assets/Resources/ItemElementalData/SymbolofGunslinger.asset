@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cd084c934ba1ec449b7c624697c8e61, type: 3}
+  m_Name: SymbolofGunslinger
+  m_EditorClassIdentifier: 
+  itemImage: {fileID: 21300000, guid: 9e555808fbeedc741bd11592d489f362, type: 3}
+  effectType: 8
+  tranningType: 0
+  ItemName: "\uAC74\uC2AC\uB9C1\uAC70\uC758 \uC0C1\uC9D5"
+  ItemComment: "\uC77C\uC815 \uD655\uB960\uB85C \uC57C\uC0DD \uBAAC\uC2A4\uD130\uAC00\n\uB3D9\uB8CC\uAC00
+    \uB429\uB2C8\uB2E4."

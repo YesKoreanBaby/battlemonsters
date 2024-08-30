@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: thor
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 3602435212245115614, guid: 812dffc8a611f1142860988d60e962ff, type: 3}
+  battleAIType: 3
+  evolutionType: 0
+  status: 7
+  monsterWeight: 3
+  monsterClass: 3
+  spawnItems: []
+  tranningType: 2
+  dictionaryData: {fileID: 11400000, guid: 45133c46ad1746a4da32ff06735d232d, type: 2}
+  hp: 100
+  mp: 45
+  dex: 5.8
+  atk: 25
+  def: 25
+  manaRecoveryRatio: 0.25
+  hpRecoveryRatio: 0.25
+  repeatRatio: 0
+  creaticalRatio: 0.25
+  datas:
+  - {fileID: 11400000, guid: 8c31b2bd9d67fbd4e8fa6853ebae20e5, type: 2}
+  - {fileID: 11400000, guid: 01655688941502b41b6585225fd4081d, type: 2}
+  percentSkillDatas: []
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: 9c7222d19b2daa1489f2c6b324c0159d, type: 2}
+  abilities: 0000000003000000060000000700000009000000
+  confirmSkillPrioritys: 0b000000
+  selectDetailTargetTypes: 04000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

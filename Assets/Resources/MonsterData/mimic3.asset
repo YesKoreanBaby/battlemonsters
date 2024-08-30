@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: mimic3
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 120367693718703622, guid: 2c659f232bc06c94fa0af78887bab65a, type: 3}
+  battleAIType: 0
+  evolutionType: 0
+  status: 9
+  monsterWeight: 0
+  monsterClass: 0
+  spawnItems:
+  - {fileID: 11400000, guid: bc408d63a2a7788468eb02d697294710, type: 2}
+  - {fileID: 11400000, guid: 7660a741742863f4e9dbaf45678e9da6, type: 2}
+  - {fileID: 11400000, guid: bc408d63a2a7788468eb02d697294710, type: 2}
+  - {fileID: 11400000, guid: 97f492758ad951544b9e7bb33e09d5f6, type: 2}
+  - {fileID: 11400000, guid: 0ee0abf81573e6d4cb0b1a7a7637bcf3, type: 2}
+  - {fileID: 11400000, guid: bc408d63a2a7788468eb02d697294710, type: 2}
+  - {fileID: 11400000, guid: 877572a05e1aa3045941179e596f072b, type: 2}
+  - {fileID: 11400000, guid: 6b4e30ca82cfef244bc4ecf4707525e9, type: 2}
+  tranningType: 0
+  dictionaryData: {fileID: 11400000, guid: 5abf2c5cbdaf29f49903e2e769c0d49b, type: 2}
+  hp: 20
+  mp: 20
+  dex: 5.4
+  atk: 15
+  def: 0
+  manaRecoveryRatio: 0.1
+  hpRecoveryRatio: 0.1
+  repeatRatio: 0.1
+  creaticalRatio: 0.1
+  datas:
+  - {fileID: 11400000, guid: d160e21a3c7514e479989fea58f5fa8c, type: 2}
+  percentSkillDatas:
+  - {fileID: 11400000, guid: e37d393e79c80434dbdb8312c0a21e1b, type: 2}
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: d0c478a2e2f878640b9679bb63e3b6c2, type: 2}
+  - {fileID: 11400000, guid: 9df7b586b9df94944921a3532c7402e5, type: 2}
+  abilities: 04000000
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 00000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

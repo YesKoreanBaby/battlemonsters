@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15b14fa3d9808264b8fe827ed02cbbcc, type: 3}
+  m_Name: greendragonII_
+  m_EditorClassIdentifier: 
+  monsterName: "<b><size=28>\uADF8\uB9B0 \uB4DC\uB798\uACE4 II"
+  description: "\uADF8\uB9B0 \uB4DC\uB798\uACE4\uC758 \uC644\uC804\uCCB4\n\uC232\uC758
+    \uC2E0\uC744 \uB3C4\uC640 \uC790\uC5F0\uC744 \uBCF4\uD638\uD55C\uB2E4."

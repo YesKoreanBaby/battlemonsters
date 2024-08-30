@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: Imp_champion
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 1087257436303757307, guid: 6242ee3e8a27f1747976edf9c7aa1182, type: 3}
+  battleAIType: 0
+  evolutionType: 0
+  status: 9
+  monsterWeight: 0
+  monsterClass: 2
+  spawnItems: []
+  tranningType: 0
+  dictionaryData: {fileID: 11400000, guid: c92b6374643a40d40883f60adfbe13dc, type: 2}
+  hp: 20
+  mp: 45
+  dex: 3.6
+  atk: 3
+  def: 0
+  manaRecoveryRatio: 0.25
+  hpRecoveryRatio: 0.25
+  repeatRatio: 0.25
+  creaticalRatio: 0.1
+  datas:
+  - {fileID: 11400000, guid: e81e6c0b856871740bf1a43d986226a2, type: 2}
+  percentSkillDatas: []
+  triggerSkillDatas: []
+  abilities: 
+  confirmSkillPrioritys: 08000000
+  selectDetailTargetTypes: 00000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 060000000700000009000000010000000a0000000b0000000c000000
+  possibleSelectDetailTargetTypeDatas: 0100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

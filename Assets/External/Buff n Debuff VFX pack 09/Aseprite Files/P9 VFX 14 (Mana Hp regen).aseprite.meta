@@ -1,0 +1,839 @@
+fileFormatVersion: 2
+guid: 5a7d3fa4d512e1e4d8689b558948392b
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: P9 VFX 14 (Mana Hp regen)_Frame_0
+    originalName: 
+    pivot: {x: 0.5, y: -0.41666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 22
+      width: 12
+      height: 12
+    spriteID: 52f0c0609745f4d48af4814cadeb7174
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 22}
+  - name: P9 VFX 14 (Mana Hp regen)_Frame_2
+    originalName: 
+    pivot: {x: 0.5, y: -1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 62
+      width: 6
+      height: 7
+    spriteID: 858288df8daac824d84da74fcc700146
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 62}
+  - name: P9 VFX 14 (Mana Hp regen)_Frame_3
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 42
+      width: 10
+      height: 10
+    spriteID: 9c9e55c15dff8c74e9ce001d4b1fba9f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 42}
+  - name: P9 VFX 14 (Mana Hp regen)_Frame_4
+    originalName: 
+    pivot: {x: 0.5, y: -0.41666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 22
+      width: 12
+      height: 12
+    spriteID: 03f00cb2b65fb8b4aafba4e60ec64c12
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 24, y: 22}
+  - name: P9 VFX 14 (Mana Hp regen)_Frame_5
+    originalName: 
+    pivot: {x: 0.5, y: -0.41666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 44
+      y: 22
+      width: 12
+      height: 12
+    spriteID: 2c6d705591218f846aa08c52c3be96d4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 44, y: 22}
+  - name: P9 VFX 14 (Mana Hp regen)_Frame_6
+    originalName: 
+    pivot: {x: 0.5, y: -0.41666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 22
+      width: 12
+      height: 12
+    spriteID: e0ac0cae2e2fad545b949f571b2983d5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 22}
+  - name: P9 VFX 14 (Mana Hp regen)_Frame_7
+    originalName: 
+    pivot: {x: 0.4545455, y: -0.8000001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 42
+      width: 11
+      height: 10
+    spriteID: ad7893385260c9246978959e7a796ea9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 42}
+  - name: P9 VFX 14 (Mana Hp regen)_Frame_8
+    originalName: 
+    pivot: {x: 0.4666667, y: -0.90000004}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 15
+      height: 10
+    spriteID: 61d01f949989f9a43b12de31ee807588
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: P9 VFX 14 (Mana Hp regen)_Frame_9
+    originalName: 
+    pivot: {x: 0.4666667, y: -1.1111112}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 4
+      width: 15
+      height: 9
+    spriteID: 337d878c984b98b41983a364bd857d26
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 4}
+  - name: P9 VFX 14 (Mana Hp regen)_Frame_10
+    originalName: 
+    pivot: {x: 0.4666667, y: -1.1111112}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 73
+      y: 4
+      width: 15
+      height: 9
+    spriteID: d2992628f8da3124ca1b23cdaba6026c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 73, y: 4}
+  - name: P9 VFX 14 (Mana Hp regen)_Frame_16
+    originalName: 
+    pivot: {x: 0.5, y: -1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 18
+      y: 62
+      width: 6
+      height: 7
+    spriteID: 4d6bb4c2f22dc484094d8f3136966dde
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 18, y: 62}
+  - name: P9 VFX 14 (Mana Hp regen)_Frame_17
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 103
+      y: 42
+      width: 10
+      height: 10
+    spriteID: 6b7a62c71e8b7774dabcea755ab9e88e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 103, y: 42}
+  - name: P9 VFX 14 (Mana Hp regen)_Frame_18
+    originalName: 
+    pivot: {x: 0.5, y: -0.41666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 22
+      width: 12
+      height: 12
+    spriteID: d171ea6597239f845a6a8f933f7223c8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: 22}
+  - name: P9 VFX 14 (Mana Hp regen)_Frame_19
+    originalName: 
+    pivot: {x: 0.5, y: -0.41666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 22
+      width: 12
+      height: 12
+    spriteID: 3d1493adcbfbda8408772c4043a9a015
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 104, y: 22}
+  - name: P9 VFX 14 (Mana Hp regen)_Frame_20
+    originalName: 
+    pivot: {x: 0.5, y: -0.41666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 42
+      width: 12
+      height: 12
+    spriteID: e35f26bed97ef654483c016d9177a9fc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 42}
+  - name: P9 VFX 14 (Mana Hp regen)_Frame_21
+    originalName: 
+    pivot: {x: 0.4545455, y: -0.8000001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 66
+      y: 42
+      width: 11
+      height: 10
+    spriteID: 636146a03b6e7f54e97e6079822eb431
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 66, y: 42}
+  - name: P9 VFX 14 (Mana Hp regen)_Frame_22
+    originalName: 
+    pivot: {x: 0.4666667, y: -0.90000004}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 27
+      y: 4
+      width: 15
+      height: 10
+    spriteID: aba5b7111a9da034ba4fae2239d52dce
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 27, y: 4}
+  - name: P9 VFX 14 (Mana Hp regen)_Frame_23
+    originalName: 
+    pivot: {x: 0.4666667, y: -1.1111112}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 4
+      width: 15
+      height: 9
+    spriteID: 3a1ffb7219b9bc94e9a592d3fca516ed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 96, y: 4}
+  - name: P9 VFX 14 (Mana Hp regen)_Frame_24
+    originalName: 
+    pivot: {x: 0.4666667, y: -1.1111112}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 42
+      width: 15
+      height: 9
+    spriteID: 232bc00c1cf212c4b965c9d8ec0b8db8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 24, y: 42}
+  - name: P9 VFX 14 (Mana Hp regen)_Frame_11
+    originalName: 
+    pivot: {x: 0.4, y: -8.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 62
+      width: 10
+      height: 2
+    spriteID: a31faed585857dc4cbda9ec44c094427
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 32, y: 62}
+  - name: P9 VFX 14 (Mana Hp regen)_Frame_12
+    originalName: 
+    pivot: {x: 0.44444442, y: -8.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 62
+      width: 9
+      height: 2
+    spriteID: 742d3cbe08f66e340a43905f94ec2c4f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 62}
+  - name: P9 VFX 14 (Mana Hp regen)_Frame_13
+    originalName: 
+    pivot: {x: 0.375, y: -18}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 100
+      y: 62
+      width: 8
+      height: 1
+    spriteID: f4d61777a292c1643a3a343bf2b2bca6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 100, y: 62}
+  - name: P9 VFX 14 (Mana Hp regen)_Frame_25
+    originalName: 
+    pivot: {x: 0.33333334, y: -8.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 62
+      width: 9
+      height: 2
+    spriteID: 6d346c0a981fbdf4d904adbba3f2e805
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 62}
+  - name: P9 VFX 14 (Mana Hp regen)_Frame_26
+    originalName: 
+    pivot: {x: 0.375, y: -8.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 62
+      width: 8
+      height: 2
+    spriteID: 135f17f659d23e1469ce2a487c8b0cab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: 62}
+  - name: P9 VFX 14 (Mana Hp regen)_Frame_27
+    originalName: 
+    pivot: {x: 0.375, y: -18}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 116
+      y: 62
+      width: 8
+      height: 1
+    spriteID: cae430ad08bfe2d41904b12571b9c119
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 116, y: 62}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -775824543
+    name: P9 VFX 14 (Mana Hp regen)
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: P9 VFX 14 (Mana Hp regen)_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 6
+        y: 5
+        width: 12
+        height: 12
+      spriteId: 52f0c0609745f4d48af4814cadeb7174
+    - name: P9 VFX 14 (Mana Hp regen)_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 9
+        y: 7
+        width: 6
+        height: 7
+      spriteId: 858288df8daac824d84da74fcc700146
+    - name: P9 VFX 14 (Mana Hp regen)_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 7
+        y: 6
+        width: 10
+        height: 10
+      spriteId: 9c9e55c15dff8c74e9ce001d4b1fba9f
+    - name: P9 VFX 14 (Mana Hp regen)_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 6
+        y: 5
+        width: 12
+        height: 12
+      spriteId: 03f00cb2b65fb8b4aafba4e60ec64c12
+    - name: P9 VFX 14 (Mana Hp regen)_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 6
+        y: 5
+        width: 12
+        height: 12
+      spriteId: 2c6d705591218f846aa08c52c3be96d4
+    - name: P9 VFX 14 (Mana Hp regen)_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 6
+        y: 5
+        width: 12
+        height: 12
+      spriteId: e0ac0cae2e2fad545b949f571b2983d5
+    - name: P9 VFX 14 (Mana Hp regen)_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 7
+        y: 8
+        width: 11
+        height: 10
+      spriteId: ad7893385260c9246978959e7a796ea9
+    - name: P9 VFX 14 (Mana Hp regen)_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 5
+        y: 9
+        width: 15
+        height: 10
+      spriteId: 61d01f949989f9a43b12de31ee807588
+    - name: P9 VFX 14 (Mana Hp regen)_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 5
+        y: 10
+        width: 15
+        height: 9
+      spriteId: 337d878c984b98b41983a364bd857d26
+    - name: P9 VFX 14 (Mana Hp regen)_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 5
+        y: 10
+        width: 15
+        height: 9
+      spriteId: d2992628f8da3124ca1b23cdaba6026c
+    - name: P9 VFX 14 (Mana Hp regen)_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 9
+        y: 7
+        width: 6
+        height: 7
+      spriteId: 4d6bb4c2f22dc484094d8f3136966dde
+    - name: P9 VFX 14 (Mana Hp regen)_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 7
+        y: 6
+        width: 10
+        height: 10
+      spriteId: 6b7a62c71e8b7774dabcea755ab9e88e
+    - name: P9 VFX 14 (Mana Hp regen)_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 6
+        y: 5
+        width: 12
+        height: 12
+      spriteId: d171ea6597239f845a6a8f933f7223c8
+    - name: P9 VFX 14 (Mana Hp regen)_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 6
+        y: 5
+        width: 12
+        height: 12
+      spriteId: 3d1493adcbfbda8408772c4043a9a015
+    - name: P9 VFX 14 (Mana Hp regen)_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 6
+        y: 5
+        width: 12
+        height: 12
+      spriteId: e35f26bed97ef654483c016d9177a9fc
+    - name: P9 VFX 14 (Mana Hp regen)_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 7
+        y: 8
+        width: 11
+        height: 10
+      spriteId: 636146a03b6e7f54e97e6079822eb431
+    - name: P9 VFX 14 (Mana Hp regen)_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 5
+        y: 9
+        width: 15
+        height: 10
+      spriteId: aba5b7111a9da034ba4fae2239d52dce
+    - name: P9 VFX 14 (Mana Hp regen)_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 5
+        y: 10
+        width: 15
+        height: 9
+      spriteId: 3a1ffb7219b9bc94e9a592d3fca516ed
+    - name: P9 VFX 14 (Mana Hp regen)_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 5
+        y: 10
+        width: 15
+        height: 9
+      spriteId: 232bc00c1cf212c4b965c9d8ec0b8db8
+    - name: P9 VFX 14 (Mana Hp regen)_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 8
+        y: 17
+        width: 10
+        height: 2
+      spriteId: a31faed585857dc4cbda9ec44c094427
+    - name: P9 VFX 14 (Mana Hp regen)_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 8
+        y: 17
+        width: 9
+        height: 2
+      spriteId: 742d3cbe08f66e340a43905f94ec2c4f
+    - name: P9 VFX 14 (Mana Hp regen)_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 9
+        y: 18
+        width: 8
+        height: 1
+      spriteId: f4d61777a292c1643a3a343bf2b2bca6
+    - name: P9 VFX 14 (Mana Hp regen)_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 9
+        y: 17
+        width: 9
+        height: 2
+      spriteId: 6d346c0a981fbdf4d904adbba3f2e805
+    - name: P9 VFX 14 (Mana Hp regen)_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 9
+        y: 17
+        width: 8
+        height: 2
+      spriteId: 135f17f659d23e1469ce2a487c8b0cab
+    - name: P9 VFX 14 (Mana Hp regen)_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 9
+        y: 18
+        width: 8
+        height: 1
+      spriteId: cae430ad08bfe2d41904b12571b9c119
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 24, y: 24}

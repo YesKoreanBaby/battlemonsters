@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0202a3095b7477a4091d56344f0af6b3, type: 3}
+  m_Name: DialoguesFileNameGraph
+  m_EditorClassIdentifier: 
+  <FileName>k__BackingField: DialoguesFileName
+  <Groups>k__BackingField: []
+  <Nodes>k__BackingField:
+  - <ID>k__BackingField: 8b88c5e2-6abf-4d76-8539-94296f76095f
+    <Name>k__BackingField: bartender
+    <Text>k__BackingField: Dialogue text.
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: "1.\uD1A0\uD1A0"
+      <NodeID>k__BackingField: 
+    - <Text>k__BackingField: "2.\uB85C\uB610"
+      <NodeID>k__BackingField: 
+    - <Text>k__BackingField: "3.\uC8FC\uC2DD"
+      <NodeID>k__BackingField: 
+    - <Text>k__BackingField: "4.\uB098\uAC00\uAE30"
+      <NodeID>k__BackingField: 
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 1
+    <Position>k__BackingField: {x: 1100, y: 491}
+  - <ID>k__BackingField: bb58eb28-2926-42e9-8dd8-f91938cd2218
+    <Name>k__BackingField: bartender
+    <Text>k__BackingField: "\uBB34\uC5C7\uC774 \uD544\uC694\uD558\uC8E0?"
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 8b88c5e2-6abf-4d76-8539-94296f76095f
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 739, y: 491}
+  <OldGroupNames>k__BackingField: []
+  <OldUngroupedNodeNames>k__BackingField:
+  - 8b88c5e2-6abf-4d76-8539-94296f76095f
+  - bb58eb28-2926-42e9-8dd8-f91938cd2218
+  <OldGroupedNodeNames>k__BackingField:
+    list: []

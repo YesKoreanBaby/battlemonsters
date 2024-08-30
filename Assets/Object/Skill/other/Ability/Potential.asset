@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0736d98153b57c7449e59056610b65f8, type: 3}
+  m_Name: Potential
+  m_EditorClassIdentifier: 
+  abilityName: "\uD3EC\uD150\uC15C"
+  icon: {fileID: 21300000, guid: d3e9c51d73697ff4e9bc15c99d2d5168, type: 3}
+  description: "\uC2E4\uC804\uC5D0\uC11C \uACF5\uACA9\uB825\uC774 \uD3C9\uC18C\uBCF4\uB2E4
+    \uB5A8\uC5B4\uC9C0\uC9C0\uB9CC\n\uD06C\uB9AC\uD2F0\uCEEC \uB370\uBBF8\uC9C0\uB294
+    \uD06C\uAC8C \uC99D\uAC00\uD55C\uB2E4.\n\n\uBAAC\uC2A4\uD130\uB97C \uD314 \uB54C,\n\uAE30\uB300
+    \uAC00\uACA9\uC774 \uB300\uD3ED \uC0C1\uC2B9\uD55C\uB2E4."

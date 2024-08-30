@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8887bcb76b251f442aa92ffce4e953b5, type: 3}
+  m_Name: SummonsMagic_Bishops
+  m_EditorClassIdentifier: 
+  skillName: 113
+  passiveName: 0
+  type: 3
+  status: 9
+  skillDictionary: {fileID: 11400000, guid: b15e8d72ec8164147b461d44cf5a4f1f, type: 2}
+  summonsMonsterDatas:
+  - {fileID: 11400000, guid: ad0522bcad1bf0541aee5a5a8a7cdb0d, type: 2}
+  - {fileID: 11400000, guid: f8aef0a63f0a877499d1082220f559c6, type: 2}
+  - {fileID: 11400000, guid: 9737c441a689da343a0c87aa78cb2467, type: 2}
+  - {fileID: 11400000, guid: 9439ed9465484134490062d6a91c2415, type: 2}
+  shieldCount: 0
+  targetLayer: 1
+  atk: 0
+  consumMpAmount: 8
+  buffValue: 0
+  statusRatio: 0
+  repeatRatio: 0
+  creaticalRatio: 0

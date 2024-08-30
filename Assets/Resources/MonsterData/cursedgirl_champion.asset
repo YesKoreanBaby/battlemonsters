@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: cursedgirl_champion
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 3525644025322436700, guid: 92196ffe1e214a341a2a56cc26dbba99, type: 3}
+  battleAIType: 0
+  evolutionType: 0
+  status: 9
+  monsterWeight: 0
+  monsterClass: 3
+  spawnItems: []
+  tranningType: 0
+  dictionaryData: {fileID: 11400000, guid: a8248770ba88f5f4ea845ad79363201a, type: 2}
+  hp: 20
+  mp: 45
+  dex: 4.4
+  atk: 12
+  def: 0
+  manaRecoveryRatio: 0.25
+  hpRecoveryRatio: 0.1
+  repeatRatio: 0
+  creaticalRatio: 0
+  datas:
+  - {fileID: 11400000, guid: f7eeefc6f1c99fd4c8ea5e4d2409d1ea, type: 2}
+  - {fileID: 11400000, guid: f1cc3bd57ba69d346ac6546559fc02cd, type: 2}
+  - {fileID: 11400000, guid: ba1b32afa7a21f4499b6efbc9e74a63b, type: 2}
+  percentSkillDatas: []
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: 41b42c054117a2b459841b084d8cf1e5, type: 2}
+  abilities: 
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 04000000
+  possibleSkillDatas:
+  - {fileID: 11400000, guid: 82944782b37b6424a9560fbfa9b113a9, type: 2}
+  - {fileID: 11400000, guid: f1cc3bd57ba69d346ac6546559fc02cd, type: 2}
+  possiblePercentSkillDatas:
+  - {fileID: 11400000, guid: a88144834becca745a519c21e72c8d57, type: 2}
+  - {fileID: 11400000, guid: f85c4be6ac487444bba4b5de09039007, type: 2}
+  - {fileID: 11400000, guid: efb747a939aea80439e6d98b7b18d7c5, type: 2}
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 0800000009000000
+  possibleConfirmSkillPriorityDatas: 01000000
+  possibleSelectDetailTargetTypeDatas: 02000000040000000a0000000b0000000c0000000d0000000e0000000f00000010000000
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

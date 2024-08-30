@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15b14fa3d9808264b8fe827ed02cbbcc, type: 3}
+  m_Name: clown_
+  m_EditorClassIdentifier: 
+  monsterName: "\uAD11\uB300"
+  description: "\uC6B4\uC744 \uCAD2\uB294 \uC0AC\uB098\uC774\n\uAC70\uAFB8\uB85C
+    \uBA54\uB2EC\uB824 \uC138\uC0C1\uC744 \uBC14\uB77C\uBCF8\uB2E4."

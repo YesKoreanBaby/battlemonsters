@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0202a3095b7477a4091d56344f0af6b3, type: 3}
+  m_Name: wayfarerGraph
+  m_EditorClassIdentifier: 
+  <FileName>k__BackingField: wayfarer
+  <Groups>k__BackingField: []
+  <Nodes>k__BackingField:
+  - <ID>k__BackingField: a197c44a-3a5f-48d9-9afe-eb92f784d0de
+    <Name>k__BackingField: wayfarer
+    <Text>k__BackingField: wayfarer_1
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 098e30ce-5165-458a-b50b-b804a07c89b0
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 1453, y: 307}
+  - <ID>k__BackingField: 098e30ce-5165-458a-b50b-b804a07c89b0
+    <Name>k__BackingField: wayfarer
+    <Text>k__BackingField: wayfarer_2
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: acf60336-0f36-41fe-b857-9eeb068ab475
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 2364, y: 308}
+  - <ID>k__BackingField: acf60336-0f36-41fe-b857-9eeb068ab475
+    <Name>k__BackingField: wayfarer
+    <Text>k__BackingField: wayfarer_3
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: bbbd8834-52b3-4a05-bc72-b7da1316ceaa
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 2883, y: 308}
+  - <ID>k__BackingField: bbbd8834-52b3-4a05-bc72-b7da1316ceaa
+    <Name>k__BackingField: wayfarer
+    <Text>k__BackingField: wayfarer_4
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 8916a218-bdf4-47b0-9fce-af3c2acac770
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 3349, y: 308}
+  - <ID>k__BackingField: a5869b49-7d4f-4115-943d-05366ff4ef9f
+    <Name>k__BackingField: wayfarer
+    <Text>k__BackingField: wayfarer_0
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: a197c44a-3a5f-48d9-9afe-eb92f784d0de
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 642, y: 307}
+  - <ID>k__BackingField: 8916a218-bdf4-47b0-9fce-af3c2acac770
+    <Name>k__BackingField: wayfarer
+    <Text>k__BackingField: wayfarer_5
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 4327, y: 395}
+  <OldGroupNames>k__BackingField: []
+  <OldUngroupedNodeNames>k__BackingField:
+  - a197c44a-3a5f-48d9-9afe-eb92f784d0de
+  - 098e30ce-5165-458a-b50b-b804a07c89b0
+  - acf60336-0f36-41fe-b857-9eeb068ab475
+  - bbbd8834-52b3-4a05-bc72-b7da1316ceaa
+  - a5869b49-7d4f-4115-943d-05366ff4ef9f
+  - 8916a218-bdf4-47b0-9fce-af3c2acac770
+  <OldGroupedNodeNames>k__BackingField:
+    list: []

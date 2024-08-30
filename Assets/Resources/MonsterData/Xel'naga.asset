@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: Xel'naga
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 7919620230612580698, guid: 0ff10aa5497b61e43ae81665ed8f2b29, type: 3}
+  battleAIType: 0
+  evolutionType: 0
+  status: 10
+  monsterWeight: 0
+  monsterClass: 1
+  spawnItems: []
+  tranningType: 1
+  dictionaryData: {fileID: 11400000, guid: b8afc92dee8b5264f8cf9b399418c5ee, type: 2}
+  hp: 20
+  mp: 45
+  dex: 5
+  atk: 5
+  def: 0
+  manaRecoveryRatio: 0.25
+  hpRecoveryRatio: 0.1
+  repeatRatio: 0
+  creaticalRatio: 0
+  datas:
+  - {fileID: 11400000, guid: bcdd92e4a62bf7344ab799e75a426ca9, type: 2}
+  percentSkillDatas:
+  - {fileID: 11400000, guid: a88144834becca745a519c21e72c8d57, type: 2}
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: 34bc1329be1c8cd43a9cdd1df5d9b18a, type: 2}
+  abilities: 
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 00000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 1

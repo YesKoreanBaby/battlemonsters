@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: Wolf
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 5552447738710042978, guid: 052f328b7ba2399499b1a5765f65e2e6, type: 3}
+  battleAIType: 2
+  evolutionType: 0
+  status: 9
+  monsterWeight: 2
+  monsterClass: 1
+  spawnItems: []
+  tranningType: 0
+  dictionaryData: {fileID: 11400000, guid: 7790829d06fb1aa4ab77cc9cb3070ee3, type: 2}
+  hp: 45
+  mp: 10
+  dex: 4.2
+  atk: 15
+  def: 0
+  manaRecoveryRatio: 0.1
+  hpRecoveryRatio: 0.1
+  repeatRatio: 0.25
+  creaticalRatio: 0.25
+  datas:
+  - {fileID: 11400000, guid: 0c46f921554befd4d88394ae54abd0c7, type: 2}
+  percentSkillDatas:
+  - {fileID: 11400000, guid: 4bc55b3497c4781489d9ee5d1e0b9bd6, type: 2}
+  - {fileID: 11400000, guid: d759897990443c948b08d5dfd109689f, type: 2}
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: 4445a8996c5ab34498aa6f5cd56ed8f4, type: 2}
+  - {fileID: 11400000, guid: f410754d9d5d1c94b8cf2b72496cc657, type: 2}
+  abilities: 07000000060000000800000003000000
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 01000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 0000000002000000030000000400000005000000060000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

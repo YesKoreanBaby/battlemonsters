@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15b14fa3d9808264b8fe827ed02cbbcc, type: 3}
+  m_Name: poisondragon_
+  m_EditorClassIdentifier: 
+  monsterName: "<b><size=28>\uD3EC\uC774\uC98C \uB4DC\uB798\uACE4"
+  description: "\uC0B4\uC544\uB0A8\uAE30 \uC5B4\uB824\uC6B4 \uD658\uACBD\uC5D0\uC11C
+    \n\uB3C5\uAE30\uB97C \uD488\uC740 \uB4DC\uB798\uACE4\uC758\n\uCD5C\uC885 \uC9C4\uD654\uCCB4"

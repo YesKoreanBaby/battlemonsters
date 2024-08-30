@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8887bcb76b251f442aa92ffce4e953b5, type: 3}
+  m_Name: SummonsMagic_Guardian
+  m_EditorClassIdentifier: 
+  skillName: 113
+  passiveName: 0
+  type: 3
+  status: 9
+  skillDictionary: {fileID: 11400000, guid: b15e8d72ec8164147b461d44cf5a4f1f, type: 2}
+  summonsMonsterDatas:
+  - {fileID: 11400000, guid: ad0522bcad1bf0541aee5a5a8a7cdb0d, type: 2}
+  - {fileID: 11400000, guid: f8aef0a63f0a877499d1082220f559c6, type: 2}
+  - {fileID: 11400000, guid: 33d9e588b1d5a084aacf55c94d55a9de, type: 2}
+  - {fileID: 11400000, guid: 33b3371787d91544ca1eb6e6de302f79, type: 2}
+  - {fileID: 11400000, guid: a13c7b9f0341d284a8a1139a9cf0e1d2, type: 2}
+  - {fileID: 11400000, guid: 07e63dde9a4d804438ffa5ac6f79445c, type: 2}
+  - {fileID: 11400000, guid: cb5cbf215d3af2f4199290eaa4de25df, type: 2}
+  - {fileID: 11400000, guid: 9207697263397de4f99f7daa621c080f, type: 2}
+  - {fileID: 11400000, guid: 16602ffba7467b149bf9954003b8f1bc, type: 2}
+  - {fileID: 11400000, guid: 57005b64f3899bc47a4f4be1f80befa4, type: 2}
+  - {fileID: 11400000, guid: 0b5ee52354ee811439c0b92cd8216155, type: 2}
+  - {fileID: 11400000, guid: 674c82f307166e441a34fc350335265e, type: 2}
+  - {fileID: 11400000, guid: a6847ee611215aa438f911aa1dd2b148, type: 2}
+  - {fileID: 11400000, guid: fbd819bd1d4292c488c5b1da6eb235da, type: 2}
+  - {fileID: 11400000, guid: 0f5209ff804013642bee8496f98c9391, type: 2}
+  - {fileID: 11400000, guid: 9439ed9465484134490062d6a91c2415, type: 2}
+  - {fileID: 11400000, guid: d1ce27fbf71b10c4e9122055f623dfbb, type: 2}
+  - {fileID: 11400000, guid: 9ebb965b3271fef46a5265607c9d51bd, type: 2}
+  - {fileID: 11400000, guid: ea5d9d9416e560e41aadfb2ad36ae07b, type: 2}
+  - {fileID: 11400000, guid: a68a4bebc713bc348a2eb38a44b0fa23, type: 2}
+  shieldCount: 0
+  targetLayer: 1
+  atk: 0
+  consumMpAmount: 8
+  buffValue: 0
+  statusRatio: 0
+  repeatRatio: 0
+  creaticalRatio: 0

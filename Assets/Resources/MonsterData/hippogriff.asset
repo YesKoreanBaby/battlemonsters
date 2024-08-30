@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: hippogriff
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 3930627196066395926, guid: 922495b73df177040b6acfd7159d6b37, type: 3}
+  battleAIType: 3
+  evolutionType: 0
+  status: 4
+  monsterWeight: 2
+  monsterClass: 1
+  spawnItems: []
+  tranningType: 10
+  dictionaryData: {fileID: 11400000, guid: 796b8dc99115a6b45ac38a4bf5c8e21c, type: 2}
+  hp: 10
+  mp: 20
+  dex: 4.8
+  atk: 5
+  def: 0
+  manaRecoveryRatio: 0.1
+  hpRecoveryRatio: 0.1
+  repeatRatio: 0.25
+  creaticalRatio: 0.1
+  datas:
+  - {fileID: 11400000, guid: e564c0662415a0d4abfeb414be3a66f6, type: 2}
+  percentSkillDatas: []
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: 06addfa5902bd9c479d7924d4ec3d3b7, type: 2}
+  abilities: 0800000003000000
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 02000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 010000000200000003000000040000000500000006000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

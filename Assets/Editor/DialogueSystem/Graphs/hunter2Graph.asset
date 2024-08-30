@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0202a3095b7477a4091d56344f0af6b3, type: 3}
+  m_Name: hunter2Graph
+  m_EditorClassIdentifier: 
+  <FileName>k__BackingField: hunter2
+  <Groups>k__BackingField: []
+  <Nodes>k__BackingField:
+  - <ID>k__BackingField: 128d8d31-144d-4d06-b4b9-cb7804e80f57
+    <Name>k__BackingField: hunter
+    <Text>k__BackingField: hunter2_0
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 58803127-2057-45ff-b421-e295f85c4be6
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 735, y: 421}
+  - <ID>k__BackingField: 58803127-2057-45ff-b421-e295f85c4be6
+    <Name>k__BackingField: hunter
+    <Text>k__BackingField: hunter2_1
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 1242, y: 557}
+  <OldGroupNames>k__BackingField: []
+  <OldUngroupedNodeNames>k__BackingField:
+  - 128d8d31-144d-4d06-b4b9-cb7804e80f57
+  - 58803127-2057-45ff-b421-e295f85c4be6
+  <OldGroupedNodeNames>k__BackingField:
+    list: []

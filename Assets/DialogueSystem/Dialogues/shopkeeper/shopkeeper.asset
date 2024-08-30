@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: caaa76378291a144d849f29230be0a5a, type: 3}
+  m_Name: shopkeeper
+  m_EditorClassIdentifier: 
+  <FileName>k__BackingField: shopkeeper
+  <DialogueGroups>k__BackingField:
+    list: []
+  <UngroupedDialogues>k__BackingField:
+  - {fileID: 11400000, guid: 42a6ed347ae485b43b9f40b72c8190b1, type: 2}
+  - {fileID: 11400000, guid: dba25b24e50b84e45a99b64d80ecc9e3, type: 2}
+  - {fileID: 11400000, guid: 8dacff3744f4ce4469afe8f6267c70f3, type: 2}
+  - {fileID: 11400000, guid: 39bba62bf381e1748aa731e7c7ad7faf, type: 2}
+  - {fileID: 11400000, guid: f52d5433f8de8094e87fa8724e3cd6a0, type: 2}
+  - {fileID: 11400000, guid: ac84b98d54742c24990a926b82bf3422, type: 2}
+  - {fileID: 11400000, guid: 47c40f4aa9331ef4e887309e3f602ae1, type: 2}
+  - {fileID: 11400000, guid: 69671727423ea6c4aad81d9a0077b7a4, type: 2}
+  - {fileID: 11400000, guid: ba7dd027ba38aee4f8f00a64e364640f, type: 2}
+  - {fileID: 11400000, guid: a78a3facc5f2ea14aaa384356ccdfd36, type: 2}

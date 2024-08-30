@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: Barog
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 2073420545988690974, guid: 7502a48e2270f3b4a882da0697f22dbb, type: 3}
+  battleAIType: 2
+  evolutionType: 0
+  status: 9
+  monsterWeight: 2
+  monsterClass: 3
+  spawnItems: []
+  tranningType: 3
+  dictionaryData: {fileID: 11400000, guid: 9760be84c69898c4aae4e2f454d94b16, type: 2}
+  hp: 45
+  mp: 100
+  dex: 5.4
+  atk: 25
+  def: 25
+  manaRecoveryRatio: 0.25
+  hpRecoveryRatio: 0.1
+  repeatRatio: 0
+  creaticalRatio: 0.5
+  datas:
+  - {fileID: 11400000, guid: f1cc3bd57ba69d346ac6546559fc02cd, type: 2}
+  percentSkillDatas:
+  - {fileID: 11400000, guid: f85c4be6ac487444bba4b5de09039007, type: 2}
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: 80f5d6787c8f6da41b4c21013ad4d034, type: 2}
+  abilities: 000000000f00000005000000060000000b000000
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 0a000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 0200000004000000090000000b0000000c0000000d0000000e0000000f000000100000001100000012000000
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: babyDevil
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 582858413703302600, guid: 718541cc92ae213449aa0128511b12e5, type: 3}
+  battleAIType: 1
+  evolutionType: 0
+  status: 9
+  monsterWeight: 1
+  monsterClass: 0
+  spawnItems: []
+  tranningType: 2
+  dictionaryData: {fileID: 11400000, guid: 6a0c0e8f4dc0356498d315ad40199884, type: 2}
+  hp: 15
+  mp: 45
+  dex: 4.2
+  atk: 5
+  def: 0
+  manaRecoveryRatio: 0.25
+  hpRecoveryRatio: 0.1
+  repeatRatio: 0.1
+  creaticalRatio: 0.1
+  datas:
+  - {fileID: 11400000, guid: a56bb8b9fc255ef48827b0fc9bc4826a, type: 2}
+  - {fileID: 11400000, guid: be8e5e418b17ed449b09496c89800b74, type: 2}
+  - {fileID: 11400000, guid: 44921e3ef2618584fbfe84e999696b3e, type: 2}
+  - {fileID: 11400000, guid: 33dbdbb47a4501043b9849e5660e7df5, type: 2}
+  percentSkillDatas: []
+  triggerSkillDatas: []
+  abilities: 
+  confirmSkillPrioritys: 0b000000
+  selectDetailTargetTypes: 09000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 
+  evolutionMonsterData: {fileID: 11400000, guid: a7b3b763ec976164c960f925de3dd587, type: 2}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

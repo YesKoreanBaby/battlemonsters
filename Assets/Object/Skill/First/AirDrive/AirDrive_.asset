@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a06ce28b585120d4f8c813140b1b22c5, type: 3}
+  m_Name: AirDrive_
+  m_EditorClassIdentifier: 
+  skillName: "\uC5D0\uC5B4\uB4DC\uB77C\uC774\uBE0C"
+  skillDmageType: Normal
+  skillDmgType: 0
+  skillEffectType: 2
+  targetRange: short
+  addEffect: "\uB109\uBC31"
+  skillIcon: {fileID: 21300000, guid: f779349dc9d015b46aa23d1167de8987, type: 3}
+  description: "\uC0C1\uB300\uC5D0\uAC8C \uCDA9\uACA9\uC744 \uB0A0\uB824\uBCF4\uB0B8\uB2E4.\n\uC0C1\uB300\uC640
+    \uC790\uC2E0\uC758 \uAC70\uB9AC\uAC00 \uBA40\uC218\uB85D\n\uC704\uB825\uC774
+    \uC62C\uB77C\uAC04\uB2E4.\n"

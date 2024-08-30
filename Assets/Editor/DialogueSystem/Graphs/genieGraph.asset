@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0202a3095b7477a4091d56344f0af6b3, type: 3}
+  m_Name: genieGraph
+  m_EditorClassIdentifier: 
+  <FileName>k__BackingField: genie
+  <Groups>k__BackingField: []
+  <Nodes>k__BackingField:
+  - <ID>k__BackingField: 99292ba8-e376-4eb4-b9a9-98ed261e202b
+    <Name>k__BackingField: genie
+    <Text>k__BackingField: genie_0
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 02800324-5419-4e3d-8363-6612977ce4b7
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 487, y: 284}
+  - <ID>k__BackingField: 02800324-5419-4e3d-8363-6612977ce4b7
+    <Name>k__BackingField: genie
+    <Text>k__BackingField: genie_1
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: dd2a03af-d35d-41f1-92d0-d840290ac70e
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 1269, y: 284}
+  - <ID>k__BackingField: dd2a03af-d35d-41f1-92d0-d840290ac70e
+    <Name>k__BackingField: genie
+    <Text>k__BackingField: Dialogue text.
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: genie_2
+      <NodeID>k__BackingField: 06e3a26e-b360-44a3-9003-75e32c675407
+    - <Text>k__BackingField: genie_3
+      <NodeID>k__BackingField: 1170ec5a-dbce-4808-aa0d-b542c160db6f
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 1
+    <Position>k__BackingField: {x: 1820, y: 337}
+  - <ID>k__BackingField: 06e3a26e-b360-44a3-9003-75e32c675407
+    <Name>k__BackingField: genie
+    <Text>k__BackingField: genie_4
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: b8c7e080-6caa-4ab5-bf6d-8f888b472c57
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 2391, y: 262}
+  - <ID>k__BackingField: 1170ec5a-dbce-4808-aa0d-b542c160db6f
+    <Name>k__BackingField: genie
+    <Text>k__BackingField: genie_5
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 90874c86-8498-4e61-b928-460206123044
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 2391, y: 559}
+  - <ID>k__BackingField: 90874c86-8498-4e61-b928-460206123044
+    <Name>k__BackingField: genie
+    <Text>k__BackingField: genie_6
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 609e9ba3-938a-48f9-9dcd-1c1bacf51ae9
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 3190, y: 559}
+  - <ID>k__BackingField: b8c7e080-6caa-4ab5-bf6d-8f888b472c57
+    <Name>k__BackingField: genie
+    <Text>k__BackingField: 15
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 2847, y: 336}
+  - <ID>k__BackingField: 609e9ba3-938a-48f9-9dcd-1c1bacf51ae9
+    <Name>k__BackingField: genie
+    <Text>k__BackingField: genie_7
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 6f4aa9c8-d808-4c13-a04e-3d0c48447f92
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 4019, y: 634}
+  - <ID>k__BackingField: 6f4aa9c8-d808-4c13-a04e-3d0c48447f92
+    <Name>k__BackingField: genie
+    <Text>k__BackingField: Dialogue text.
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: genie_8
+      <NodeID>k__BackingField: 131f7501-72be-4c6f-a5ae-e9bab148988a
+    - <Text>k__BackingField: genie_9
+      <NodeID>k__BackingField: dd2a03af-d35d-41f1-92d0-d840290ac70e
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 1
+    <Position>k__BackingField: {x: 2729, y: 1194}
+  - <ID>k__BackingField: 7d855d9b-74d1-49d4-849a-9865ae4aec84
+    <Name>k__BackingField: DialogueName
+    <Text>k__BackingField: 16
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 3678, y: 1194}
+  - <ID>k__BackingField: 131f7501-72be-4c6f-a5ae-e9bab148988a
+    <Name>k__BackingField: genie
+    <Text>k__BackingField: genie_10
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 7d855d9b-74d1-49d4-849a-9865ae4aec84
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 3269, y: 1311}
+  <OldGroupNames>k__BackingField: []
+  <OldUngroupedNodeNames>k__BackingField:
+  - 99292ba8-e376-4eb4-b9a9-98ed261e202b
+  - 02800324-5419-4e3d-8363-6612977ce4b7
+  - dd2a03af-d35d-41f1-92d0-d840290ac70e
+  - 06e3a26e-b360-44a3-9003-75e32c675407
+  - 1170ec5a-dbce-4808-aa0d-b542c160db6f
+  - 90874c86-8498-4e61-b928-460206123044
+  - b8c7e080-6caa-4ab5-bf6d-8f888b472c57
+  - 609e9ba3-938a-48f9-9dcd-1c1bacf51ae9
+  - 6f4aa9c8-d808-4c13-a04e-3d0c48447f92
+  - 7d855d9b-74d1-49d4-849a-9865ae4aec84
+  - 131f7501-72be-4c6f-a5ae-e9bab148988a
+  <OldGroupedNodeNames>k__BackingField:
+    list: []

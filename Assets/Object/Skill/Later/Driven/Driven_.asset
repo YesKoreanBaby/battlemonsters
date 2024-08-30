@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a06ce28b585120d4f8c813140b1b22c5, type: 3}
+  m_Name: Driven_
+  m_EditorClassIdentifier: 
+  skillName: "\uBC18\uACA9"
+  skillDmageType: "\uACF5\uACA9\uB825 + \uC2A4\uD0AC \uACF5\uACA9\uB825"
+  skillDmgType: 7
+  targetRange: '-'
+  addEffect: '-'
+  skillIcon: {fileID: 21300000, guid: b92f27f9c3b3d2a418da71174b3a2139, type: 3}
+  description: "\uBC1C\uB3D9 \uC2DC 3\uD134\uAE4C\uC9C0 \uADFC\uC811\uACF5\uACA9\uC744
+    \uBC1B\uC744\uACBD\uC6B0\n\uC0C1\uB300\uC758 \uACF5\uACA9\uC5D0 \uB300\uD56D\uD55C\uB2E4."

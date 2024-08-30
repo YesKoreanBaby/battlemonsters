@@ -1,0 +1,157 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4509233769300884984
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1658861819610295369}
+  - component: {fileID: 8085962094638153589}
+  m_Layer: 0
+  m_Name: HolyArrowParent
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1658861819610295369
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4509233769300884984}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4359144554725478985}
+  - {fileID: 1594471577189268291}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8085962094638153589
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4509233769300884984}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce7fd4c897367094d9535b8db96d5be4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveSpeed: 6
+  endPoint: {fileID: 1594471577189268291}
+  obj: {fileID: 7056649208074725840}
+  skillData: {fileID: 0}
+  player: {fileID: 0}
+--- !u!1 &4786918908100952858
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1594471577189268291}
+  m_Layer: 0
+  m_Name: end
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1594471577189268291
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4786918908100952858}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 2, y: -2.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1658861819610295369}
+  m_RootOrder: -1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &3400885655728476055
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1658861819610295369}
+    m_Modifications:
+    - target: {fileID: 1390650883332070878, guid: 8f6f2f4956f790a41b53ebe5ab750d0a, type: 3}
+      propertyPath: m_RootOrder
+      value: 19
+      objectReference: {fileID: 0}
+    - target: {fileID: 1390650883332070878, guid: 8f6f2f4956f790a41b53ebe5ab750d0a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1390650883332070878, guid: 8f6f2f4956f790a41b53ebe5ab750d0a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1390650883332070878, guid: 8f6f2f4956f790a41b53ebe5ab750d0a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1390650883332070878, guid: 8f6f2f4956f790a41b53ebe5ab750d0a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.91343904
+      objectReference: {fileID: 0}
+    - target: {fileID: 1390650883332070878, guid: 8f6f2f4956f790a41b53ebe5ab750d0a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1390650883332070878, guid: 8f6f2f4956f790a41b53ebe5ab750d0a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1390650883332070878, guid: 8f6f2f4956f790a41b53ebe5ab750d0a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.40697575
+      objectReference: {fileID: 0}
+    - target: {fileID: 1390650883332070878, guid: 8f6f2f4956f790a41b53ebe5ab750d0a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1390650883332070878, guid: 8f6f2f4956f790a41b53ebe5ab750d0a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1390650883332070878, guid: 8f6f2f4956f790a41b53ebe5ab750d0a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -48.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 6257120103533265735, guid: 8f6f2f4956f790a41b53ebe5ab750d0a, type: 3}
+      propertyPath: m_Name
+      value: HolyArrow
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 102443185840107755, guid: 8f6f2f4956f790a41b53ebe5ab750d0a, type: 3}
+    - {fileID: 3184308349578066742, guid: 8f6f2f4956f790a41b53ebe5ab750d0a, type: 3}
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8f6f2f4956f790a41b53ebe5ab750d0a, type: 3}
+--- !u!4 &4359144554725478985 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1390650883332070878, guid: 8f6f2f4956f790a41b53ebe5ab750d0a, type: 3}
+  m_PrefabInstance: {fileID: 3400885655728476055}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &7056649208074725840 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 5682450283615954503, guid: 8f6f2f4956f790a41b53ebe5ab750d0a, type: 3}
+  m_PrefabInstance: {fileID: 3400885655728476055}
+  m_PrefabAsset: {fileID: 0}

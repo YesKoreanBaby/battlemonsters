@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: Yeti
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 921816814858793621, guid: 8ef896512eb37ef46a0c4512678a9576, type: 3}
+  battleAIType: 0
+  evolutionType: 0
+  status: 2
+  monsterWeight: 2
+  monsterClass: 2
+  spawnItems: []
+  tranningType: 0
+  dictionaryData: {fileID: 11400000, guid: f9aadf975e13cbb498a53264eee538d0, type: 2}
+  hp: 45
+  mp: 20
+  dex: 4.8
+  atk: 15
+  def: 0
+  manaRecoveryRatio: 0.25
+  hpRecoveryRatio: 0.1
+  repeatRatio: 0
+  creaticalRatio: 0
+  datas:
+  - {fileID: 11400000, guid: 8f26a5301fa74c74c939b1ff785ea88e, type: 2}
+  - {fileID: 11400000, guid: be8e5e418b17ed449b09496c89800b74, type: 2}
+  percentSkillDatas:
+  - {fileID: 11400000, guid: 39a3c67205a3ea542a67366726363a5d, type: 2}
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: 82aab4677ddeb3241b37c99dedc93c84, type: 2}
+  - {fileID: 11400000, guid: 29afeed6fd49e74408209991cf605d71, type: 2}
+  abilities: 0c000000
+  confirmSkillPrioritys: 08000000
+  selectDetailTargetTypes: 00000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 0c00000001000000
+  possibleSelectDetailTargetTypeDatas: 0500000006000000
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

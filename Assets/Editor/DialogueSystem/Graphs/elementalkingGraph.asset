@@ -1,0 +1,165 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0202a3095b7477a4091d56344f0af6b3, type: 3}
+  m_Name: elementalkingGraph
+  m_EditorClassIdentifier: 
+  <FileName>k__BackingField: elementalking
+  <Groups>k__BackingField: []
+  <Nodes>k__BackingField:
+  - <ID>k__BackingField: f0edbf6f-2bf4-4064-81f6-d8cb90923072
+    <Name>k__BackingField: elementalking
+    <Text>k__BackingField: elementalking_1
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 26dca01d-c33b-4f70-aa16-556f7f4035b8
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 1600, y: 510}
+  - <ID>k__BackingField: ebc9977c-be6f-4782-8af7-0b85526c3ff0
+    <Name>k__BackingField: elementalking
+    <Text>k__BackingField: elementalking_3
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 7ec2decc-2060-4792-9adc-4565766f4e7e
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 1634, y: 842}
+  - <ID>k__BackingField: 25253645-0a57-4457-97ad-77db5c2d8352
+    <Name>k__BackingField: elementalking
+    <Text>k__BackingField: elementalking_6
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 191a3d3d-cbd3-4bc0-a658-e0a09443890f
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 3067, y: 938}
+  - <ID>k__BackingField: 72fa79dd-64a5-4899-845d-0e0f70fc7985
+    <Name>k__BackingField: elementalking
+    <Text>k__BackingField: elementalking_0
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 2c4a9034-6e30-4098-80b3-de1da6bcd7e0
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: -202, y: 559}
+  - <ID>k__BackingField: 7ec2decc-2060-4792-9adc-4565766f4e7e
+    <Name>k__BackingField: elementalking
+    <Text>k__BackingField: elementalking_4
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: c77b0fa1-e844-44a4-9b0a-9dbf61004e13
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 2136, y: 938}
+  - <ID>k__BackingField: c77b0fa1-e844-44a4-9b0a-9dbf61004e13
+    <Name>k__BackingField: elementalking
+    <Text>k__BackingField: elementalking_5
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 25253645-0a57-4457-97ad-77db5c2d8352
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 2626, y: 938}
+  - <ID>k__BackingField: 2c4a9034-6e30-4098-80b3-de1da6bcd7e0
+    <Name>k__BackingField: elementalking
+    <Text>k__BackingField: 25
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: f0edbf6f-2bf4-4064-81f6-d8cb90923072
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: 02a19ba7-2761-4e6c-b819-2a47cd29342c
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 1
+    <Position>k__BackingField: {x: 348, y: 578}
+  - <ID>k__BackingField: 02a19ba7-2761-4e6c-b819-2a47cd29342c
+    <Name>k__BackingField: elementalking
+    <Text>k__BackingField: 35
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: 06d90930-5dda-4dbc-a084-bd9b0d2c353d
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: b150f9b5-15ff-4bf9-a8c3-f9e5e8a36ab3
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 1
+    <Position>k__BackingField: {x: 726, y: 819}
+  - <ID>k__BackingField: b150f9b5-15ff-4bf9-a8c3-f9e5e8a36ab3
+    <Name>k__BackingField: elementalking
+    <Text>k__BackingField: elementalking_2
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: ebc9977c-be6f-4782-8af7-0b85526c3ff0
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 1221, y: 819}
+  - <ID>k__BackingField: 50a0f82a-8fd9-4890-b3ca-7c41a6f2a865
+    <Name>k__BackingField: elementalking
+    <Text>k__BackingField: elementalking_10
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 26dca01d-c33b-4f70-aa16-556f7f4035b8
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 2236, y: 1307}
+  - <ID>k__BackingField: 26dca01d-c33b-4f70-aa16-556f7f4035b8
+    <Name>k__BackingField: elementalking
+    <Text>k__BackingField: 10
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 2445, y: 510}
+  - <ID>k__BackingField: 191a3d3d-cbd3-4bc0-a658-e0a09443890f
+    <Name>k__BackingField: elementalking
+    <Text>k__BackingField: elementalking_7
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 3996, y: 953}
+  - <ID>k__BackingField: 06d90930-5dda-4dbc-a084-bd9b0d2c353d
+    <Name>k__BackingField: elementalking
+    <Text>k__BackingField: elementalking_8
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: d7c3480a-f047-4cbd-9c2d-8bf6f0d5783e
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 1210, y: 1141}
+  - <ID>k__BackingField: d7c3480a-f047-4cbd-9c2d-8bf6f0d5783e
+    <Name>k__BackingField: elementalking
+    <Text>k__BackingField: elementalking_9
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 50a0f82a-8fd9-4890-b3ca-7c41a6f2a865
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 1712, y: 1230}
+  <OldGroupNames>k__BackingField: []
+  <OldUngroupedNodeNames>k__BackingField:
+  - f0edbf6f-2bf4-4064-81f6-d8cb90923072
+  - ebc9977c-be6f-4782-8af7-0b85526c3ff0
+  - 25253645-0a57-4457-97ad-77db5c2d8352
+  - 72fa79dd-64a5-4899-845d-0e0f70fc7985
+  - 7ec2decc-2060-4792-9adc-4565766f4e7e
+  - c77b0fa1-e844-44a4-9b0a-9dbf61004e13
+  - 2c4a9034-6e30-4098-80b3-de1da6bcd7e0
+  - 02a19ba7-2761-4e6c-b819-2a47cd29342c
+  - b150f9b5-15ff-4bf9-a8c3-f9e5e8a36ab3
+  - 50a0f82a-8fd9-4890-b3ca-7c41a6f2a865
+  - 26dca01d-c33b-4f70-aa16-556f7f4035b8
+  - 191a3d3d-cbd3-4bc0-a658-e0a09443890f
+  - 06d90930-5dda-4dbc-a084-bd9b0d2c353d
+  - d7c3480a-f047-4cbd-9c2d-8bf6f0d5783e
+  <OldGroupedNodeNames>k__BackingField:
+    list: []

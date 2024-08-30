@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15b14fa3d9808264b8fe827ed02cbbcc, type: 3}
+  m_Name: Minotaur_
+  m_EditorClassIdentifier: 
+  monsterName: "<b><size=28>\uBBF8\uB178\uD0C0\uC6B0\uB974\uC2A4"
+  description: "\uC804\uD22C \uADF8 \uC790\uCCB4\uB97C \uC990\uAE30\uB294 \uBAAC\uC2A4\uD130."

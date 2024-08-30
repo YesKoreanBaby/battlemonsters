@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: DynamicPunch
+  serializedVersion: 7
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves:
+  - serializedVersion: 2
+    curve:
+    - time: 0
+      value: {fileID: 21300000, guid: 71de7d73d019de347a3d9646eda29195, type: 3}
+    - time: 0.083333336
+      value: {fileID: 21300000, guid: e4eb73b50a6db93448f5f028905f168e, type: 3}
+    - time: 0.16666667
+      value: {fileID: 21300000, guid: 9ca0be6218fa86e4cb1cf32b51ef7bed, type: 3}
+    - time: 0.25
+      value: {fileID: 21300000, guid: f9a5d72a5f6f99340bb1b7629a343d72, type: 3}
+    - time: 0.33333334
+      value: {fileID: 21300000, guid: 4777f95dff45c224ba1ebb13fa0496be, type: 3}
+    - time: 0.41666666
+      value: {fileID: 21300000, guid: 26cd0074eb0e063439cf9e02b0931497, type: 3}
+    - time: 0.5
+      value: {fileID: 21300000, guid: 2a3108c5c7357ce4bbdb6ac7a874fa51, type: 3}
+    - time: 0.5833333
+      value: {fileID: 21300000, guid: 4e99e83c58c8ab944b01040694ef366d, type: 3}
+    - time: 0.6666667
+      value: {fileID: 21300000, guid: 33631687be5d6064aaaa2115c01067b9, type: 3}
+    - time: 0.75
+      value: {fileID: 21300000, guid: d57a059dc2651244c9bd1c0a2b1f24bd, type: 3}
+    - time: 0.8333333
+      value: {fileID: 21300000, guid: 894a6807b42e1104e9b246cbe6a72f49, type: 3}
+    - time: 0.9166667
+      value: {fileID: 21300000, guid: 3e2ea9ab4f9536748b8aab7c2886fb41, type: 3}
+    - time: 1
+      value: {fileID: 21300000, guid: 47d0227cbb19ca944b898353edc3d05b, type: 3}
+    - time: 1.0833334
+      value: {fileID: 21300000, guid: c1f9e8ab287d74d4f9a7c3bfbfed4b80, type: 3}
+    - time: 1.1666666
+      value: {fileID: 0}
+    attribute: m_Sprite
+    path: 
+    classID: 212
+    script: {fileID: 0}
+    flags: 2
+  m_SampleRate: 12
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 0
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    pptrCurveMapping:
+    - {fileID: 21300000, guid: 71de7d73d019de347a3d9646eda29195, type: 3}
+    - {fileID: 21300000, guid: e4eb73b50a6db93448f5f028905f168e, type: 3}
+    - {fileID: 21300000, guid: 9ca0be6218fa86e4cb1cf32b51ef7bed, type: 3}
+    - {fileID: 21300000, guid: f9a5d72a5f6f99340bb1b7629a343d72, type: 3}
+    - {fileID: 21300000, guid: 4777f95dff45c224ba1ebb13fa0496be, type: 3}
+    - {fileID: 21300000, guid: 26cd0074eb0e063439cf9e02b0931497, type: 3}
+    - {fileID: 21300000, guid: 2a3108c5c7357ce4bbdb6ac7a874fa51, type: 3}
+    - {fileID: 21300000, guid: 4e99e83c58c8ab944b01040694ef366d, type: 3}
+    - {fileID: 21300000, guid: 33631687be5d6064aaaa2115c01067b9, type: 3}
+    - {fileID: 21300000, guid: d57a059dc2651244c9bd1c0a2b1f24bd, type: 3}
+    - {fileID: 21300000, guid: 894a6807b42e1104e9b246cbe6a72f49, type: 3}
+    - {fileID: 21300000, guid: 3e2ea9ab4f9536748b8aab7c2886fb41, type: 3}
+    - {fileID: 21300000, guid: 47d0227cbb19ca944b898353edc3d05b, type: 3}
+    - {fileID: 21300000, guid: c1f9e8ab287d74d4f9a7c3bfbfed4b80, type: 3}
+    - {fileID: 0}
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 1.25
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 1
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_Events:
+  - time: 0
+    functionName: FireBombExit
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.083333336
+    functionName: PalseSound
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.1666666
+    functionName: Dead
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40f3705e675e1ff4b8976aa0268e6505, type: 3}
+  m_Name: XelNaga
+  m_EditorClassIdentifier: 
+  combineMonster: {fileID: 11400000, guid: 67d8da55619afe74f9fe06a1339ebf6d, type: 2}
+  monsterDatas:
+  - monsterData: {fileID: 11400000, guid: dad46d8e4e92b844c9bb4f5ecfdedf20, type: 2}
+    count: 1
+  - monsterData: {fileID: 11400000, guid: 8e795760c786e7548b0711d1354f38eb, type: 2}
+    count: 1
+  - monsterData: {fileID: 11400000, guid: 1b2ba194bb9fe894cac4490d3b0fa993, type: 2}
+    count: 1
+  costItemDatas:
+  - itemType: 1
+    count: 200
+  consumeItemDatas: []

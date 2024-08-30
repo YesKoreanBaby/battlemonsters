@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0202a3095b7477a4091d56344f0af6b3, type: 3}
+  m_Name: witch2Graph
+  m_EditorClassIdentifier: 
+  <FileName>k__BackingField: witch2
+  <Groups>k__BackingField: []
+  <Nodes>k__BackingField:
+  - <ID>k__BackingField: eb504a18-b72c-4ce0-8dce-8bfe6bd78c6a
+    <Name>k__BackingField: witch
+    <Text>k__BackingField: witch2_0
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: f104f9ed-cb5f-4bad-ba91-d0089a2c39e8
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 698, y: 408}
+  - <ID>k__BackingField: a795adb2-f097-4c56-94bf-d12d56133c23
+    <Name>k__BackingField: witch
+    <Text>k__BackingField: witch2_2
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 1cfc0f0a-c56e-4d86-98af-c55d49701186
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 1867, y: 408}
+  - <ID>k__BackingField: 1cfc0f0a-c56e-4d86-98af-c55d49701186
+    <Name>k__BackingField: witch
+    <Text>k__BackingField: witch2_3
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 2707, y: 408}
+  - <ID>k__BackingField: f104f9ed-cb5f-4bad-ba91-d0089a2c39e8
+    <Name>k__BackingField: witch
+    <Text>k__BackingField: witch2_1
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: a795adb2-f097-4c56-94bf-d12d56133c23
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 1450, y: 408}
+  <OldGroupNames>k__BackingField: []
+  <OldUngroupedNodeNames>k__BackingField:
+  - eb504a18-b72c-4ce0-8dce-8bfe6bd78c6a
+  - a795adb2-f097-4c56-94bf-d12d56133c23
+  - 1cfc0f0a-c56e-4d86-98af-c55d49701186
+  - f104f9ed-cb5f-4bad-ba91-d0089a2c39e8
+  <OldGroupedNodeNames>k__BackingField:
+    list: []

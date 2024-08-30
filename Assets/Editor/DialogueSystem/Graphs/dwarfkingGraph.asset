@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0202a3095b7477a4091d56344f0af6b3, type: 3}
+  m_Name: dwarfkingGraph
+  m_EditorClassIdentifier: 
+  <FileName>k__BackingField: dwarfking
+  <Groups>k__BackingField: []
+  <Nodes>k__BackingField:
+  - <ID>k__BackingField: 3d12b6b4-d2d9-47eb-bcde-17e389625e8a
+    <Name>k__BackingField: dwarfking
+    <Text>k__BackingField: dwarfking_0
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 6432761f-80b4-4794-ab53-a739327b1424
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 634, y: 274}
+  - <ID>k__BackingField: 6432761f-80b4-4794-ab53-a739327b1424
+    <Name>k__BackingField: dwarfking
+    <Text>k__BackingField: dwarfking_1
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: e37fab11-540d-44e5-a594-4b63b9544f45
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 1391, y: 385}
+  - <ID>k__BackingField: e37fab11-540d-44e5-a594-4b63b9544f45
+    <Name>k__BackingField: dwarfking
+    <Text>k__BackingField: Dialogue text.
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: dwarfking_2
+      <NodeID>k__BackingField: 5deb8d35-6325-4593-afbb-ac402696b0ec
+    - <Text>k__BackingField: dwarfking_3
+      <NodeID>k__BackingField: a2371257-03f0-4fed-9c76-9a9d37a0ad37
+    - <Text>k__BackingField: dwarfking_4
+      <NodeID>k__BackingField: 07ef2be5-28b7-401c-a8ab-9fca9467b49b
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 1
+    <Position>k__BackingField: {x: 1721, y: 534}
+  - <ID>k__BackingField: 7ea89771-3e8f-4df5-b95f-33445347e8c5
+    <Name>k__BackingField: dwarfking
+    <Text>k__BackingField: dwarfking_8
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: e37fab11-540d-44e5-a594-4b63b9544f45
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 2611, y: 206}
+  - <ID>k__BackingField: 07ef2be5-28b7-401c-a8ab-9fca9467b49b
+    <Name>k__BackingField: dwarfking
+    <Text>k__BackingField: dwarfking_6
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 2a319452-aac4-456e-9c7d-e98f3a3ac792
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 2173, y: 1007}
+  - <ID>k__BackingField: 2a319452-aac4-456e-9c7d-e98f3a3ac792
+    <Name>k__BackingField: dwarfking
+    <Text>k__BackingField: 10
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 2547, y: 1054}
+  - <ID>k__BackingField: 9a4fde4b-c16a-446b-8b28-dafe4f8e9a08
+    <Name>k__BackingField: dwarfking
+    <Text>k__BackingField: dwarfking_7
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: cb709924-54e6-4c97-aab9-ac88af5b935d
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 2429, y: 534}
+  - <ID>k__BackingField: a2371257-03f0-4fed-9c76-9a9d37a0ad37
+    <Name>k__BackingField: dwarfking
+    <Text>k__BackingField: dwarfking_5
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: f5d67870-61b4-416e-9c05-3a1407b4cf8d
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 2252, y: 764}
+  - <ID>k__BackingField: 5deb8d35-6325-4593-afbb-ac402696b0ec
+    <Name>k__BackingField: dwarfking
+    <Text>k__BackingField: 23
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: 7ea89771-3e8f-4df5-b95f-33445347e8c5
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: 9a4fde4b-c16a-446b-8b28-dafe4f8e9a08
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 1
+    <Position>k__BackingField: {x: 2057, y: 159}
+  - <ID>k__BackingField: f5d67870-61b4-416e-9c05-3a1407b4cf8d
+    <Name>k__BackingField: dwarfking
+    <Text>k__BackingField: 17
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 2708, y: 817}
+  - <ID>k__BackingField: cb709924-54e6-4c97-aab9-ac88af5b935d
+    <Name>k__BackingField: dwarfking
+    <Text>k__BackingField: dwarfking_9
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 3274, y: 424}
+  <OldGroupNames>k__BackingField: []
+  <OldUngroupedNodeNames>k__BackingField:
+  - 3d12b6b4-d2d9-47eb-bcde-17e389625e8a
+  - 6432761f-80b4-4794-ab53-a739327b1424
+  - e37fab11-540d-44e5-a594-4b63b9544f45
+  - 7ea89771-3e8f-4df5-b95f-33445347e8c5
+  - 07ef2be5-28b7-401c-a8ab-9fca9467b49b
+  - 2a319452-aac4-456e-9c7d-e98f3a3ac792
+  - 9a4fde4b-c16a-446b-8b28-dafe4f8e9a08
+  - a2371257-03f0-4fed-9c76-9a9d37a0ad37
+  - 5deb8d35-6325-4593-afbb-ac402696b0ec
+  - f5d67870-61b4-416e-9c05-3a1407b4cf8d
+  - cb709924-54e6-4c97-aab9-ac88af5b935d
+  <OldGroupedNodeNames>k__BackingField:
+    list: []

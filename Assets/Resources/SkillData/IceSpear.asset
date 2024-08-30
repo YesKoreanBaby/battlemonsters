@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8887bcb76b251f442aa92ffce4e953b5, type: 3}
+  m_Name: IceSpear
+  m_EditorClassIdentifier: 
+  skillName: 6
+  passiveName: 0
+  type: 0
+  status: 2
+  skillDictionary: {fileID: 11400000, guid: abb5bc2a20ecc6e4c98a22a7f9ba9d5a, type: 2}
+  summonsMonsterDatas: []
+  shieldCount: 0
+  targetLayer: 2
+  atk: 2
+  consumMpAmount: 4
+  buffValue: 0
+  statusRatio: 0.1
+  repeatRatio: 0
+  creaticalRatio: 0.1

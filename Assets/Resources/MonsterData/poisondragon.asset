@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: poisondragon
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 6561131861048499367, guid: 79e63a253aea23547b8df0d8b75b293a, type: 3}
+  battleAIType: 1
+  evolutionType: 0
+  status: 8
+  monsterWeight: 0
+  monsterClass: 1
+  spawnItems: []
+  tranningType: 0
+  dictionaryData: {fileID: 11400000, guid: bab71cf2d24f16d48b7836ed51dd441c, type: 2}
+  hp: 20
+  mp: 20
+  dex: 4.2
+  atk: 15
+  def: 0
+  manaRecoveryRatio: 0.1
+  hpRecoveryRatio: 0.1
+  repeatRatio: 0.1
+  creaticalRatio: 0.1
+  datas:
+  - {fileID: 11400000, guid: 172c99d45ec88234c93ec9bc08a708c3, type: 2}
+  percentSkillDatas:
+  - {fileID: 11400000, guid: 5e0239329d318464086e6740c2e44690, type: 2}
+  - {fileID: 11400000, guid: 7b8d7d8b92383434793695334e0ab959, type: 2}
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: e430789d414e4344bbf0a5b33d2f27f1, type: 2}
+  abilities: 0a00000007000000
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 01000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas:
+  - {fileID: 11400000, guid: 3d671490375d04240b9ced9ae2dba863, type: 2}
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 
+  evolutionMonsterData: {fileID: 11400000}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

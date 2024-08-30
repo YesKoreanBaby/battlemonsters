@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: wight_champion
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 1643511879304561005, guid: 97b8ead4acbb2d44ab5e79ebf6a3d46a, type: 3}
+  battleAIType: 0
+  evolutionType: 0
+  status: 9
+  monsterWeight: 0
+  monsterClass: 3
+  spawnItems: []
+  tranningType: 0
+  dictionaryData: {fileID: 11400000, guid: 13d14334e4d4c214c87728d2abbf3e68, type: 2}
+  hp: 20
+  mp: 10
+  dex: 4.2
+  atk: 25
+  def: 0
+  manaRecoveryRatio: 0.25
+  hpRecoveryRatio: 0.1
+  repeatRatio: 0.25
+  creaticalRatio: 0
+  datas:
+  - {fileID: 11400000, guid: c8cf3b2c0a05c5041982d9d9108af891, type: 2}
+  percentSkillDatas: []
+  triggerSkillDatas: []
+  abilities: 0800000010000000
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 00000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

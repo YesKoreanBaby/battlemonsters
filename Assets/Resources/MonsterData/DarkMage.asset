@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: DarkMage
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 3610871575781091645, guid: 43eae7ceb75cd4e4c86d450358ed43b9, type: 3}
+  battleAIType: 5
+  evolutionType: 0
+  status: 9
+  monsterWeight: 0
+  monsterClass: 1
+  spawnItems: []
+  tranningType: 1
+  dictionaryData: {fileID: 11400000, guid: 3f788bd24e2f44949a0216ecd1ebcd04, type: 2}
+  hp: 20
+  mp: 45
+  dex: 4.2
+  atk: 1
+  def: 0
+  manaRecoveryRatio: 0.25
+  hpRecoveryRatio: 0.1
+  repeatRatio: 0
+  creaticalRatio: 0
+  datas:
+  - {fileID: 11400000, guid: 6aa91e02d24d46c49a8b49d3651b7b43, type: 2}
+  - {fileID: 11400000, guid: 774e3219e7a3ed3438681df71d085456, type: 2}
+  - {fileID: 11400000, guid: f730b0792c6aaa24e9c7c3c32ebb3881, type: 2}
+  - {fileID: 11400000, guid: a45cd879b342d114d8ffb8ad1b181c18, type: 2}
+  percentSkillDatas:
+  - {fileID: 11400000, guid: a88144834becca745a519c21e72c8d57, type: 2}
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: 8d625b1423035d443af108cdc96e227c, type: 2}
+  - {fileID: 11400000, guid: 6b0291e58f5fb8c4e8572cf64dcaa1be, type: 2}
+  abilities: 
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 01000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 090000000100000007000000
+  possibleSelectDetailTargetTypeDatas: 00000000040000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

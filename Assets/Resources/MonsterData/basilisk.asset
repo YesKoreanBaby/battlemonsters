@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: basilisk
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 5743454885610464626, guid: a28531903d9160046bc83da600e0302e, type: 3}
+  battleAIType: 1
+  evolutionType: 0
+  status: 3
+  monsterWeight: 3
+  monsterClass: 3
+  spawnItems: []
+  tranningType: 3
+  dictionaryData: {fileID: 11400000, guid: 41bd47dc20194334db9468e29fbefb5d, type: 2}
+  hp: 100
+  mp: 20
+  dex: 5.4
+  atk: 25
+  def: 25
+  manaRecoveryRatio: 0.25
+  hpRecoveryRatio: 0.25
+  repeatRatio: 0
+  creaticalRatio: 0.25
+  datas:
+  - {fileID: 11400000, guid: a56bb8b9fc255ef48827b0fc9bc4826a, type: 2}
+  percentSkillDatas:
+  - {fileID: 11400000, guid: 3d605aab33d1ba246a1be14a59c090ea, type: 2}
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: 4a6c6d3a85cbb51459e0ff39c90ee865, type: 2}
+  abilities: 0200000003000000
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 00000000
+  possibleSkillDatas:
+  - {fileID: 11400000, guid: 3be28c1d40d97d54a90e8d811d499cec, type: 2}
+  - {fileID: 11400000, guid: bb41f51596107904291dbd411de16762, type: 2}
+  possiblePercentSkillDatas:
+  - {fileID: 11400000, guid: e70ca355aa685464e935b5a6af2c5b79, type: 2}
+  possibleTriggerSkillDatas:
+  - {fileID: 11400000, guid: 3d671490375d04240b9ced9ae2dba863, type: 2}
+  possibleAbilitieDatas: 07000000
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

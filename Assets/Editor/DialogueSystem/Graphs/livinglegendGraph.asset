@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0202a3095b7477a4091d56344f0af6b3, type: 3}
+  m_Name: livinglegendGraph
+  m_EditorClassIdentifier: 
+  <FileName>k__BackingField: livinglegend
+  <Groups>k__BackingField: []
+  <Nodes>k__BackingField:
+  - <ID>k__BackingField: 1ff6281d-ac1c-4b8d-bd82-f76c53a8e864
+    <Name>k__BackingField: livinglegend
+    <Text>k__BackingField: livinglegend_3
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: c7825e46-439a-4629-800c-d4727f398465
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 2165, y: 865}
+  - <ID>k__BackingField: c7825e46-439a-4629-800c-d4727f398465
+    <Name>k__BackingField: livinglegend
+    <Text>k__BackingField: livinglegend_4
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: e3150033-aebc-4e6a-b43c-a2261fcd5aac
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 3077, y: 911}
+  - <ID>k__BackingField: 6b9ff477-aed4-49fe-80a9-69e5c09bcf4b
+    <Name>k__BackingField: livinglegend
+    <Text>k__BackingField: 10
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 3305, y: 530}
+  - <ID>k__BackingField: ddbec483-06eb-4836-9465-66a75acf1d10
+    <Name>k__BackingField: livinglegend
+    <Text>k__BackingField: livinglegend_2
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 6b9ff477-aed4-49fe-80a9-69e5c09bcf4b
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 2473, y: 514}
+  - <ID>k__BackingField: fb317d7b-ea76-4f8f-944e-c5d48e43f86c
+    <Name>k__BackingField: livinglegend
+    <Text>k__BackingField: 24
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: a56e371e-b82f-4c65-9c28-877b2f7f5bb1
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: 1ff6281d-ac1c-4b8d-bd82-f76c53a8e864
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 1
+    <Position>k__BackingField: {x: 818, y: 348}
+  - <ID>k__BackingField: e3150033-aebc-4e6a-b43c-a2261fcd5aac
+    <Name>k__BackingField: livinglegend
+    <Text>k__BackingField: livinglegend_5
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 3891, y: 941}
+  - <ID>k__BackingField: 28439a18-f27a-4f77-9074-823c5aee69ba
+    <Name>k__BackingField: livinglegend
+    <Text>k__BackingField: livinglegend_0
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: fb317d7b-ea76-4f8f-944e-c5d48e43f86c
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: -209, y: 491}
+  - <ID>k__BackingField: a56e371e-b82f-4c65-9c28-877b2f7f5bb1
+    <Name>k__BackingField: livinglegend
+    <Text>k__BackingField: livinglegend_1
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: ddbec483-06eb-4836-9465-66a75acf1d10
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 1629, y: 421}
+  <OldGroupNames>k__BackingField: []
+  <OldUngroupedNodeNames>k__BackingField:
+  - 1ff6281d-ac1c-4b8d-bd82-f76c53a8e864
+  - c7825e46-439a-4629-800c-d4727f398465
+  - 6b9ff477-aed4-49fe-80a9-69e5c09bcf4b
+  - ddbec483-06eb-4836-9465-66a75acf1d10
+  - fb317d7b-ea76-4f8f-944e-c5d48e43f86c
+  - e3150033-aebc-4e6a-b43c-a2261fcd5aac
+  - 28439a18-f27a-4f77-9074-823c5aee69ba
+  - a56e371e-b82f-4c65-9c28-877b2f7f5bb1
+  <OldGroupedNodeNames>k__BackingField:
+    list: []

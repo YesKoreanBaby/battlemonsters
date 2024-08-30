@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15b14fa3d9808264b8fe827ed02cbbcc, type: 3}
+  m_Name: Druid_
+  m_EditorClassIdentifier: 
+  monsterName: "\uB4DC\uB8E8\uC774\uB4DC"
+  description: "\uACE0\uB300\uBD80\uD130 \uC804\uD574\uC838\uC624\uB294 \uC131\uC11C\uB97C\n\uC218\uD638\uD558\uB294
+    \uB9C8\uBC95\uC0AC."

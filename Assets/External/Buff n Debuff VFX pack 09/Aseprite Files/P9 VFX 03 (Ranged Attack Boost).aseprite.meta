@@ -1,0 +1,811 @@
+fileFormatVersion: 2
+guid: ed870a2f1416b34409610e16acaa3b58
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: P9 VFX 03 (Ranged Attack Boost)_Frame_0
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 82
+      width: 16
+      height: 16
+    spriteID: 10f16c1032f37b444bc3b2ab3a2d0e54
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 82}
+  - name: P9 VFX 03 (Ranged Attack Boost)_Frame_2
+    originalName: 
+    pivot: {x: 0.5, y: -3.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 76
+      y: 56
+      width: 12
+      height: 3
+    spriteID: ff354263ad8b55145a40089fd74c41ae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 56}
+  - name: P9 VFX 03 (Ranged Attack Boost)_Frame_3
+    originalName: 
+    pivot: {x: 0.50000006, y: -1.375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 76
+      y: 40
+      width: 14
+      height: 8
+    spriteID: 1eb7b6e8f1375ad4b980d4d528b706c8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 40}
+  - name: P9 VFX 03 (Ranged Attack Boost)_Frame_4
+    originalName: 
+    pivot: {x: 0.49999997, y: -1.2222223}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 99
+      y: 4
+      width: 16
+      height: 9
+    spriteID: 14a7fe62b019bc04c8650dcf0dbac443
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 99, y: 4}
+  - name: P9 VFX 03 (Ranged Attack Boost)_Frame_5
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 28
+      y: 93
+      width: 16
+      height: 12
+    spriteID: 5b335b63a1adbbc4da7c1a7f35ce41d7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 28, y: 93}
+  - name: P9 VFX 03 (Ranged Attack Boost)_Frame_6
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.42857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 28
+      y: 50
+      width: 16
+      height: 14
+    spriteID: 61ee106b7cad74d4d836819a2265126a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 28, y: 50}
+  - name: P9 VFX 03 (Ranged Attack Boost)_Frame_7
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 28
+      y: 4
+      width: 16
+      height: 15
+    spriteID: 4adaaad4271eed446b50c324e63612f7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 28, y: 4}
+  - name: P9 VFX 03 (Ranged Attack Boost)_Frame_8
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 28
+      y: 27
+      width: 16
+      height: 15
+    spriteID: 6ab34d98d73b24a4e8f5648404b77438
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 28, y: 27}
+  - name: P9 VFX 03 (Ranged Attack Boost)_Frame_9
+    originalName: 
+    pivot: {x: 0.46153846, y: -0.64285713}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 44
+      width: 13
+      height: 14
+    spriteID: a542b43e58e538a469be464efa17cfe7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 44}
+  - name: P9 VFX 03 (Ranged Attack Boost)_Frame_10
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.7692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 28
+      y: 72
+      width: 16
+      height: 13
+    spriteID: a4d77ca02e623c543b46ea6c90bd3c5b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 28, y: 72}
+  - name: P9 VFX 03 (Ranged Attack Boost)_Frame_11
+    originalName: 
+    pivot: {x: 0.4666667, y: -0.9166667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 66
+      width: 15
+      height: 12
+    spriteID: 6b5d6bde3899080488d2c5b3d0e0ae42
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 66}
+  - name: P9 VFX 03 (Ranged Attack Boost)_Frame_12
+    originalName: 
+    pivot: {x: 0.4666667, y: -11}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 76
+      y: 67
+      width: 15
+      height: 1
+    spriteID: da29027801b775c49bdb1a76a7b8ad85
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 67}
+  - name: P9 VFX 03 (Ranged Attack Boost)_Frame_15
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.5555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 76
+      y: 23
+      width: 13
+      height: 9
+    spriteID: 957f0c07e5917344bb4673cc37402592
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 23}
+  - name: P9 VFX 03 (Ranged Attack Boost)_Frame_16
+    originalName: 
+    pivot: {x: 0.5333333, y: -0.36363637}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 76
+      y: 4
+      width: 15
+      height: 11
+    spriteID: 7e6aa6d4e1347e34fab98d3e63e53633
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 4}
+  - name: P9 VFX 03 (Ranged Attack Boost)_Frame_17
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 4
+      width: 16
+      height: 12
+    spriteID: 4218d0e40dae2e349860084ea8a75a3f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 4}
+  - name: P9 VFX 03 (Ranged Attack Boost)_Frame_18
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 106
+      width: 16
+      height: 16
+    spriteID: f7e9e31284ce94443981f5489d58caad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 106}
+  - name: P9 VFX 03 (Ranged Attack Boost)_Frame_19
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.22222224}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 16
+      height: 18
+    spriteID: 3f51beab07d91a14ba941a6116359c1a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: P9 VFX 03 (Ranged Attack Boost)_Frame_20
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.22222224}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 30
+      width: 16
+      height: 18
+    spriteID: 049e15b595698524db59e10bd1af7743
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 30}
+  - name: P9 VFX 03 (Ranged Attack Boost)_Frame_21
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.22222224}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 56
+      width: 16
+      height: 18
+    spriteID: 811434adccf8e214aa2963dcd7d8725a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 56}
+  - name: P9 VFX 03 (Ranged Attack Boost)_Frame_22
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.36363637}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 28
+      y: 113
+      width: 16
+      height: 11
+    spriteID: d7dc27f3f292df849a7a0a85394ae8ae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 28, y: 113}
+  - name: P9 VFX 03 (Ranged Attack Boost)_Frame_23
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 105
+      width: 13
+      height: 13
+    spriteID: 1dbd7700232181b4980b1ea4e1856b9a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 105}
+  - name: P9 VFX 03 (Ranged Attack Boost)_Frame_24
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.083333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 24
+      width: 16
+      height: 12
+    spriteID: de7310b3b4617a7459f14a38fa345561
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 24}
+  - name: P9 VFX 03 (Ranged Attack Boost)_Frame_25
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.09090909}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 86
+      width: 16
+      height: 11
+    spriteID: e19996e2d33a7704cb26b80f247a7f36
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 86}
+  - name: P9 VFX 03 (Ranged Attack Boost)_Frame_26
+    originalName: 
+    pivot: {x: 0.49999997, y: -11}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 99
+      y: 21
+      width: 16
+      height: 1
+    spriteID: 16fd94b1fd25ae34bb6075833942c6d2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 99, y: 21}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1299117873
+    name: P9 VFX 03 (Ranged Attack Boost)
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: P9 VFX 03 (Ranged Attack Boost)_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 4
+        y: 4
+        width: 16
+        height: 16
+      spriteId: 10f16c1032f37b444bc3b2ab3a2d0e54
+    - name: P9 VFX 03 (Ranged Attack Boost)_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 6
+        y: 11
+        width: 12
+        height: 3
+      spriteId: ff354263ad8b55145a40089fd74c41ae
+    - name: P9 VFX 03 (Ranged Attack Boost)_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 5
+        y: 11
+        width: 14
+        height: 8
+      spriteId: 1eb7b6e8f1375ad4b980d4d528b706c8
+    - name: P9 VFX 03 (Ranged Attack Boost)_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 4
+        y: 11
+        width: 16
+        height: 9
+      spriteId: 14a7fe62b019bc04c8650dcf0dbac443
+    - name: P9 VFX 03 (Ranged Attack Boost)_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 4
+        y: 8
+        width: 16
+        height: 12
+      spriteId: 5b335b63a1adbbc4da7c1a7f35ce41d7
+    - name: P9 VFX 03 (Ranged Attack Boost)_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 4
+        y: 6
+        width: 16
+        height: 14
+      spriteId: 61ee106b7cad74d4d836819a2265126a
+    - name: P9 VFX 03 (Ranged Attack Boost)_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 4
+        y: 5
+        width: 16
+        height: 15
+      spriteId: 4adaaad4271eed446b50c324e63612f7
+    - name: P9 VFX 03 (Ranged Attack Boost)_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 4
+        y: 5
+        width: 16
+        height: 15
+      spriteId: 6ab34d98d73b24a4e8f5648404b77438
+    - name: P9 VFX 03 (Ranged Attack Boost)_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 6
+        y: 9
+        width: 13
+        height: 14
+      spriteId: a542b43e58e538a469be464efa17cfe7
+    - name: P9 VFX 03 (Ranged Attack Boost)_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 4
+        y: 10
+        width: 16
+        height: 13
+      spriteId: a4d77ca02e623c543b46ea6c90bd3c5b
+    - name: P9 VFX 03 (Ranged Attack Boost)_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 5
+        y: 11
+        width: 15
+        height: 12
+      spriteId: 6b5d6bde3899080488d2c5b3d0e0ae42
+    - name: P9 VFX 03 (Ranged Attack Boost)_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 5
+        y: 11
+        width: 15
+        height: 1
+      spriteId: da29027801b775c49bdb1a76a7b8ad85
+    - name: P9 VFX 03 (Ranged Attack Boost)_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 5
+        y: 5
+        width: 13
+        height: 9
+      spriteId: 957f0c07e5917344bb4673cc37402592
+    - name: P9 VFX 03 (Ranged Attack Boost)_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 4
+        y: 4
+        width: 15
+        height: 11
+      spriteId: 7e6aa6d4e1347e34fab98d3e63e53633
+    - name: P9 VFX 03 (Ranged Attack Boost)_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 4
+        y: 4
+        width: 16
+        height: 12
+      spriteId: 4218d0e40dae2e349860084ea8a75a3f
+    - name: P9 VFX 03 (Ranged Attack Boost)_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 4
+        y: 4
+        width: 16
+        height: 16
+      spriteId: f7e9e31284ce94443981f5489d58caad
+    - name: P9 VFX 03 (Ranged Attack Boost)_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 4
+        y: 4
+        width: 16
+        height: 18
+      spriteId: 3f51beab07d91a14ba941a6116359c1a
+    - name: P9 VFX 03 (Ranged Attack Boost)_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 4
+        y: 4
+        width: 16
+        height: 18
+      spriteId: 049e15b595698524db59e10bd1af7743
+    - name: P9 VFX 03 (Ranged Attack Boost)_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 4
+        y: 4
+        width: 16
+        height: 18
+      spriteId: 811434adccf8e214aa2963dcd7d8725a
+    - name: P9 VFX 03 (Ranged Attack Boost)_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 4
+        y: 4
+        width: 16
+        height: 11
+      spriteId: d7dc27f3f292df849a7a0a85394ae8ae
+    - name: P9 VFX 03 (Ranged Attack Boost)_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 5
+        y: 1
+        width: 13
+        height: 13
+      spriteId: 1dbd7700232181b4980b1ea4e1856b9a
+    - name: P9 VFX 03 (Ranged Attack Boost)_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 4
+        y: 1
+        width: 16
+        height: 12
+      spriteId: de7310b3b4617a7459f14a38fa345561
+    - name: P9 VFX 03 (Ranged Attack Boost)_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 4
+        y: 1
+        width: 16
+        height: 11
+      spriteId: e19996e2d33a7704cb26b80f247a7f36
+    - name: P9 VFX 03 (Ranged Attack Boost)_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 4
+        y: 11
+        width: 16
+        height: 1
+      spriteId: 16fd94b1fd25ae34bb6075833942c6d2
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 24, y: 24}

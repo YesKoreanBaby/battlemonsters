@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: NightMare
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 9024941140250422305, guid: 2231514b8f0fd9c4c969ae69aecef39d, type: 3}
+  battleAIType: 1
+  evolutionType: 0
+  status: 9
+  monsterWeight: 3
+  monsterClass: 3
+  spawnItems: []
+  tranningType: 3
+  dictionaryData: {fileID: 11400000, guid: 2374ed65f0cab5e4792f287cd4d6e092, type: 2}
+  hp: 100
+  mp: 100
+  dex: 3
+  atk: 25
+  def: 5
+  manaRecoveryRatio: 0.25
+  hpRecoveryRatio: 0.1
+  repeatRatio: 0.1
+  creaticalRatio: 0.1
+  datas:
+  - {fileID: 11400000, guid: 33681077cc15e574182d9ff2ea084473, type: 2}
+  - {fileID: 11400000, guid: 6b70b38412f1aba41afbbad3fe1cbf7f, type: 2}
+  percentSkillDatas:
+  - {fileID: 11400000, guid: a88144834becca745a519c21e72c8d57, type: 2}
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: bb726b8725002b742b43566a8eaccc6d, type: 2}
+  abilities: 0800000003000000
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 00000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 1
+  isPocketLock: 0

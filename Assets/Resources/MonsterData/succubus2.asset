@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: succubus2
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 7378057108722807212, guid: 5df1cc65bf948dc41b6a9c95f9b0e47c, type: 3}
+  battleAIType: 3
+  evolutionType: 0
+  status: 9
+  monsterWeight: 2
+  monsterClass: 4
+  spawnItems: []
+  tranningType: 8
+  dictionaryData: {fileID: 11400000, guid: b5643c20a5d43be418d8e17e0b65e740, type: 2}
+  hp: 45
+  mp: 45
+  dex: 5.4
+  atk: 10
+  def: 0
+  manaRecoveryRatio: 0.1
+  hpRecoveryRatio: 0.1
+  repeatRatio: 0.25
+  creaticalRatio: 0
+  datas:
+  - {fileID: 11400000, guid: 13b0256fdaa318140a1eae21ce250274, type: 2}
+  percentSkillDatas: []
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: 6252a75072deb894684f34dfe903817f, type: 2}
+  abilities: 0d000000
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 00000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: randomBox
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 120367693718703622, guid: cba775e75ff83b743bfb611518edc4f2, type: 3}
+  battleAIType: 0
+  evolutionType: 0
+  status: 0
+  monsterWeight: 0
+  monsterClass: 0
+  spawnItems:
+  - {fileID: 11400000, guid: 0d7b3a6fb77753442b176239bf99f66c, type: 2}
+  - {fileID: 11400000, guid: 0995a3443d6455a4cbc2852958b1b55b, type: 2}
+  - {fileID: 11400000, guid: d739c1ae155bd3244ac47c13979ddfc5, type: 2}
+  - {fileID: 11400000, guid: 1933da3455fa40e4ba5961dddd2e614f, type: 2}
+  - {fileID: 11400000, guid: 9637f361ad605ad4c8c6dbbdc011b088, type: 2}
+  - {fileID: 11400000, guid: 1b3781cc482c886419d3ff354ed74194, type: 2}
+  - {fileID: 11400000, guid: c72553db93eace04eb545cf94879bb41, type: 2}
+  - {fileID: 11400000, guid: b10b240dc0e03fb4284f8fc282fe633d, type: 2}
+  - {fileID: 11400000, guid: 04adabd4b732091428e22033c28958cb, type: 2}
+  - {fileID: 11400000, guid: f4da90004f3880d40b5127edff356911, type: 2}
+  - {fileID: 11400000, guid: 3e25466db33edac4d83ae7e9f84c932b, type: 2}
+  - {fileID: 11400000, guid: c3cf6227ceb3e2b468a63a9f83ae77cc, type: 2}
+  tranningType: 0
+  dictionaryData: {fileID: 11400000, guid: 5745ed60c64e6f1478b36d72b50ed2f8, type: 2}
+  hp: 20
+  mp: 20
+  dex: 5.2
+  atk: 1
+  def: 15
+  manaRecoveryRatio: 0.1
+  hpRecoveryRatio: 0.1
+  repeatRatio: 0.1
+  creaticalRatio: 0.1
+  datas:
+  - {fileID: 11400000, guid: 2405651793e502143b817aa15ed4fd34, type: 2}
+  percentSkillDatas:
+  - {fileID: 11400000, guid: c2163f3f2496cd74faf797443be2bee3, type: 2}
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: d0c478a2e2f878640b9679bb63e3b6c2, type: 2}
+  abilities: 04000000
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 00000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 1
+  isDeadLock: 0
+  isPocketLock: 0

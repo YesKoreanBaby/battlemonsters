@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: Warm
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 8781571695438540288, guid: dc8bb58ede9d3944ba01039d9f6f162a, type: 3}
+  battleAIType: 1
+  evolutionType: 0
+  status: 3
+  monsterWeight: 0
+  monsterClass: 1
+  spawnItems: []
+  tranningType: 7
+  dictionaryData: {fileID: 11400000, guid: d12fc4af0b6f70c408023565616d10b5, type: 2}
+  hp: 20
+  mp: 20
+  dex: 4.2
+  atk: 1
+  def: 0
+  manaRecoveryRatio: 0.25
+  hpRecoveryRatio: 0.25
+  repeatRatio: 0
+  creaticalRatio: 0
+  datas:
+  - {fileID: 11400000, guid: b1472e766b7142740a65b4f413098536, type: 2}
+  - {fileID: 11400000, guid: cd42b1af86014044f8354ee2dec5572c, type: 2}
+  percentSkillDatas:
+  - {fileID: 11400000, guid: d759897990443c948b08d5dfd109689f, type: 2}
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: 9df7b586b9df94944921a3532c7402e5, type: 2}
+  - {fileID: 11400000, guid: 65590ff1ab0783f4ba15242ef3c84457, type: 2}
+  abilities: 0200000003000000
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 00000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 0200000003000000050000000900000001000000
+  possibleSelectDetailTargetTypeDatas: 010000000200000003000000040000000500000006000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000
+  evolutionMonsterData: {fileID: 11400000, guid: c35a98b6d22e3d947a597c757d9bee47, type: 2}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

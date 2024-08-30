@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: Sylph2
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 120367693718703622, guid: 848f58687c9eb4140afceed3a7919dcf, type: 3}
+  battleAIType: 0
+  evolutionType: 0
+  status: 4
+  monsterWeight: 0
+  monsterClass: 2
+  spawnItems: []
+  tranningType: 0
+  dictionaryData: {fileID: 11400000, guid: 24f4b3e510cae814aadc147d8cded1d5, type: 2}
+  hp: 20
+  mp: 20
+  dex: 3.4
+  atk: 5
+  def: 5
+  manaRecoveryRatio: 0.1
+  hpRecoveryRatio: 0.1
+  repeatRatio: 0.25
+  creaticalRatio: 0.1
+  datas:
+  - {fileID: 11400000, guid: 6f3c8138fb4f5554884bf0f05d353a73, type: 2}
+  percentSkillDatas: []
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: 9c7222d19b2daa1489f2c6b324c0159d, type: 2}
+  abilities: 
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 00000000
+  possibleSkillDatas:
+  - {fileID: 11400000, guid: 6f3c8138fb4f5554884bf0f05d353a73, type: 2}
+  - {fileID: 11400000, guid: 80b32c3be35aa314db581df051282ae4, type: 2}
+  possiblePercentSkillDatas:
+  - {fileID: 11400000, guid: 5e0239329d318464086e6740c2e44690, type: 2}
+  possibleTriggerSkillDatas:
+  - {fileID: 11400000, guid: 5fd6481aa7830ce4297a6b922599be4e, type: 2}
+  possibleAbilitieDatas: 08000000
+  possibleConfirmSkillPriorityDatas: 01000000060000000700000008000000090000000c000000
+  possibleSelectDetailTargetTypeDatas: 
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

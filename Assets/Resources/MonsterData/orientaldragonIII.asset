@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: orientaldragonIII
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 7147460169568045905, guid: 260a264eee47f8545b90e2645547eeaa, type: 3}
+  battleAIType: 1
+  evolutionType: 0
+  status: 7
+  monsterWeight: 3
+  monsterClass: 5
+  spawnItems: []
+  tranningType: 1
+  dictionaryData: {fileID: 11400000, guid: de4e360373b05ed4a9c29af792701eff, type: 2}
+  hp: 100
+  mp: 100
+  dex: 4.2
+  atk: 25
+  def: 25
+  manaRecoveryRatio: 0.25
+  hpRecoveryRatio: 0.25
+  repeatRatio: 0.25
+  creaticalRatio: 0.25
+  datas:
+  - {fileID: 11400000, guid: 9a82d684ed87040438a9759ade76fc9c, type: 2}
+  - {fileID: 11400000, guid: e2e27097213346b43852f5aa190be258, type: 2}
+  percentSkillDatas:
+  - {fileID: 11400000, guid: e83b8560ad0d1ba42952ca3a272c2c44, type: 2}
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: 174fe3de6db35134f92492b1ae3bfd52, type: 2}
+  - {fileID: 11400000, guid: 41b42c054117a2b459841b084d8cf1e5, type: 2}
+  - {fileID: 11400000, guid: 4c8f7fbccc364e242b2d112c6c025f1f, type: 2}
+  - {fileID: 11400000, guid: 65c740f1492703442a060db36cac0650, type: 2}
+  abilities: 0800000003000000010000000e000000
+  confirmSkillPrioritys: 0b000000
+  selectDetailTargetTypes: 04000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

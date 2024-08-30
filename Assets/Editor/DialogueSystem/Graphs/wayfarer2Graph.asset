@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0202a3095b7477a4091d56344f0af6b3, type: 3}
+  m_Name: wayfarer2Graph
+  m_EditorClassIdentifier: 
+  <FileName>k__BackingField: wayfarer2
+  <Groups>k__BackingField: []
+  <Nodes>k__BackingField:
+  - <ID>k__BackingField: db36d4d3-7082-40c4-bea2-de94efa494f2
+    <Name>k__BackingField: swordmaster
+    <Text>k__BackingField: wayfarer2_0
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 8a55b4cd-985f-4fd5-8327-eaa8d8724db2
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 866, y: 525}
+  - <ID>k__BackingField: 8a55b4cd-985f-4fd5-8327-eaa8d8724db2
+    <Name>k__BackingField: swordmaster
+    <Text>k__BackingField: wayfarer2_1
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: e2269ef6-2c0b-41f8-a482-97a09aab5a18
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 1764, y: 525}
+  - <ID>k__BackingField: 1cbdd785-d6b1-4d48-aa0e-e6827a4054e3
+    <Name>k__BackingField: swordmaster
+    <Text>k__BackingField: wayfarer2_4
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 29b841d9-fd32-4080-9d61-3fa6096c32c3
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 3543, y: 526}
+  - <ID>k__BackingField: e2269ef6-2c0b-41f8-a482-97a09aab5a18
+    <Name>k__BackingField: swordmaster
+    <Text>k__BackingField: wayfarer2_2
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: d1ba37bc-46cc-48ad-9ad0-ac2591f4ed15
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 2249, y: 525}
+  - <ID>k__BackingField: d1ba37bc-46cc-48ad-9ad0-ac2591f4ed15
+    <Name>k__BackingField: swordmaster
+    <Text>k__BackingField: wayfarer2_3
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 1cbdd785-d6b1-4d48-aa0e-e6827a4054e3
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 2666, y: 525}
+  - <ID>k__BackingField: 29b841d9-fd32-4080-9d61-3fa6096c32c3
+    <Name>k__BackingField: swordmaster
+    <Text>k__BackingField: wayfarer2_5
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 4395, y: 526}
+  <OldGroupNames>k__BackingField: []
+  <OldUngroupedNodeNames>k__BackingField:
+  - db36d4d3-7082-40c4-bea2-de94efa494f2
+  - 8a55b4cd-985f-4fd5-8327-eaa8d8724db2
+  - 1cbdd785-d6b1-4d48-aa0e-e6827a4054e3
+  - e2269ef6-2c0b-41f8-a482-97a09aab5a18
+  - d1ba37bc-46cc-48ad-9ad0-ac2591f4ed15
+  - 29b841d9-fd32-4080-9d61-3fa6096c32c3
+  <OldGroupedNodeNames>k__BackingField:
+    list: []

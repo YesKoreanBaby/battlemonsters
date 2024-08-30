@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: bishop
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 120367693718703622, guid: c87890f5b0c0dbc44bc0d494c541c9e9, type: 3}
+  battleAIType: 0
+  evolutionType: 0
+  status: 9
+  monsterWeight: 3
+  monsterClass: 3
+  spawnItems: []
+  tranningType: 2
+  dictionaryData: {fileID: 11400000, guid: 2e1e5697da215da4baf6c50d7e6452c9, type: 2}
+  hp: 100
+  mp: 100
+  dex: 5.6
+  atk: 15
+  def: 15
+  manaRecoveryRatio: 0.25
+  hpRecoveryRatio: 0.25
+  repeatRatio: 0.1
+  creaticalRatio: 0.1
+  datas:
+  - {fileID: 11400000, guid: 0e842d4ef0c667948b75b28e47bb92aa, type: 2}
+  - {fileID: 11400000, guid: b35303bfcd6c2484aba0043fba2c1943, type: 2}
+  - {fileID: 11400000, guid: 6f3c8138fb4f5554884bf0f05d353a73, type: 2}
+  - {fileID: 11400000, guid: 15fa73694965d794fb8545c482aa4d52, type: 2}
+  - {fileID: 11400000, guid: 33dbdbb47a4501043b9849e5660e7df5, type: 2}
+  percentSkillDatas:
+  - {fileID: 11400000, guid: f85c4be6ac487444bba4b5de09039007, type: 2}
+  - {fileID: 11400000, guid: efb747a939aea80439e6d98b7b18d7c5, type: 2}
+  - {fileID: 11400000, guid: ede0753cb93fc8946a9dda90b50b760f, type: 2}
+  - {fileID: 11400000, guid: a4afd112b6c436d41837c38218a070a7, type: 2}
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: 8d3eeb973868283488a829a4e52eaae9, type: 2}
+  abilities: 
+  confirmSkillPrioritys: 0c000000
+  selectDetailTargetTypes: 04000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

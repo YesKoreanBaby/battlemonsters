@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: hiddenBox
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 120367693718703622, guid: acbcb1d29709e664bbd48c95dbb6b2f0, type: 3}
+  battleAIType: 2
+  evolutionType: 0
+  status: 10
+  monsterWeight: 0
+  monsterClass: 0
+  spawnItems:
+  - {fileID: 11400000, guid: 0d7b3a6fb77753442b176239bf99f66c, type: 2}
+  tranningType: 2
+  dictionaryData: {fileID: 11400000, guid: 0b8dbe89966862c42b6a54031f7aa1ef, type: 2}
+  hp: 20
+  mp: 20
+  dex: 4.8
+  atk: 1
+  def: 15
+  manaRecoveryRatio: 0.1
+  hpRecoveryRatio: 0.1
+  repeatRatio: 0.1
+  creaticalRatio: 0.1
+  datas:
+  - {fileID: 11400000, guid: 2405651793e502143b817aa15ed4fd34, type: 2}
+  percentSkillDatas:
+  - {fileID: 11400000, guid: e37d393e79c80434dbdb8312c0a21e1b, type: 2}
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: 4737ebafab8e90149810f7f95b916383, type: 2}
+  abilities: 04000000
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 00000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 4
+  isDeadLock: 0
+  isPocketLock: 0

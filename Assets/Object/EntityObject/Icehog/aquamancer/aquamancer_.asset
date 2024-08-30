@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15b14fa3d9808264b8fe827ed02cbbcc, type: 3}
+  m_Name: aquamancer_
+  m_EditorClassIdentifier: 
+  monsterName: "<b><size=28>\uC544\uCFE0\uC544\uB9E8\uC11C"
+  description: "\uC5BC\uC74C\uC758 \uD798\uC744 \uB2E4\uC2A4\uB9AC\uB294\n\uC5B4\uC778\uC871
+    \uB9C8\uBC95\uC0AC."

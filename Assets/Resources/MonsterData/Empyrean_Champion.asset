@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: Empyrean_Champion
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 3807665883487289366, guid: be2b352d578ff274abbac2c1de766a6b, type: 3}
+  battleAIType: 3
+  evolutionType: 0
+  status: 7
+  monsterWeight: 3
+  monsterClass: 4
+  spawnItems: []
+  tranningType: 0
+  dictionaryData: {fileID: 11400000, guid: a122fc075398ab941b08e5a2433b6cf1, type: 2}
+  hp: 100
+  mp: 100
+  dex: 5.4
+  atk: 45
+  def: 20
+  manaRecoveryRatio: 0.1
+  hpRecoveryRatio: 0.1
+  repeatRatio: -4
+  creaticalRatio: 0.25
+  datas:
+  - {fileID: 11400000, guid: 8f72f8a8e21ec404b84abdb56547beb7, type: 2}
+  - {fileID: 11400000, guid: 01655688941502b41b6585225fd4081d, type: 2}
+  - {fileID: 11400000, guid: 6aed9b993b90dfb4db73154de37faca4, type: 2}
+  - {fileID: 11400000, guid: 33681077cc15e574182d9ff2ea084473, type: 2}
+  percentSkillDatas: []
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: bb2afd41c7db90a4db7065bf6546a5d6, type: 2}
+  abilities: 0500000000000000060000000f00000001000000
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 01000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 0a0000000b000000090000000700000001000000
+  possibleSelectDetailTargetTypeDatas: 
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

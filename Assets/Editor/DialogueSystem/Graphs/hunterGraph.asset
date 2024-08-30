@@ -1,0 +1,165 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0202a3095b7477a4091d56344f0af6b3, type: 3}
+  m_Name: hunterGraph
+  m_EditorClassIdentifier: 
+  <FileName>k__BackingField: hunter
+  <Groups>k__BackingField: []
+  <Nodes>k__BackingField:
+  - <ID>k__BackingField: d87c8f36-4fcf-4cc6-ad2b-368fc6f4bf57
+    <Name>k__BackingField: hunter
+    <Text>k__BackingField: hunter_0
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 307f8330-fe65-45de-8f66-6978d4a3adbe
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 648, y: 300}
+  - <ID>k__BackingField: 307f8330-fe65-45de-8f66-6978d4a3adbe
+    <Name>k__BackingField: hunter
+    <Text>k__BackingField: hunter_1
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 57bd8b23-250d-418c-ae46-6d38bcfe2aa9
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 1018, y: 300}
+  - <ID>k__BackingField: 57bd8b23-250d-418c-ae46-6d38bcfe2aa9
+    <Name>k__BackingField: hunter
+    <Text>k__BackingField: hunter_2
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 9c91fdd9-284e-4d80-8230-94c5d8dfab7a
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 1383, y: 300}
+  - <ID>k__BackingField: 9c91fdd9-284e-4d80-8230-94c5d8dfab7a
+    <Name>k__BackingField: hunter
+    <Text>k__BackingField: hunter_3
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 9d2ccb00-4448-4a0c-9bcb-be2ac46060de
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 1806, y: 310}
+  - <ID>k__BackingField: 9d2ccb00-4448-4a0c-9bcb-be2ac46060de
+    <Name>k__BackingField: hunter
+    <Text>k__BackingField: Dialogue text.
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: hunter_4
+      <NodeID>k__BackingField: e469a0c4-11ee-4442-ba9e-95dae5308c1d
+    - <Text>k__BackingField: hunter_5
+      <NodeID>k__BackingField: c45a0248-cba9-4e7f-bbd8-eac620c182ba
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 1
+    <Position>k__BackingField: {x: 2217, y: 268}
+  - <ID>k__BackingField: 1504be5b-346c-41e5-b4e7-cc3e90aa8323
+    <Name>k__BackingField: hunter
+    <Text>k__BackingField: 10
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 3088, y: 188}
+  - <ID>k__BackingField: fb53e101-c6cd-41e7-ade6-d541cc6dcf9a
+    <Name>k__BackingField: hunter
+    <Text>k__BackingField: hunter_8
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: eabaa23f-a17c-4fbc-bfc2-c2e24df49e07
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 3176, y: 506}
+  - <ID>k__BackingField: e469a0c4-11ee-4442-ba9e-95dae5308c1d
+    <Name>k__BackingField: hunter
+    <Text>k__BackingField: hunter_6
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 1504be5b-346c-41e5-b4e7-cc3e90aa8323
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 2677, y: 187}
+  - <ID>k__BackingField: eabaa23f-a17c-4fbc-bfc2-c2e24df49e07
+    <Name>k__BackingField: DialogueName
+    <Text>k__BackingField: hunter_9
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 125b1432-51ce-44ad-a074-82fd6255e1af
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 4059, y: 516}
+  - <ID>k__BackingField: 125b1432-51ce-44ad-a074-82fd6255e1af
+    <Name>k__BackingField: DialogueName
+    <Text>k__BackingField: 13
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 817da571-5bba-4007-9846-6ff83267fba9
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 4556, y: 634}
+  - <ID>k__BackingField: 817da571-5bba-4007-9846-6ff83267fba9
+    <Name>k__BackingField: hunter
+    <Text>k__BackingField: hunter_10
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 4d2272c8-31af-4b2b-9e24-24795f8e1dc5
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 5105, y: 710}
+  - <ID>k__BackingField: 4d2272c8-31af-4b2b-9e24-24795f8e1dc5
+    <Name>k__BackingField: hunter
+    <Text>k__BackingField: 
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: hunter_11
+      <NodeID>k__BackingField: 
+    - <Text>k__BackingField: hunter_12
+      <NodeID>k__BackingField: a0cc8ada-05f8-4ea7-a780-ddd0bd74c009
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 1
+    <Position>k__BackingField: {x: 6021, y: 798}
+  - <ID>k__BackingField: a0cc8ada-05f8-4ea7-a780-ddd0bd74c009
+    <Name>k__BackingField: hunter
+    <Text>k__BackingField: 10
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 6539, y: 945}
+  - <ID>k__BackingField: c45a0248-cba9-4e7f-bbd8-eac620c182ba
+    <Name>k__BackingField: hunter
+    <Text>k__BackingField: hunter_7
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: fb53e101-c6cd-41e7-ade6-d541cc6dcf9a
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 2754, y: 506}
+  <OldGroupNames>k__BackingField: []
+  <OldUngroupedNodeNames>k__BackingField:
+  - d87c8f36-4fcf-4cc6-ad2b-368fc6f4bf57
+  - 307f8330-fe65-45de-8f66-6978d4a3adbe
+  - 57bd8b23-250d-418c-ae46-6d38bcfe2aa9
+  - 9c91fdd9-284e-4d80-8230-94c5d8dfab7a
+  - 9d2ccb00-4448-4a0c-9bcb-be2ac46060de
+  - 1504be5b-346c-41e5-b4e7-cc3e90aa8323
+  - fb53e101-c6cd-41e7-ade6-d541cc6dcf9a
+  - e469a0c4-11ee-4442-ba9e-95dae5308c1d
+  - eabaa23f-a17c-4fbc-bfc2-c2e24df49e07
+  - 125b1432-51ce-44ad-a074-82fd6255e1af
+  - 817da571-5bba-4007-9846-6ff83267fba9
+  - 4d2272c8-31af-4b2b-9e24-24795f8e1dc5
+  - a0cc8ada-05f8-4ea7-a780-ddd0bd74c009
+  - c45a0248-cba9-4e7f-bbd8-eac620c182ba
+  <OldGroupedNodeNames>k__BackingField:
+    list: []

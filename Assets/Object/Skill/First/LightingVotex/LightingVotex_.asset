@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a06ce28b585120d4f8c813140b1b22c5, type: 3}
+  m_Name: LightingVotex_
+  m_EditorClassIdentifier: 
+  skillName: "\uB77C\uC774\uD2B8\uB2DD \uBCF4\uD0DD\uC2A4"
+  skillDmageType: "\uACF5\uACA9\uB825 + \uC2A4\uD0AC \uACF5\uACA9\uB825"
+  skillDmgType: 1
+  skillEffectType: 5
+  targetRange: long
+  addEffect: "\uB9C8\uBE44"
+  skillIcon: {fileID: 21300000, guid: 1705294676fdbe948ba9a2515a853f87, type: 3}
+  description: "\uD558\uB298\uC5D0\uC11C \uBC88\uAC1C\uAC00 \uB0B4\uB824\uCE5C\uB2E4\n\n\uC8FC\uBCC0\uC758
+    \uC801\uB4E4\uC5D0\uAC8C\uB3C4 \uCD94\uAC00\n\uD53C\uD574\uB97C \uC785\uD78C\uB2E4."

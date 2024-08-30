@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: AttackGolem
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 212191919097921667, guid: b18c4c242681e054d86015194d157f6a, type: 3}
+  battleAIType: 1
+  evolutionType: 0
+  status: 10
+  monsterWeight: 2
+  monsterClass: 1
+  spawnItems: []
+  tranningType: 5
+  dictionaryData: {fileID: 11400000, guid: 820595d476d6b7747b425ba6ba870592, type: 2}
+  hp: 45
+  mp: 10
+  dex: 5.5
+  atk: 15
+  def: 0
+  manaRecoveryRatio: 0.1
+  hpRecoveryRatio: 0.1
+  repeatRatio: -4
+  creaticalRatio: 0
+  datas:
+  - {fileID: 11400000, guid: 0c46f921554befd4d88394ae54abd0c7, type: 2}
+  percentSkillDatas: []
+  triggerSkillDatas: []
+  abilities: 03000000
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 00000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

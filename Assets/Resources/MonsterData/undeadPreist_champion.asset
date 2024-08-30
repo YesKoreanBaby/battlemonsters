@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: undeadPreist_champion
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 3314145965881039859, guid: 76ee0d44793bfac4b83e03cec1338e25, type: 3}
+  battleAIType: 5
+  evolutionType: 0
+  status: 9
+  monsterWeight: 0
+  monsterClass: 3
+  spawnItems: []
+  tranningType: 0
+  dictionaryData: {fileID: 11400000, guid: 90cdd6ebc5659954899a40eaed6fcf3f, type: 2}
+  hp: 25
+  mp: 20
+  dex: 4.2
+  atk: 1
+  def: 5
+  manaRecoveryRatio: 0.25
+  hpRecoveryRatio: 0.1
+  repeatRatio: 0
+  creaticalRatio: 0
+  datas:
+  - {fileID: 11400000, guid: 6aa91e02d24d46c49a8b49d3651b7b43, type: 2}
+  percentSkillDatas:
+  - {fileID: 11400000, guid: a4afd112b6c436d41837c38218a070a7, type: 2}
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: 1094edce415ef3e4eb05c191250c7bf4, type: 2}
+  - {fileID: 11400000, guid: 4737ebafab8e90149810f7f95b916383, type: 2}
+  - {fileID: 11400000, guid: 4cd6d3fdaa97a554cb3de0d62b2665ab, type: 2}
+  abilities: 10000000
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 00000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 02000000040000000b0000000c0000000d0000000e0000001000000010000000
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

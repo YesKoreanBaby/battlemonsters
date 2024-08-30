@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: dragonslayer
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 6844202989844698932, guid: 44f11c7aa99dcd54c8e6bd9b9f9009b6, type: 3}
+  battleAIType: 1
+  evolutionType: 0
+  status: 9
+  monsterWeight: 0
+  monsterClass: 2
+  spawnItems: []
+  tranningType: 0
+  dictionaryData: {fileID: 11400000, guid: 3e3fdd88f8cecc54a97f617ea6423d78, type: 2}
+  hp: 20
+  mp: 20
+  dex: 4.2
+  atk: 15
+  def: 5
+  manaRecoveryRatio: 0.1
+  hpRecoveryRatio: 0.1
+  repeatRatio: 0.1
+  creaticalRatio: 0.25
+  datas:
+  - {fileID: 11400000, guid: 3e7e4a207fd05e744b05d7d57ecb12ff, type: 2}
+  percentSkillDatas:
+  - {fileID: 11400000, guid: 4bc55b3497c4781489d9ee5d1e0b9bd6, type: 2}
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: a777c54cde85b094ca52249f2c7db232, type: 2}
+  abilities: 070000000800000003000000
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 04000000
+  possibleSkillDatas:
+  - {fileID: 11400000, guid: 270615e275ee6f9449a46033cac51d7e, type: 2}
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas:
+  - {fileID: 11400000, guid: a1513c71f9821f1469e056cc46b785bd, type: 2}
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 010000000200000003000000040000000500000006000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

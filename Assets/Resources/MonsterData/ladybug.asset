@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: ladybug
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 4410750562639959846, guid: 5c1aab7ce83c2ab409a6fd7c33805b9f, type: 3}
+  battleAIType: 0
+  evolutionType: 0
+  status: 4
+  monsterWeight: 1
+  monsterClass: 0
+  spawnItems: []
+  tranningType: 0
+  dictionaryData: {fileID: 11400000, guid: 749b992c1c873bf45b09e61876a86fe2, type: 2}
+  hp: 10
+  mp: 10
+  dex: 5.2
+  atk: 5
+  def: 5
+  manaRecoveryRatio: 0.25
+  hpRecoveryRatio: 0.1
+  repeatRatio: 0
+  creaticalRatio: 0
+  datas:
+  - {fileID: 11400000, guid: 23004c917e0d8c740ba956790480b78e, type: 2}
+  percentSkillDatas: []
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: 80046dae8448f6f4986ede3b9357cd82, type: 2}
+  - {fileID: 11400000, guid: 06fdecfb9d0a7ab418e2b983c1e3b71b, type: 2}
+  abilities: 11000000
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 05000000
+  possibleSkillDatas:
+  - {fileID: 11400000, guid: 172c99d45ec88234c93ec9bc08a708c3, type: 2}
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

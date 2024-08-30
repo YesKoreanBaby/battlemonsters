@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15b14fa3d9808264b8fe827ed02cbbcc, type: 3}
+  m_Name: gorgon_
+  m_EditorClassIdentifier: 
+  monsterName: "\uACE0\uB974\uACE4"
+  description: "\uACE0\uB974\uACE4\uC774 \uB098\uD0C0\uB098\uBA74\n\uB3C5\uC774 \uD37C\uC9C0\uACE0
+    \uC804\uC5FC\uBCD1\uC774 \uBC1C\uC0DD\uD55C\uB2E4."

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a06ce28b585120d4f8c813140b1b22c5, type: 3}
+  m_Name: EarthSpike_
+  m_EditorClassIdentifier: 
+  skillName: "\uB3CC\uBD80\uB9AC"
+  skillDmageType: Normal
+  skillDmgType: 0
+  targetRange: short
+  addEffect: '-'
+  skillIcon: {fileID: 21300000, guid: c886e2c00eb97c2469e418744542e870, type: 3}
+  description: "\uB545 \uBC11\uC5D0\uC11C \uB3CC\uC774 \uC19F\uC544\uB098\n\uC801\uC5D0\uAC8C
+    \uD53C\uD574\uB97C \uC900\uB2E4.\n\n\uC19F\uC544\uB09C \uB3CC\uC758 \uD615\uD0DC\uC5D0
+    \uB530\uB77C\n\uB370\uBBF8\uC9C0\uAC00 \uBC18\uAC10\uB418\uAC70\uB098\n\uD06C\uB9AC\uD2F0\uCEEC\uD55C
+    \uB370\uBBF8\uC9C0\uB97C \uC900\uB2E4."

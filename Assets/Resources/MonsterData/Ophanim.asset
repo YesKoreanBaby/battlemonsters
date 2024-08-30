@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: Ophanim
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 8959132926662187893, guid: 22b2441645bf7a14b98701ee4d14bd7a, type: 3}
+  battleAIType: 2
+  evolutionType: 0
+  status: 10
+  monsterWeight: 3
+  monsterClass: 3
+  spawnItems: []
+  tranningType: 1
+  dictionaryData: {fileID: 11400000, guid: 2c5060e37dc91474480113229b741265, type: 2}
+  hp: 100
+  mp: 100
+  dex: 4.8
+  atk: 15
+  def: 25
+  manaRecoveryRatio: 0.1
+  hpRecoveryRatio: 0.1
+  repeatRatio: -4
+  creaticalRatio: 0.25
+  datas:
+  - {fileID: 11400000, guid: f7997c4f0a98aa44993172045debab97, type: 2}
+  percentSkillDatas:
+  - {fileID: 11400000, guid: 06b81beaaff80764e87e72719828a027, type: 2}
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: 06addfa5902bd9c479d7924d4ec3d3b7, type: 2}
+  - {fileID: 11400000, guid: e4ad980165837b347b039d67b360d676, type: 2}
+  - {fileID: 11400000, guid: cec6199f4d5bf6b44a672d5d08e56ee3, type: 2}
+  abilities: 0e0000000a0000000b0000000c000000050000000f000000
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 00000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 1

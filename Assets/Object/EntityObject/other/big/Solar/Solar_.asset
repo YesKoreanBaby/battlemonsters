@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15b14fa3d9808264b8fe827ed02cbbcc, type: 3}
+  m_Name: Solar_
+  m_EditorClassIdentifier: 
+  monsterName: "\uC194\uB77C"
+  description: "\uC2B9\uB9AC\uC758 \uC5EC\uC2E0\uC73C\uB85C\n\uC138\uC0C1\uC774 \uD30C\uBA78\uB418\uAE30
+    \uC9C1\uC804\uC5D0 \uB098\uD0C0\uB098\n\uACE0\uB300\uC778\uB4E4\uC744 \uAD6C\uD588\uB2E4\uACE0
+    \uC804\uD574\uC9C4\uB2E4."

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15b14fa3d9808264b8fe827ed02cbbcc, type: 3}
+  m_Name: orientaldragonIII_
+  m_EditorClassIdentifier: 
+  monsterName: "<b><size=28>\uC624\uB9AC\uC5D4\uD0C8 \uB4DC\uB798\uACE4"
+  description: "\uC6A9\uB4E4\uC758 \uD798\uC774 \uC138\uC0C1\uC744 \uBB34\uB108\uB728\uB9AC\uBA74\n\uADF8\uB4E4\uC744
+    \uACAC\uC81C\uD558\uAE30 \uC704\uD574\n\uD558\uB298\uC5D0\uC11C \uB0B4\uB824\uC628\uB2E4."

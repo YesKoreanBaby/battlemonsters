@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a5df671ef62860499039268e98ae6ec, type: 3}
+  m_Name: late-bloomer
+  m_EditorClassIdentifier: 
+  hpData:
+    buffValue: 1
+    goalPercent: 1
+    addGoalPercent: 0.025
+    level: 100
+    costItemType: 0
+    cost: 50
+    addCost: 5
+    minGoalPercent: 0.05
+  mpData:
+    buffValue: 1
+    goalPercent: 1
+    addGoalPercent: 0.025
+    level: 100
+    costItemType: 0
+    cost: 50
+    addCost: 5
+    minGoalPercent: 0.05
+  atkData:
+    buffValue: 1
+    goalPercent: 1
+    addGoalPercent: 0.025
+    level: 30
+    costItemType: 0
+    cost: 100
+    addCost: 10
+    minGoalPercent: 0.05
+  dexData:
+    buffValue: 0.05
+    goalPercent: 0.25
+    addGoalPercent: 0.05
+    level: 20
+    costItemType: 0
+    cost: 200
+    addCost: 100
+    minGoalPercent: 0.01
+  defData:
+    buffValue: 1
+    goalPercent: 0.25
+    addGoalPercent: 0.025
+    level: 15
+    costItemType: 0
+    cost: 100
+    addCost: 10
+    minGoalPercent: 0.01
+  hpRecoveryData:
+    buffValue: 0.05
+    goalPercent: 0.25
+    addGoalPercent: 0.01
+    level: 10
+    costItemType: 0
+    cost: 200
+    addCost: 100
+    minGoalPercent: 0.01
+  mpRecoveryData:
+    buffValue: 0.05
+    goalPercent: 0.25
+    addGoalPercent: 0.01
+    level: 10
+    costItemType: 0
+    cost: 200
+    addCost: 100
+    minGoalPercent: 0.01
+  criticalData:
+    buffValue: 0.05
+    goalPercent: 0.1
+    addGoalPercent: 0.05
+    level: 10
+    costItemType: 1
+    cost: 10
+    addCost: 5
+    minGoalPercent: 0.01
+  dodgeData:
+    buffValue: 0.05
+    goalPercent: 0.1
+    addGoalPercent: 0.05
+    level: 10
+    costItemType: 1
+    cost: 10
+    addCost: 5
+    minGoalPercent: 0.01

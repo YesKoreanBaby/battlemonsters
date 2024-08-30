@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: drake
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 4566203694895249477, guid: 5efba88dea562524ea11e99999e33d21, type: 3}
+  battleAIType: 1
+  evolutionType: 0
+  status: 3
+  monsterWeight: 3
+  monsterClass: 2
+  spawnItems: []
+  tranningType: 3
+  dictionaryData: {fileID: 11400000, guid: 99615b8b2663eca43908c81bd0da9a10, type: 2}
+  hp: 65
+  mp: 20
+  dex: 5.2
+  atk: 25
+  def: 15
+  manaRecoveryRatio: 0.1
+  hpRecoveryRatio: 0.1
+  repeatRatio: 0.1
+  creaticalRatio: 0.25
+  datas:
+  - {fileID: 11400000, guid: 62a24337b5e13e34baed31f76cff30cd, type: 2}
+  - {fileID: 11400000, guid: a56bb8b9fc255ef48827b0fc9bc4826a, type: 2}
+  - {fileID: 11400000, guid: c85135fd063a9bf4d854eb651f126768, type: 2}
+  percentSkillDatas:
+  - {fileID: 11400000, guid: 3d605aab33d1ba246a1be14a59c090ea, type: 2}
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: 9df7b586b9df94944921a3532c7402e5, type: 2}
+  abilities: 0600000007000000
+  confirmSkillPrioritys: 0b000000
+  selectDetailTargetTypes: 09000000
+  possibleSkillDatas:
+  - {fileID: 11400000, guid: bb41f51596107904291dbd411de16762, type: 2}
+  - {fileID: 11400000, guid: 3be28c1d40d97d54a90e8d811d499cec, type: 2}
+  possiblePercentSkillDatas:
+  - {fileID: 11400000, guid: e70ca355aa685464e935b5a6af2c5b79, type: 2}
+  possibleTriggerSkillDatas:
+  - {fileID: 11400000, guid: d6fe155dcf946c142b524a9b2b103c4e, type: 2}
+  possibleAbilitieDatas: 0f00000005000000
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

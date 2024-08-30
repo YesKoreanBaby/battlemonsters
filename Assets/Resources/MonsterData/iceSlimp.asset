@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: iceSlimp
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 318295716109933005, guid: 97cc3a517ec8dca42bd0374a35c7fb34, type: 3}
+  battleAIType: 0
+  evolutionType: 0
+  status: 2
+  monsterWeight: 0
+  monsterClass: 1
+  spawnItems: []
+  tranningType: 3
+  dictionaryData: {fileID: 11400000, guid: 3a57cd45b7b0b6241adbd3267020d01b, type: 2}
+  hp: 20
+  mp: 20
+  dex: 4.5
+  atk: 5
+  def: 0
+  manaRecoveryRatio: 0.25
+  hpRecoveryRatio: 0.25
+  repeatRatio: 0
+  creaticalRatio: 0
+  datas:
+  - {fileID: 11400000, guid: be8e5e418b17ed449b09496c89800b74, type: 2}
+  percentSkillDatas:
+  - {fileID: 11400000, guid: ff10077403b94fa4cb67eaab1049281b, type: 2}
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: 208be31ce6053d84a946f45f482df23f, type: 2}
+  - {fileID: 11400000, guid: cec6199f4d5bf6b44a672d5d08e56ee3, type: 2}
+  abilities: 010000000c000000
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 00000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 010000000200000003000000040000000500000006000000090000000a0000000b0000000c0000000d0000000e0000000f0000001000000011000000120000000700000008000000
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

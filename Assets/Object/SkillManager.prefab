@@ -1,0 +1,394 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2819226395368079616
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1933401101362396552}
+  - component: {fileID: 7604223049214675909}
+  m_Layer: 0
+  m_Name: SkillManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1933401101362396552
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2819226395368079616}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3319548597235481432}
+  - {fileID: 7220728802069023019}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7604223049214675909
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2819226395368079616}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f42a9ce21967d645ad933a7989fb694, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  buffGolem: {fileID: 11400000, guid: d61d99c86e36ca348b302a4634a8ccde, type: 2}
+  buffGolem2: {fileID: 11400000, guid: 3435e5e81d589394a9913710facf6b7f, type: 2}
+  forestGod: {fileID: 11400000, guid: 5b2fa9d6292b12e419330fa470976fb8, type: 2}
+  liberationWarrior: {fileID: 11400000, guid: 608523c14967f68498a7753176b15647, type: 2}
+  behimosformchange: {fileID: 11400000, guid: 1e9aed7da99637047ad17c784f22a257, type: 2}
+  selectBox: {fileID: 9145531267092178819, guid: dd22bb33706513e4ea82db7f0a8a31f8, type: 3}
+  iceStormEffect: {fileID: 3681704783890444104}
+  nearDistanceHitEffect: {fileID: 5355527055955540956, guid: 29aa50f6b011fdc46b179d91f30b0e23, type: 3}
+  pogromHitEffect: {fileID: 5124967592864996317, guid: a3a4b3dd368f3954d8c95f78442dabf6, type: 3}
+  rushTrail: {fileID: 8642715723041244083, guid: 18922d9fb51a64944ae7dfc28b40385f, type: 3}
+  energyBall: {fileID: 44761963503437303, guid: 826b3747b34f0bc46a42c3b8a053dc00, type: 3}
+  elementalBuff: {fileID: 2056974685017553860, guid: ee483c180c22b704e853beb509285aae, type: 3}
+  fireBallEffect: {fileID: 69600016222251340, guid: f627243b27f45b24ebc91176c98bd878, type: 3}
+  fireBombEffect: {fileID: 5188106307157813319, guid: 551ab5468712c804e871b4c69a85fafe, type: 3}
+  fireBombHitEffect: {fileID: 8145341564898848833, guid: 006edd932d6ab6c4a8638696e48933bc, type: 3}
+  fireSnap: {fileID: 148630586751018383, guid: cff3a1d7779e86b4a8de3151687d92fd, type: 3}
+  fireWide: {fileID: 3548153164778784677, guid: 22670e9c33f46bd47bebc02cfcbf2967, type: 3}
+  singleFireWide: {fileID: 8403680460728828564, guid: d66b5d7bff87129439b90f17b83e6128, type: 3}
+  fireBraces: {fileID: 9095217835796767678, guid: e9c8808ce7ea54c47ba7adc9caf5ff4d, type: 3}
+  fireBrade: {fileID: 2800444851968714578, guid: ef611dd44373a62448930c891cef86ea, type: 3}
+  fireViper: {fileID: 8922812720813552100, guid: e59c3feff82146a4c85889eb7ac940c5, type: 3}
+  fireBuffEffect: {fileID: 8162554179843032568, guid: db7b6c17f31f499489cc3ab719f84f2e, type: 3}
+  meteorEffect: {fileID: 2210584715584897104, guid: 8a832dc5b6e1f5e45b6ffc37d1836214, type: 3}
+  dynamicPunchEffect: {fileID: 4233082006431550682, guid: f763b4059a041344b8bdb158b79edd6b, type: 3}
+  hellFireEffect: {fileID: 4688943096943785707, guid: bb052a177500bd04785f3eef2a896b61, type: 3}
+  iceBallEffect: {fileID: 3907772266019919363, guid: b777a8e8b0bbd4d408c97ffb7891d9e2, type: 3}
+  iceSpearEffect: {fileID: 4561405394831641998, guid: 66af4bb8466529343a6bff549c5a5228, type: 3}
+  iceCrystalEffect: {fileID: 6373253884218686714, guid: 5afc0b47216599a40a2466ba6fe3a2de, type: 3}
+  iceBurstEffect: {fileID: 2385876638231430862, guid: f543a5b3cf779124197637c32978473e, type: 3}
+  iceWall: {fileID: 578773707765078683, guid: bb7f5ffa625a1624ebc51763d712c21c, type: 3}
+  icebite: {fileID: 3339029875493619202, guid: 99cbd30117e83884185ab312735e5e0e, type: 3}
+  iceTrap: {fileID: 5172014150814623398, guid: 99f284bb88bff2843843b90d24dc4eb9, type: 3}
+  sheerColdPrefab: {fileID: 1248461887138784841, guid: 35cd7edf98a6943458732fb26abbcdc9, type: 3}
+  earthBreak: {fileID: 8629159281142194665, guid: b74517d75cac26f4f9a1fa2fa8b43426, type: 3}
+  earthSpike_fail: {fileID: 9171124662013247438, guid: 3472f757468d6d6478efff55c64989c5, type: 3}
+  earthSpike_goal: {fileID: 4688996091037254433, guid: 916e65fe7abbd4845a9426125d86d08a, type: 3}
+  earthSpike_goalCri: {fileID: 8674940680523981486, guid: 2f112347bac47f54b8038403069a1fb6, type: 3}
+  rockBlasterBullet: {fileID: 4237089860913360606, guid: 79476b2b29b40704e922985e92231561, type: 3}
+  rockBlasterBulletParent: {fileID: 5183987190904954955, guid: f1b49cfc4706d7148bd470ebb37e9ae6, type: 3}
+  sandHideEffect: {fileID: 4666503086575367970, guid: 5c73ce684be43924dbba2a079599dc01, type: 3}
+  strongWall: {fileID: 5079558999539417214, guid: d59b618a65c0242498799459c9cda39a, type: 3}
+  earthThrowingEffect: {fileID: 5687081208245540660, guid: 4084aa15d0fbb5544ab9a85ab5bcf63a, type: 3}
+  mudcastBullet: {fileID: 7754686229269289024, guid: 8057984097db08d4dbabac3435512698, type: 3}
+  drangonDive: {fileID: 6280887286730185774, guid: e00396769d66b994898906a48238cd2b, type: 3}
+  lightingLine: {fileID: 7375871312726100252, guid: 9c882480d5cb76f4291a6f2e01119d15, type: 3}
+  lightingCharge: {fileID: 3498325153499223155, guid: 66e3eab66789d90408cb2b005cb094fa, type: 3}
+  electronicShockEffect: {fileID: 6918492561769640399, guid: e21d5783fff95cf4794c8eedb53e9a7b, type: 3}
+  thunderManAura: {fileID: 2988318008197689647, guid: 2555324609879e24cbb3f78d339454fb, type: 3}
+  elecStart: {fileID: 2068876134938747032, guid: 224f0160c4c5faa41b7866c2eaaedf01, type: 3}
+  electronicSuction: {fileID: 3137193387620487426, guid: c5c7a0307c6c28945aade664ee477786, type: 3}
+  electronicSuctionCharge: {fileID: 8840174203125707745, guid: 1612424fb05d1994dbb74d9c5fd4b5a3, type: 3}
+  lightingVotexEffect: {fileID: 152586901701721120, guid: 9eeeb17026360be4dae63e2349d56151, type: 3}
+  thunderBoltEffect: {fileID: 7951049088817173949, guid: 0d8c1a97a8023984c982ede5962cf6bf, type: 3}
+  electronicPunchEffect: {fileID: 752098385733304424, guid: e9930740b6b3faa4c995f13c4e5f1a1b, type: 3}
+  electronicPunchEffect2: {fileID: 545887270063617690, guid: 373f52468a6e75c478ce3b56e8ccc2d9, type: 3}
+  electronicNet: {fileID: 935449271753818389, guid: a0b311770d025f040856acef17bcffec, type: 3}
+  electronicNetShot: {fileID: 4106484648357277782, guid: 92f03324faca65843a1b6396e0f8365d, type: 3}
+  diskDriveEffect: {fileID: 3547473990737249342, guid: 315bbb744d950a64183e2c3350818a4c, type: 3}
+  electronicBall: {fileID: 5416462828129570824, guid: 8c7cd8ad41a148e41a857f668cb33ba3, type: 3}
+  thunderBird: {fileID: 5918356323832342924, guid: 1345ba81bd2691c499e61bea635559b1, type: 3}
+  thunderBirdHit: {fileID: 3119564915486104252, guid: 672ac75fddb663941b874b9cc021d580, type: 3}
+  fairWindsEffect: {fileID: 2641649659335115201, guid: c8f8be297de0750478f92a73e96578cd, type: 3}
+  airHit: {fileID: 3599190806997250838, guid: f72f7da21f527b84194030682796ab58, type: 3}
+  windBlast: {fileID: 4992172718230074883, guid: 5d6ad33064f88544888d636d3895fee2, type: 3}
+  airBall: {fileID: 3353985583827282610, guid: daa976ae5c22524458eafeff2661c158, type: 3}
+  sonicBoom: {fileID: 3265792690540314092, guid: a8d0573d9e5fdb647aa518ea762d3bf6, type: 3}
+  airDrive: {fileID: 4090470817632133060, guid: 852ac182f5cf20247b49ba2f4f543921, type: 3}
+  windSwap: {fileID: 7909692465077073906, guid: d1ef32e2d11a20040aa0068204a028f6, type: 3}
+  tornado: {fileID: 3212151888142221042, guid: 6063750a9100e894db19fdea45c85967, type: 3}
+  tornadoBarrior: {fileID: 3942597995282086468, guid: b23d707393ab11e4391689d9d3c22ffe, type: 3}
+  windClone: {fileID: 3074653212437789529, guid: da0f09caca9aa4144898dbabacec39e5, type: 3}
+  sharpWindHit: {fileID: 1101013762043851402, guid: f1606c4bf3d17024ab27ac04b5d8cfd4, type: 3}
+  poisonFog: {fileID: 2751862887951351513, guid: 70ef15f67b19c774ebd100206ca06149, type: 3}
+  poisonHit: {fileID: 9038377511084523420, guid: ab6af74648ae03146a0381b45beb044d, type: 3}
+  poisonNeedle: {fileID: 1521606927817314108, guid: 7b0b474df20594244bc641b7c7ddaf1f, type: 3}
+  netBall: {fileID: 2006450861827951212, guid: 35b8a4e8ac498bc47a618c295a76cc24, type: 3}
+  cocktailEffect: {fileID: 6676177473987694956, guid: 5336ff249a93d4f4194dcf13c194574c, type: 3}
+  cocktailEffect_2: {fileID: 6676177473987694956, guid: aaebd7431f7701749b06fead4c2bf559, type: 3}
+  deadPoisonHit: {fileID: 1684162547846154414, guid: 3ebd18c646780344ca6668822dc0696b, type: 3}
+  tailAttackEffects: {fileID: 4068713176982263267, guid: a28e9f9b943ac7c42a3a3ccb69715941, type: 3}
+  acidBallEffect: {fileID: 8701757022268536896, guid: b0250725e5e13824393dbb1fedbaf57c, type: 3}
+  poisonPool: {fileID: 7787694442989048704, guid: 2bf50fb4260da0748a81a3411b4d5265, type: 3}
+  poisonWindBlast: {fileID: 706730370050143611, guid: 21d904bc2cebcb94ebb2b3bfde979254, type: 3}
+  poisonWind: {fileID: 2641649659335115201, guid: ee09d94475d551449865df6bfb14b114, type: 3}
+  acidRumble: {fileID: 4053850001810440069, guid: 1e4d97470808fdb44943775001f82093, type: 3}
+  suctionEffect: {fileID: 4311135199788244681, guid: ab4e6b050bdf9c944b5c29a18be1e32c, type: 3}
+  mpSuctionEffect: {fileID: 4311135199788244681, guid: ab898ec6d1d8d9b4fbdfb91ab7c31984, type: 3}
+  hitPlant: {fileID: 2288722068346257378, guid: a38fbb17bb1760948b87c22c0318965d, type: 3}
+  hitStamp: {fileID: 5488332270345905883, guid: b623dc21200c0ae49930234853824ec3, type: 3}
+  grassKnot: {fileID: 4444249378025484110, guid: 9f4a8844ccc313b43bfb116d93013c9f, type: 3}
+  synthesis: {fileID: 3297976295317934449, guid: a7b34585b7adb4b4db3024863a5152f0, type: 3}
+  leafBlade: {fileID: 4221393023747913428, guid: c60acbee37f7da040b1e075a2bf19467, type: 3}
+  woodStern: {fileID: 1846739738563692358, guid: 8cf5b4326f7db87429c03ab68e1edbe0, type: 3}
+  woodBullet: {fileID: 3146885881534971561, guid: 9f2d65e36317e5342aee79a57dc268bd, type: 3}
+  changeWeight: {fileID: 7671904232481472200, guid: ef460da7e0c40a64caabc02019cc6e27, type: 3}
+  woodCrash: {fileID: 7326584118583968374, guid: 7ba96ac4b07edc6448349344fa11dbb9, type: 3}
+  naturePower: {fileID: 4571630666853522154, guid: 64c34a93619c9cd42944627667aa47ab, type: 3}
+  givingTree: {fileID: 8100030313885598589, guid: fec3f067c5455f24b997e3bffc602432, type: 3}
+  shadowBall: {fileID: 2934999396833412389, guid: 34e6745c6d38c0c45924ac57273e3955, type: 3}
+  demonsEyes: {fileID: 3254535967012309833, guid: bb395e63b9ab49a4d96de3c443f2229a, type: 3}
+  demonsEyesPoint: {fileID: 435123466534343030, guid: 2b6d930d3f1642942a3af64f251028be, type: 3}
+  surpriseAttackEffect: {fileID: 7821655163279912668, guid: e22adfe33aeaf3c4fb07766100328288, type: 3}
+  destinyBondEffect: {fileID: 2753626059813185260, guid: 2303a85cde64f974c97f74468026ab8c, type: 3}
+  evilSoulParent: {fileID: 1437738264251583913, guid: 75b637eeef2121a4b998579b4bded771, type: 3}
+  mindControlEffect: {fileID: 4249208666542919329, guid: e49aa079a26017047b783292eb50b530, type: 3}
+  mindControlSucessEffect: {fileID: 5814760107287331173, guid: 91a85c3a7e938ae47a0bbf6ccbab18df, type: 3}
+  trickRoomEffect: {fileID: 1500245556200252715, guid: dd54947f63c8a1f48892c8e0bc0fd806, type: 3}
+  soulSlashEffect: {fileID: 6033046984248422063, guid: 53226211c635fd241bc994d89cafd9ec, type: 3}
+  soulAttackEffect: {fileID: 1643412192607414919, guid: bee318184b0d2344c98d6a1f7d2b91c9, type: 3}
+  skullDice: {fileID: 3026931871916244983, guid: f5850f56742f04f4fbdb869ac10cab83, type: 3}
+  magiceCicle: {fileID: 1285354326586844846, guid: dbebb017c17ea1b4bb4ccdcc61923f3a, type: 3}
+  paradox: {fileID: 8323786925107283403, guid: 30beb8b8e44380649aa30893d8625d21, type: 3}
+  summonsBook: {fileID: 5472378319695188968, guid: 2a41eb485bfe3304ca38ba0f11d15e0e, type: 3}
+  pandora: {fileID: 2447427117893284375, guid: 3f2b8589fe2dcda41a7ae802e2f4d386, type: 3}
+  darkHole: {fileID: 8902024692378046496, guid: 7aaac0ac546bf824e92ca91bcbfa5151, type: 3}
+  darkHoleRemoveObj: {fileID: 4555763513258335884, guid: ba009390c88821a439fb43425faaf703, type: 3}
+  timeleap: {fileID: 6555446494885430241, guid: 5cb981c6835fbd24aa9d1f6bd73b1c09, type: 3}
+  darkLoad: {fileID: 4932909437669239036, guid: d171ad1f1d444d94499fa4b4dbd856b4, type: 3}
+  mythofSpear: {fileID: 7503010785384721157, guid: cbb68b8b80309594fba9abbf75ded0af, type: 3}
+  deathRollEffect: {fileID: 3607838972210269252, guid: c30a212668808334999a7adfe8aa3dea, type: 3}
+  lockSkillEffect: {fileID: 7413597592527680224, guid: ea50a32756835e941ac9934442bbdad5, type: 3}
+  deathMatchTimeEffect: {fileID: 3523867711903179287, guid: 99074f781d6e0ac42bf45291edf7681f, type: 3}
+  soulBlade: {fileID: 3343347014564975299, guid: 80b0049b48931fa4db4025228f9d9d9c, type: 3}
+  shadowPunch: {fileID: 8500091154072042510, guid: 04c85bf850902f5448db98ec2111007e, type: 3}
+  shadowPunchSupport: {fileID: 3760806193981793348, guid: c4d354ad32edad64c81c3da65aecc94c, type: 3}
+  formchange5_hit: {fileID: 6019981047589561917, guid: ed0f14f73bf30db40a280523e0995f68, type: 3}
+  holyArrow: {fileID: 6257120103533265735, guid: 8f6f2f4956f790a41b53ebe5ab750d0a, type: 3}
+  holySword: {fileID: 7509860834065600261, guid: 3463d709257b03c45a9bdc726998258c, type: 3}
+  holyDefense: {fileID: 535802575927265043, guid: ba100a0afbea2734d9a8738fb3b953e4, type: 3}
+  holyLight: {fileID: 2006450861827951212, guid: ac9f73703256f154db0bc65fa19c0e5f, type: 3}
+  blastRain: {fileID: 2210584715584897104, guid: 0a033531c64c7ab489d89e2b63a7e636, type: 3}
+  sealedSword: {fileID: 1982163999163942582, guid: 943311b9570979a4fad97b4be6218baf, type: 3}
+  easter: {fileID: 8626774802509345364, guid: c1a943377a4dc184780be57beb9251d3, type: 3}
+  lazerBeam: {fileID: 1873283282455326609, guid: 9cd0923a383aa1d459a35f88825a6249, type: 3}
+  holyRecoveryEffect: {fileID: 3297976295317934449, guid: cfd3f240ab9f3ab47aa73479ef12cd50, type: 3}
+  holyRecoveryParent: {fileID: 4311135199788244681, guid: fcf02e7994b8e334aa1d493cfca1e9bf, type: 3}
+  collaboration: {fileID: 4244498895124309851, guid: e2b8a9c0a9ac94e4789e21ed01601c7a, type: 3}
+  liberationKnell: {fileID: 9159900676708492116, guid: 7fb167f7384ddc14abdf2a38860516c5, type: 3}
+  divinePowerEffect: {fileID: 3843507292828437822, guid: c5dc4271e5e851f4099c6638c136b46c, type: 3}
+  powerBalance: {fileID: 6264142597639593305, guid: 5ce8b2997c2217c4e82f77bcc9649577, type: 3}
+  lentPower: {fileID: 317099662345654749, guid: a547890b79db07341b19bc49579d2f4e, type: 3}
+  holyEffect: {fileID: 3067641025102435135, guid: dc3c132efbae7f844acdb6537e5707dc, type: 3}
+  recoveryEffect: {fileID: 5237791426434770625, guid: 343bda1c78110bb45826c6431224348e, type: 3}
+  burnEffect: {fileID: 8137407040308030115, guid: 1fa5a47cc04d03f4fa339a5777775923, type: 3}
+  unableEffect: {fileID: 5610066517740229813, guid: df3c4ae3e62a1e643aa23ef6863c7e5b, type: 3}
+  poisenEffect: {fileID: 6066578373069449901, guid: 141c630dfc9792844a370cc0630ad23c, type: 3}
+  deadlyPoisonEffect: {fileID: 3181485102470045456, guid: 1db0f1fbe166c514bb64d8fd211bea72, type: 3}
+  palalysisEffect: {fileID: 2709475690752790255, guid: 35d1dcb5713576946bce36f7e2ba2f57, type: 3}
+  debuffShiledEffect: {fileID: 711688947697691565, guid: 0027521a434499341a8e6e0cb4cb98af, type: 3}
+  debuffSpeedEffect: {fileID: 5989071079244914899, guid: 538e402546ece434689be359df916da2, type: 3}
+  debuffAttackEffect: {fileID: 7090312155159612133, guid: 5df44f0a9ea2c7b49a202347966dfe08, type: 3}
+  buffShiledEffect: {fileID: 8388261851556205386, guid: 5b074de0afc38fb438eee886e3e456c3, type: 3}
+  buffSpeedEffect: {fileID: 5545521869748591153, guid: 4269e491b6333bd499d4afc8bf1c1f9f, type: 3}
+  buffAttackEffect: {fileID: 6607032207404466086, guid: 12cf4caec7e4d714b84976bd6c251c66, type: 3}
+  meditation: {fileID: 1617161949103426649, guid: 50559e29baf50a240b592159e924d360, type: 3}
+  spicalAttackBackground: {fileID: 7276329745889785651, guid: 43cd0b7cc4a24664aa01cd234e66a6c2, type: 3}
+  spicalAttackBackground2: {fileID: 7276329745889785651, guid: 2d07caba76bdcdd4592287a265b6aac0, type: 3}
+  self_destruction: {fileID: 8198625685918365950, guid: 902c67fbfe1132b458c9c6dd7309e484, type: 3}
+  explosition: {fileID: 8923096163809271323, guid: a5b706eaa40deab49bbf4e7020c7fe89, type: 3}
+  madessBurn: {fileID: 656813965819432892, guid: aa9bb058bd990414cbcd3d760fff0e18, type: 3}
+  monsterDeadEffect: {fileID: 8906997198802288053, guid: c7baba076410e0b4593b92bde3ea1e63, type: 3}
+  monsterDeadEffect2: {fileID: 8906997198802288053, guid: a27e8b279af96aa47bae5cb2b904549a, type: 3}
+  strongDefenseEffect: {fileID: 3283420469610559366, guid: 17701212db9076a45bee4b5e041d3bf6, type: 3}
+  weakUpEffect: {fileID: 1791058847334035007, guid: 7ce82abb7ee6192478239576436b61fd, type: 3}
+  flyingMoveEffect: {fileID: 4638970209192402037, guid: f84003aa975408248bb25d54e11485a4, type: 3}
+  livingDeadStartEffect: {fileID: 3428723240982920349, guid: a5aa9ec0d80ca4945ba55da62f9fe18a, type: 3}
+  dawnDeathCountEffect: {fileID: 7963718995688527404, guid: a4a75218a44de3245afdbd1428b13e9b, type: 3}
+  sheercoldRandomDeathEffect: {fileID: 8476664760847865586, guid: 0b41c045252dba241b6c7d787ed3366c, type: 3}
+  dawnEffect: {fileID: 611741755485702828, guid: 305c8d7cf542a59459cfd3fd7c327afb, type: 3}
+  worldItem: {fileID: 1702165477928116104, guid: 5350d0c63b7ab4c4494940b1d0c4c26e, type: 3}
+  dissolveObject: {fileID: 6127856843010303186, guid: 442031b370370b34686def6f9147e535, type: 3}
+  earthQuakeEffect:
+  - {fileID: 8607715663369735755, guid: af2da87724fe07c4eb4dbd7c694558ec, type: 3}
+  - {fileID: 8607715663369735755, guid: 95673610b36b09d4aa87e780a15fb441, type: 3}
+  - {fileID: 8607715663369735755, guid: 63d49a24db6dfbc4f92a5350ab2eb222, type: 3}
+  counterAttackSprite: {fileID: 21300000, guid: 09b084fca5fb8364ab97a0731721a4e3, type: 3}
+  madnessSprite: {fileID: 21300000, guid: 9feae16855dab7a4e83ff7aa9d0fcc60, type: 3}
+  strongDefenseSprite: {fileID: 21300000, guid: 75c184e5953e73b44912da3ef2b824ee, type: 3}
+  thunderManSprite: {fileID: 21300000, guid: ee84e0fce1323984383ba279693e3ca9, type: 3}
+  poisonBarriorSprite: {fileID: 21300000, guid: 2a35833bac2d9004ebb267bb09bfaa33, type: 3}
+  surpriseAttackSprite: {fileID: 21300000, guid: a5bbe506faaeece42915d3f9f68837d8, type: 3}
+  destinyBodSprite: {fileID: 21300000, guid: 8222e2b467194c54399b716018dee91c, type: 3}
+  destinyOfTheTeamSprite: {fileID: 21300000, guid: 05a27e4396c156245a6f7790b2ef3a87, type: 3}
+  noblesseObligeSprite: {fileID: 21300000, guid: 9a049dbff5a5a3b43af97a0bb09f1047, type: 3}
+  elementalKingsSprite: {fileID: 21300000, guid: cd3f49285debe144682960380f1120d8, type: 3}
+  lockonSprite: {fileID: 21300000, guid: 53620ccb91def5046b7232cecf814554, type: 3}
+  suctionMaterial: {fileID: 2100000, guid: b099686801424c24a84cbf3a94ff119d, type: 2}
+  holyMaterial: {fileID: 2100000, guid: 67c8de0fe90160842b6e4006c57df326, type: 2}
+  shaodwMaterial: {fileID: 2100000, guid: 4c1517011402ed144b37bde979aee1dc, type: 2}
+  spriteMask: {fileID: 3372763428510794143, guid: 516071f5f59ab074fb0f0d5061025873, type: 3}
+  flowingText: {fileID: 8763848484508267344, guid: b8608609abeb3a348b825f86cd80732c, type: 3}
+  flowingText2: {fileID: 8763848484508267344, guid: 3feda7b7e96d159489018ddf02ac343c, type: 3}
+  elemantalText: {fileID: 8763848484508267344, guid: b772c61bb64d774479c57fe762dd3556, type: 3}
+  countText: {fileID: 8437256350953349212, guid: d0b4dd9dede259b4597df0c9b2d80851, type: 3}
+  fireBracesSkillData: {fileID: 11400000, guid: 821f69f98e75b5f499ea203fe622b058, type: 2}
+  strongDefenseSkillData: {fileID: 11400000, guid: 3bc8bda529d04e54eabc77820fdbbca2, type: 2}
+  sandHideData: {fileID: 11400000, guid: b12e4197c9eac9145bc4f22cf68783ed, type: 2}
+  mudCast: {fileID: 11400000, guid: 0e2e02d0bb4ae6a489f7084cf783d27a, type: 2}
+  thunderMan: {fileID: 11400000, guid: bf813b86c88504141964f5e15a718cf9, type: 2}
+  headBut: {fileID: 11400000, guid: 0c46f921554befd4d88394ae54abd0c7, type: 2}
+  poisonPoolData: {fileID: 11400000, guid: 23004c917e0d8c740ba956790480b78e, type: 2}
+  surpriseAttackSkillData: {fileID: 11400000, guid: 74f85d9e7850bb142881432ef90f39f1, type: 2}
+  shadowCrewSkillData: {fileID: 11400000, guid: c8cf3b2c0a05c5041982d9d9108af891, type: 2}
+  formChange4SkillData: {fileID: 11400000, guid: 933cba10baa4c98428cdb66d54667591, type: 2}
+  holyRecoverySkillData: {fileID: 11400000, guid: 4d737496508e8f44fa9c2ee08bfcd6f4, type: 2}
+  divinePowerSkillData: {fileID: 11400000, guid: 9f71ff3fe047eec46813f6b14eb28cb7, type: 2}
+  madnessSkillData: {fileID: 11400000, guid: 8e65bbf1d3d72f34aa14ef4483d0c8f4, type: 2}
+  drivenSkillData: {fileID: 11400000, guid: bab6e13977e243a4da50c84c871f0d28, type: 2}
+  fireBallData: {fileID: 11400000, guid: a56bb8b9fc255ef48827b0fc9bc4826a, type: 2}
+  fireBracesData: {fileID: 11400000, guid: 821f69f98e75b5f499ea203fe622b058, type: 2}
+  destinyBondSkillData: {fileID: 11400000, guid: 70e5aad3056b95a4cb1eb65d4dba96be, type: 2}
+  poisonBarriorData: {fileID: 11400000, guid: a7722523f427dee498a3029bc9a8d148, type: 2}
+  electronicNetData: {fileID: 11400000, guid: dc02d43083609884da7089e0a3f7931f, type: 2}
+  sheercoldData: {fileID: 11400000, guid: e223f634754aba14fb45b8f4c45a80a1, type: 2}
+--- !u!1 &3164574560402136106
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7220728802069023019}
+  - component: {fileID: 6901874400596596076}
+  - component: {fileID: 6224195796255279663}
+  m_Layer: 0
+  m_Name: Player
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7220728802069023019
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3164574560402136106}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1933401101362396552}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6901874400596596076
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3164574560402136106}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a39f5a41891d08548a2b28429dcf4a5b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &6224195796255279663
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3164574560402136106}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ebde6096e514a9428a8234b706156b7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moneySprite: {fileID: 21300000, guid: d7d998e986c7c4343bfef7f3b578e542, type: 3}
+  diamondSprite: {fileID: 21300000, guid: cfc63c46cd9b17a47a6c0a22cd7166b5, type: 3}
+  fameSprite: {fileID: 21300000, guid: 62be80847bc7bbf4a84239aa0572bc66, type: 3}
+  rankingSprite: {fileID: 21300000, guid: 20d85b99d6f9fd6489968cbebff5d6b7, type: 3}
+--- !u!1001 &8140582821935085866
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1933401101362396552}
+    m_Modifications:
+    - target: {fileID: 4891228108284434018, guid: 6e6b4f3a5c2d0b74ead5c3776a878cfa, type: 3}
+      propertyPath: m_Name
+      value: iceStorm
+      objectReference: {fileID: 0}
+    - target: {fileID: 6838803096081760882, guid: 6e6b4f3a5c2d0b74ead5c3776a878cfa, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6838803096081760882, guid: 6e6b4f3a5c2d0b74ead5c3776a878cfa, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6838803096081760882, guid: 6e6b4f3a5c2d0b74ead5c3776a878cfa, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6838803096081760882, guid: 6e6b4f3a5c2d0b74ead5c3776a878cfa, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6838803096081760882, guid: 6e6b4f3a5c2d0b74ead5c3776a878cfa, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6838803096081760882, guid: 6e6b4f3a5c2d0b74ead5c3776a878cfa, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6838803096081760882, guid: 6e6b4f3a5c2d0b74ead5c3776a878cfa, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6838803096081760882, guid: 6e6b4f3a5c2d0b74ead5c3776a878cfa, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6838803096081760882, guid: 6e6b4f3a5c2d0b74ead5c3776a878cfa, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6838803096081760882, guid: 6e6b4f3a5c2d0b74ead5c3776a878cfa, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6838803096081760882, guid: 6e6b4f3a5c2d0b74ead5c3776a878cfa, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6e6b4f3a5c2d0b74ead5c3776a878cfa, type: 3}
+--- !u!4 &3319548597235481432 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6838803096081760882, guid: 6e6b4f3a5c2d0b74ead5c3776a878cfa, type: 3}
+  m_PrefabInstance: {fileID: 8140582821935085866}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &3681704783890444104 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4891228108284434018, guid: 6e6b4f3a5c2d0b74ead5c3776a878cfa, type: 3}
+  m_PrefabInstance: {fileID: 8140582821935085866}
+  m_PrefabAsset: {fileID: 0}

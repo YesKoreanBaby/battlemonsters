@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: caaa76378291a144d849f29230be0a5a, type: 3}
+  m_Name: witch2
+  m_EditorClassIdentifier: 
+  <FileName>k__BackingField: witch2
+  <DialogueGroups>k__BackingField:
+    list: []
+  <UngroupedDialogues>k__BackingField:
+  - {fileID: 11400000, guid: e0c68993bd14df14fa2f11533d52344c, type: 2}
+  - {fileID: 11400000, guid: d3c9f71a6cec1044e900c959058f9e5f, type: 2}
+  - {fileID: 11400000, guid: 0ca3c28ab04239a49a4525e7134b7dec, type: 2}
+  - {fileID: 11400000, guid: 7f07e8f73c5f1604f9d6fdcdec3be2d0, type: 2}

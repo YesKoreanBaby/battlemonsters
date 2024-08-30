@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15b14fa3d9808264b8fe827ed02cbbcc, type: 3}
+  m_Name: bluedragonII_
+  m_EditorClassIdentifier: 
+  monsterName: "<b><size=28>\uBE14\uB8E8 \uB4DC\uB798\uACE4 II"
+  description: "\uC5BC\uC74C\uC73C\uB85C \uB4A4\uB36E\uD78C\n\uC808\uB300 \uACBD\uB3C4\uB97C
+    \uC9C0\uB154\uB2E4."

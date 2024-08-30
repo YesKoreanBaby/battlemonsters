@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: caaa76378291a144d849f29230be0a5a, type: 3}
+  m_Name: witch3
+  m_EditorClassIdentifier: 
+  <FileName>k__BackingField: witch3
+  <DialogueGroups>k__BackingField:
+    list: []
+  <UngroupedDialogues>k__BackingField:
+  - {fileID: 11400000, guid: 62fde68ef8fef4d4dacc3e36c89e3dee, type: 2}
+  - {fileID: 11400000, guid: e8deab893dce51c4795ab4653d138797, type: 2}
+  - {fileID: 11400000, guid: 40aef0f16c9a39743ad62a118b564cb5, type: 2}
+  - {fileID: 11400000, guid: b18d95549c480a44fa6e77ccf56753dc, type: 2}
+  - {fileID: 11400000, guid: db240f7677a4f3b4cb502e085ef4745e, type: 2}
+  - {fileID: 11400000, guid: 1ddbb77911e2b3a4c8f150ba233e85dd, type: 2}
+  - {fileID: 11400000, guid: 46bebc7b3f38ca64abf4e19d4c205eec, type: 2}
+  - {fileID: 11400000, guid: 339fdcc36ff218344adac389be3bc9d3, type: 2}
+  - {fileID: 11400000, guid: e1fdfadb811adae4891b18d7d611b472, type: 2}
+  - {fileID: 11400000, guid: ae7af985f7a645f4f8dac72f28fbfb5f, type: 2}

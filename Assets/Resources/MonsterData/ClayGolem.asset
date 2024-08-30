@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: ClayGolem
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 120367693718703622, guid: a7b7a6e237b264f47be67d1fa6c3098c, type: 3}
+  battleAIType: 0
+  evolutionType: 0
+  status: 3
+  monsterWeight: 2
+  monsterClass: 1
+  spawnItems: []
+  tranningType: 0
+  dictionaryData: {fileID: 11400000, guid: da10cf2e76c7327429adeb0a7ada643f, type: 2}
+  hp: 20
+  mp: 10
+  dex: 4.8
+  atk: 5
+  def: 0
+  manaRecoveryRatio: 0.1
+  hpRecoveryRatio: 0.1
+  repeatRatio: 0
+  creaticalRatio: 0.1
+  datas:
+  - {fileID: 11400000, guid: 0e2e02d0bb4ae6a489f7084cf783d27a, type: 2}
+  - {fileID: 11400000, guid: 0c46f921554befd4d88394ae54abd0c7, type: 2}
+  percentSkillDatas: []
+  triggerSkillDatas: []
+  abilities: 
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 00000000
+  possibleSkillDatas:
+  - {fileID: 11400000, guid: 6b494d24f0f7a244faeaa4ef61d0958f, type: 2}
+  - {fileID: 11400000, guid: 19abd5f9c1dfd134996e6267164c9f03, type: 2}
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas:
+  - {fileID: 11400000, guid: 538f8c3a83cd00a4d988d5535a044a07, type: 2}
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 01000000020000000300000004000000
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

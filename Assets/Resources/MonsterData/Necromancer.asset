@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: Necromancer
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 9081342387183731332, guid: 5d361f12c8dc34f45a6f3aed199512d7, type: 3}
+  battleAIType: 5
+  evolutionType: 0
+  status: 9
+  monsterWeight: 0
+  monsterClass: 2
+  spawnItems: []
+  tranningType: 8
+  dictionaryData: {fileID: 11400000, guid: 3624a7c45cfe9874b9fd78f564c9304a, type: 2}
+  hp: 20
+  mp: 45
+  dex: 5.2
+  atk: 1
+  def: 0
+  manaRecoveryRatio: 0.25
+  hpRecoveryRatio: 0.1
+  repeatRatio: 0.1
+  creaticalRatio: 0.1
+  datas:
+  - {fileID: 11400000, guid: 2be50266211d5d940b7cc11d3d6db770, type: 2}
+  percentSkillDatas:
+  - {fileID: 11400000, guid: a88144834becca745a519c21e72c8d57, type: 2}
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: 4cd6d3fdaa97a554cb3de0d62b2665ab, type: 2}
+  abilities: 0c000000
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 04000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

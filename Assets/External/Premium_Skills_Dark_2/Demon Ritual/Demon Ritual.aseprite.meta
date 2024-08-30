@@ -1,0 +1,1119 @@
+fileFormatVersion: 2
+guid: 1f67d3ff82386f94c85039579ac28bbc
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Demon Ritual_Frame_0
+    originalName: 
+    pivot: {x: 2.1000001, y: -3.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 252
+      y: 1011
+      width: 30
+      height: 2
+    spriteID: 62b950ebb6b24324680cdc05d7aff8a2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 252, y: 1011}
+  - name: Demon Ritual_Frame_1
+    originalName: 
+    pivot: {x: 1.46, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 1011
+      width: 50
+      height: 8
+    spriteID: 5566d11f797d0cd43b9db6066448b7a7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 1011}
+  - name: Demon Ritual_Frame_2
+    originalName: 
+    pivot: {x: 1.1944444, y: -0.14285715}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 996
+      width: 72
+      height: 14
+    spriteID: 2722f724b30f1f04b80828c4fcaa7b17
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 996}
+  - name: Demon Ritual_Frame_3
+    originalName: 
+    pivot: {x: 1.1944444, y: -0.08695652}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 965
+      width: 72
+      height: 23
+    spriteID: 24f6bed4f5bc7d14ab159287e4d927cc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 965}
+  - name: Demon Ritual_Frame_4
+    originalName: 
+    pivot: {x: 1.1944444, y: -0.05714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 968
+      width: 72
+      height: 35
+    spriteID: 8495c1d5da19eab4581b0375b5e7770a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 968}
+  - name: Demon Ritual_Frame_5
+    originalName: 
+    pivot: {x: 1.1944444, y: -0.045454547}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 101
+      y: 970
+      width: 72
+      height: 44
+    spriteID: cb2da16608e38d04882e8970bd2c1ceb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 101, y: 970}
+  - name: Demon Ritual_Frame_6
+    originalName: 
+    pivot: {x: 1.1944444, y: -0.032258064}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 291
+      y: 82
+      width: 72
+      height: 62
+    spriteID: 15e0b44936ef2fd40be6a12258c19cd4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 291, y: 82}
+  - name: Demon Ritual_Frame_7
+    originalName: 
+    pivot: {x: 1.1917808, y: -0.02739726}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 101
+      y: 802
+      width: 73
+      height: 73
+    spriteID: 49492b03b0f299a41ab92f1f2f0a027f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 101, y: 802}
+  - name: Demon Ritual_Frame_8
+    originalName: 
+    pivot: {x: 1.1891892, y: -0.02777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 808
+      width: 74
+      height: 72
+    spriteID: b9de415f88c7d854baa15515c4c54e19
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 808}
+  - name: Demon Ritual_Frame_9
+    originalName: 
+    pivot: {x: 1.1917808, y: -0.02739726}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 727
+      width: 73
+      height: 73
+    spriteID: 60edaea83baa11541a310c5bd53db037
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 727}
+  - name: Demon Ritual_Frame_10
+    originalName: 
+    pivot: {x: 1.1917808, y: -0.02777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 888
+      width: 73
+      height: 72
+    spriteID: 88f57161eeda46d449b47a10a62a33a9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 888}
+  - name: Demon Ritual_Frame_11
+    originalName: 
+    pivot: {x: 1.1917808, y: -0.02857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 291
+      y: 4
+      width: 73
+      height: 70
+    spriteID: 7956489192199ff46b56b7dd4d291598
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 291, y: 4}
+  - name: Demon Ritual_Frame_12
+    originalName: 
+    pivot: {x: 1.1944444, y: -0.028169015}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 114
+      y: 722
+      width: 72
+      height: 71
+    spriteID: e4cd5a16839ab0840bd1db905094f78e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 114, y: 722}
+  - name: Demon Ritual_Frame_13
+    originalName: 
+    pivot: {x: 1.0886075, y: -0.025641028}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 101
+      y: 884
+      width: 79
+      height: 78
+    spriteID: 24e2b188227910745b06aa6769e54ed3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 101, y: 884}
+  - name: Demon Ritual_Frame_14
+    originalName: 
+    pivot: {x: 0.9662921, y: -0.028169015}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 568
+      width: 89
+      height: 71
+    spriteID: c1017bfe861d6c04aad9bb27198d8163
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 568}
+  - name: Demon Ritual_Frame_15
+    originalName: 
+    pivot: {x: 0.9662921, y: -0.02777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 247
+      width: 89
+      height: 72
+    spriteID: 86b623c96e8fe424bb5b2d586274a4e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 247}
+  - name: Demon Ritual_Frame_16
+    originalName: 
+    pivot: {x: 0.9662921, y: -0.02739726}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 884
+      width: 89
+      height: 73
+    spriteID: b2b2efe0cbd1f994e9b4ac344fc9e2a4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 884}
+  - name: Demon Ritual_Frame_17
+    originalName: 
+    pivot: {x: 0.9662921, y: -0.027027026}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 802
+      width: 89
+      height: 74
+    spriteID: 861ec0647112d3c46a5f8fc0e8711cb0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 802}
+  - name: Demon Ritual_Frame_18
+    originalName: 
+    pivot: {x: 0.9662921, y: -0.02777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 327
+      width: 89
+      height: 72
+    spriteID: a5caa3be17bc34947a586150e609025e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 327}
+  - name: Demon Ritual_Frame_19
+    originalName: 
+    pivot: {x: 0.9662921, y: -0.02739726}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 4
+      width: 89
+      height: 73
+    spriteID: f1af87ce4c28d6c49a413f01d5c6c1b7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 4}
+  - name: Demon Ritual_Frame_20
+    originalName: 
+    pivot: {x: 0.9662921, y: -0.02739726}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 85
+      width: 89
+      height: 73
+    spriteID: 0a2d5d7a744c8e44d91014e079f7f963
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 85}
+  - name: Demon Ritual_Frame_21
+    originalName: 
+    pivot: {x: 0.97727275, y: -0.02739726}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 166
+      width: 88
+      height: 73
+    spriteID: f7d6aafc09a7d114f9bc1b50446e78b6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 166}
+  - name: Demon Ritual_Frame_22
+    originalName: 
+    pivot: {x: 0.9885057, y: -0.02739726}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 487
+      width: 87
+      height: 73
+    spriteID: 361c164e55b5d3f4995c60052a1f7245
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 487}
+  - name: Demon Ritual_Frame_23
+    originalName: 
+    pivot: {x: 0.9885057, y: -0.02777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 647
+      width: 87
+      height: 72
+    spriteID: c9baed5de0894c640baae34df51a8891
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 647}
+  - name: Demon Ritual_Frame_24
+    originalName: 
+    pivot: {x: 0.84313726, y: -0.02777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 722
+      width: 102
+      height: 72
+    spriteID: 5b1df78e8b7d8754ca4aef1824391e92
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 722}
+  - name: Demon Ritual_Frame_25
+    originalName: 
+    pivot: {x: 0.47252747, y: -0.02777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 182
+      height: 72
+    spriteID: 1d7a61f4783e8b3479d7dd13fdd8dc3f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Demon Ritual_Frame_26
+    originalName: 
+    pivot: {x: 0.47252747, y: -0.02777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 84
+      width: 182
+      height: 72
+    spriteID: 038517bb81783a940a6f3248c045d594
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 84}
+  - name: Demon Ritual_Frame_27
+    originalName: 
+    pivot: {x: 0.47252747, y: -0.02777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 164
+      width: 182
+      height: 72
+    spriteID: b5c4f52e27f45c0489e9dcbafaab91b5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 164}
+  - name: Demon Ritual_Frame_28
+    originalName: 
+    pivot: {x: 0.47252747, y: -0.02777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 244
+      width: 182
+      height: 72
+    spriteID: 61846279958fbff41954ba60597a3da3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 244}
+  - name: Demon Ritual_Frame_29
+    originalName: 
+    pivot: {x: 0.47252747, y: -0.02777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 324
+      width: 182
+      height: 72
+    spriteID: 912f7d6791c6e94459dfc9dd0be36da1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 324}
+  - name: Demon Ritual_Frame_30
+    originalName: 
+    pivot: {x: 0.47252747, y: -0.02777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 404
+      width: 182
+      height: 72
+    spriteID: 62b8dd67eef31eb4d89b9d26702b4176
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 404}
+  - name: Demon Ritual_Frame_31
+    originalName: 
+    pivot: {x: 0.47252747, y: -0.028169015}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 484
+      width: 182
+      height: 71
+    spriteID: 74e0727c87a41c44c9a22af15c9578ed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 484}
+  - name: Demon Ritual_Frame_32
+    originalName: 
+    pivot: {x: 0.47252747, y: -0.028169015}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 563
+      width: 182
+      height: 71
+    spriteID: c1e6eecb975f4e6488cd58e58dc4244b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 563}
+  - name: Demon Ritual_Frame_33
+    originalName: 
+    pivot: {x: 0.4858757, y: -0.02777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 642
+      width: 177
+      height: 72
+    spriteID: 733d963cf33fb5c4d9eab7295d69b828
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 642}
+  - name: Demon Ritual_Frame_34
+    originalName: 
+    pivot: {x: 0.9662921, y: -0.02777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 407
+      width: 89
+      height: 72
+    spriteID: 791f90c7a7aef314ba1084dfb57136ca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 407}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 372297600
+    name: Demon Ritual
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Demon Ritual_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 33
+        y: 7
+        width: 30
+        height: 2
+      spriteId: 62b950ebb6b24324680cdc05d7aff8a2
+    - name: Demon Ritual_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 23
+        y: 4
+        width: 50
+        height: 8
+      spriteId: 5566d11f797d0cd43b9db6066448b7a7
+    - name: Demon Ritual_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 10
+        y: 2
+        width: 72
+        height: 14
+      spriteId: 2722f724b30f1f04b80828c4fcaa7b17
+    - name: Demon Ritual_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 10
+        y: 2
+        width: 72
+        height: 23
+      spriteId: 24f6bed4f5bc7d14ab159287e4d927cc
+    - name: Demon Ritual_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 10
+        y: 2
+        width: 72
+        height: 35
+      spriteId: 8495c1d5da19eab4581b0375b5e7770a
+    - name: Demon Ritual_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 10
+        y: 2
+        width: 72
+        height: 44
+      spriteId: cb2da16608e38d04882e8970bd2c1ceb
+    - name: Demon Ritual_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 10
+        y: 2
+        width: 72
+        height: 62
+      spriteId: 15e0b44936ef2fd40be6a12258c19cd4
+    - name: Demon Ritual_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 9
+        y: 2
+        width: 73
+        height: 73
+      spriteId: 49492b03b0f299a41ab92f1f2f0a027f
+    - name: Demon Ritual_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 8
+        y: 2
+        width: 74
+        height: 72
+      spriteId: b9de415f88c7d854baa15515c4c54e19
+    - name: Demon Ritual_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 9
+        y: 2
+        width: 73
+        height: 73
+      spriteId: 60edaea83baa11541a310c5bd53db037
+    - name: Demon Ritual_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 9
+        y: 2
+        width: 73
+        height: 72
+      spriteId: 88f57161eeda46d449b47a10a62a33a9
+    - name: Demon Ritual_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 9
+        y: 2
+        width: 73
+        height: 70
+      spriteId: 7956489192199ff46b56b7dd4d291598
+    - name: Demon Ritual_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 10
+        y: 2
+        width: 72
+        height: 71
+      spriteId: e4cd5a16839ab0840bd1db905094f78e
+    - name: Demon Ritual_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 10
+        y: 2
+        width: 79
+        height: 78
+      spriteId: 24e2b188227910745b06aa6769e54ed3
+    - name: Demon Ritual_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 10
+        y: 2
+        width: 89
+        height: 71
+      spriteId: c1017bfe861d6c04aad9bb27198d8163
+    - name: Demon Ritual_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 10
+        y: 2
+        width: 89
+        height: 72
+      spriteId: 86b623c96e8fe424bb5b2d586274a4e5
+    - name: Demon Ritual_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 10
+        y: 2
+        width: 89
+        height: 73
+      spriteId: b2b2efe0cbd1f994e9b4ac344fc9e2a4
+    - name: Demon Ritual_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 10
+        y: 2
+        width: 89
+        height: 74
+      spriteId: 861ec0647112d3c46a5f8fc0e8711cb0
+    - name: Demon Ritual_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 10
+        y: 2
+        width: 89
+        height: 72
+      spriteId: a5caa3be17bc34947a586150e609025e
+    - name: Demon Ritual_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 10
+        y: 2
+        width: 89
+        height: 73
+      spriteId: f1af87ce4c28d6c49a413f01d5c6c1b7
+    - name: Demon Ritual_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 10
+        y: 2
+        width: 89
+        height: 73
+      spriteId: 0a2d5d7a744c8e44d91014e079f7f963
+    - name: Demon Ritual_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 10
+        y: 2
+        width: 88
+        height: 73
+      spriteId: f7d6aafc09a7d114f9bc1b50446e78b6
+    - name: Demon Ritual_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 10
+        y: 2
+        width: 87
+        height: 73
+      spriteId: 361c164e55b5d3f4995c60052a1f7245
+    - name: Demon Ritual_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 10
+        y: 2
+        width: 87
+        height: 72
+      spriteId: c9baed5de0894c640baae34df51a8891
+    - name: Demon Ritual_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 10
+        y: 2
+        width: 102
+        height: 72
+      spriteId: 5b1df78e8b7d8754ca4aef1824391e92
+    - name: Demon Ritual_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 10
+        y: 2
+        width: 182
+        height: 72
+      spriteId: 1d7a61f4783e8b3479d7dd13fdd8dc3f
+    - name: Demon Ritual_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 10
+        y: 2
+        width: 182
+        height: 72
+      spriteId: 038517bb81783a940a6f3248c045d594
+    - name: Demon Ritual_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 10
+        y: 2
+        width: 182
+        height: 72
+      spriteId: b5c4f52e27f45c0489e9dcbafaab91b5
+    - name: Demon Ritual_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 10
+        y: 2
+        width: 182
+        height: 72
+      spriteId: 61846279958fbff41954ba60597a3da3
+    - name: Demon Ritual_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 10
+        y: 2
+        width: 182
+        height: 72
+      spriteId: 912f7d6791c6e94459dfc9dd0be36da1
+    - name: Demon Ritual_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 10
+        y: 2
+        width: 182
+        height: 72
+      spriteId: 62b8dd67eef31eb4d89b9d26702b4176
+    - name: Demon Ritual_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 10
+        y: 2
+        width: 182
+        height: 71
+      spriteId: 74e0727c87a41c44c9a22af15c9578ed
+    - name: Demon Ritual_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 10
+        y: 2
+        width: 182
+        height: 71
+      spriteId: c1e6eecb975f4e6488cd58e58dc4244b
+    - name: Demon Ritual_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 10
+        y: 2
+        width: 177
+        height: 72
+      spriteId: 733d963cf33fb5c4d9eab7295d69b828
+    - name: Demon Ritual_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 10
+        y: 2
+        width: 89
+        height: 72
+      spriteId: 791f90c7a7aef314ba1084dfb57136ca
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 192, y: 80}

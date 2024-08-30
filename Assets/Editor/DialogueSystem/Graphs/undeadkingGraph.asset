@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0202a3095b7477a4091d56344f0af6b3, type: 3}
+  m_Name: undeadkingGraph
+  m_EditorClassIdentifier: 
+  <FileName>k__BackingField: undeadking
+  <Groups>k__BackingField: []
+  <Nodes>k__BackingField:
+  - <ID>k__BackingField: 2668af16-7626-4e9b-9202-df9f897cf3d7
+    <Name>k__BackingField: undeadking
+    <Text>k__BackingField: undeadking_0
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 4b7c362a-007e-4012-9851-33cac90e17a4
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 793, y: 346}
+  - <ID>k__BackingField: d0a94f2a-c692-48e2-8f65-7468e2652195
+    <Name>k__BackingField: undeadking
+    <Text>k__BackingField: undeadking_2
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 826a13ca-bccc-4941-8920-e655d9c0631d
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 2491, y: 314}
+  - <ID>k__BackingField: 4b7c362a-007e-4012-9851-33cac90e17a4
+    <Name>k__BackingField: undeadking
+    <Text>k__BackingField: undeadking_1
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: d0a94f2a-c692-48e2-8f65-7468e2652195
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 1597, y: 346}
+  - <ID>k__BackingField: 826a13ca-bccc-4941-8920-e655d9c0631d
+    <Name>k__BackingField: undeadking
+    <Text>k__BackingField: undeadking_3
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 3278, y: 329}
+  <OldGroupNames>k__BackingField: []
+  <OldUngroupedNodeNames>k__BackingField:
+  - 2668af16-7626-4e9b-9202-df9f897cf3d7
+  - d0a94f2a-c692-48e2-8f65-7468e2652195
+  - 4b7c362a-007e-4012-9851-33cac90e17a4
+  - 826a13ca-bccc-4941-8920-e655d9c0631d
+  <OldGroupedNodeNames>k__BackingField:
+    list: []

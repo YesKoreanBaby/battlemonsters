@@ -1,0 +1,755 @@
+fileFormatVersion: 2
+guid: 041b6dbb6bec08346a8126ee6ffc6c5b
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: P9 VFX 09 (Range eye boost)_Frame_0
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.8000001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 76
+      y: 41
+      width: 14
+      height: 10
+    spriteID: 42a49584bc2428247a43b2c8d6aa50c0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 41}
+  - name: P9 VFX 09 (Range eye boost)_Frame_2
+    originalName: 
+    pivot: {x: 0.43750003, y: -1.1111112}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 100
+      width: 16
+      height: 9
+    spriteID: 656f0cf3f6dcaf44dad8df23cc47a4ef
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 100}
+  - name: P9 VFX 09 (Range eye boost)_Frame_3
+    originalName: 
+    pivot: {x: 0.41176474, y: -1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 76
+      y: 23
+      width: 17
+      height: 10
+    spriteID: 50c29379c0d9f05449b0b1e9d5c65a00
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 23}
+  - name: P9 VFX 09 (Range eye boost)_Frame_4
+    originalName: 
+    pivot: {x: 0.41176474, y: -0.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 76
+      y: 4
+      width: 17
+      height: 11
+    spriteID: efa6a0b341369be46a584e784942498b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 4}
+  - name: P9 VFX 09 (Range eye boost)_Frame_5
+    originalName: 
+    pivot: {x: 0.41176474, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 27
+      y: 4
+      width: 17
+      height: 12
+    spriteID: 110e04ae550269e42b3f3ccb06e17ad1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 27, y: 4}
+  - name: P9 VFX 09 (Range eye boost)_Frame_6
+    originalName: 
+    pivot: {x: 0.41176474, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 27
+      y: 24
+      width: 17
+      height: 12
+    spriteID: d420b3a765752984b8614e61c1e71637
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 27, y: 24}
+  - name: P9 VFX 09 (Range eye boost)_Frame_7
+    originalName: 
+    pivot: {x: 0.41176474, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 27
+      y: 44
+      width: 17
+      height: 12
+    spriteID: 2257efcafeddb1f49a322a2bb4d26409
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 27, y: 44}
+  - name: P9 VFX 09 (Range eye boost)_Frame_8
+    originalName: 
+    pivot: {x: 0.41176474, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 27
+      y: 64
+      width: 17
+      height: 12
+    spriteID: 24e55e97d146f6846b7f02259c36b146
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 27, y: 64}
+  - name: P9 VFX 09 (Range eye boost)_Frame_9
+    originalName: 
+    pivot: {x: 0.35714287, y: -0.7692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 47
+      width: 14
+      height: 13
+    spriteID: de3b7eb9533745c4bb361d4101bf96c7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 47}
+  - name: P9 VFX 09 (Range eye boost)_Frame_10
+    originalName: 
+    pivot: {x: 0.43750003, y: -0.9166667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 4
+      width: 16
+      height: 12
+    spriteID: ae7c8285c5843bc42af79fce3bc7e8dd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 4}
+  - name: P9 VFX 09 (Range eye boost)_Frame_11
+    originalName: 
+    pivot: {x: 0.43750003, y: -1.0909091}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 44
+      width: 16
+      height: 11
+    spriteID: 3d416fcdcb50adb46adcf234a69129db
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 44}
+  - name: P9 VFX 09 (Range eye boost)_Frame_12
+    originalName: 
+    pivot: {x: 0.4666667, y: -12}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 117
+      width: 15
+      height: 1
+    spriteID: 4781e2f8389cdf348bc712cff291c620
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 117}
+  - name: P9 VFX 09 (Range eye boost)_Frame_17
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.3846154}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 68
+      width: 14
+      height: 13
+    spriteID: dc47f46be8ffcf04989140c343bc2ff9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 68}
+  - name: P9 VFX 09 (Range eye boost)_Frame_18
+    originalName: 
+    pivot: {x: 0.5333333, y: -0.2857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 15
+      height: 14
+    spriteID: ff743a74df1ee5a45ad8811c0ebdbc0a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: P9 VFX 09 (Range eye boost)_Frame_19
+    originalName: 
+    pivot: {x: 0.5333333, y: -0.30769232}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 27
+      y: 84
+      width: 15
+      height: 13
+    spriteID: b14cfa4090fa2ea4c97d1fdc9927608f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 27, y: 84}
+  - name: P9 VFX 09 (Range eye boost)_Frame_20
+    originalName: 
+    pivot: {x: 0.5333333, y: -0.30769232}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 27
+      y: 105
+      width: 15
+      height: 13
+    spriteID: 58ac3aef58186804e85711f690a1fad6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 27, y: 105}
+  - name: P9 VFX 09 (Range eye boost)_Frame_21
+    originalName: 
+    pivot: {x: 0.5333333, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 89
+      width: 15
+      height: 12
+    spriteID: 866cac4aa8040f6448e55ab465d1b303
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 89}
+  - name: P9 VFX 09 (Range eye boost)_Frame_22
+    originalName: 
+    pivot: {x: 0.5333333, y: -0.40000004}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 82
+      width: 15
+      height: 10
+    spriteID: c6bc8d001d837d04c95bba65c45e5ab2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 82}
+  - name: P9 VFX 09 (Range eye boost)_Frame_23
+    originalName: 
+    pivot: {x: 0.57142854, y: -0.36363637}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 63
+      width: 14
+      height: 11
+    spriteID: 6990bf9fcd201a74eac9b8bf0bcaa31a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 63}
+  - name: P9 VFX 09 (Range eye boost)_Frame_24
+    originalName: 
+    pivot: {x: 0.4666667, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 26
+      width: 15
+      height: 13
+    spriteID: e98c51735dd42b7459aae6d2ec0aab0e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 26}
+  - name: P9 VFX 09 (Range eye boost)_Frame_25
+    originalName: 
+    pivot: {x: 0.4666667, y: -0.083333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 109
+      width: 15
+      height: 12
+    spriteID: cecc50218bffbce4da7153fc8c622f1b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 109}
+  - name: P9 VFX 09 (Range eye boost)_Frame_26
+    originalName: 
+    pivot: {x: 0.4666667, y: -0.083333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 24
+      width: 15
+      height: 12
+    spriteID: d48f3bfb343c85f48955a31e4a554795
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 24}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1950942326
+    name: P9 VFX 09 (Range eye boost)
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: P9 VFX 09 (Range eye boost)_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 5
+        y: 8
+        width: 14
+        height: 10
+      spriteId: 42a49584bc2428247a43b2c8d6aa50c0
+    - name: P9 VFX 09 (Range eye boost)_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 5
+        y: 10
+        width: 16
+        height: 9
+      spriteId: 656f0cf3f6dcaf44dad8df23cc47a4ef
+    - name: P9 VFX 09 (Range eye boost)_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 5
+        y: 10
+        width: 17
+        height: 10
+      spriteId: 50c29379c0d9f05449b0b1e9d5c65a00
+    - name: P9 VFX 09 (Range eye boost)_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 5
+        y: 9
+        width: 17
+        height: 11
+      spriteId: efa6a0b341369be46a584e784942498b
+    - name: P9 VFX 09 (Range eye boost)_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 5
+        y: 8
+        width: 17
+        height: 12
+      spriteId: 110e04ae550269e42b3f3ccb06e17ad1
+    - name: P9 VFX 09 (Range eye boost)_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 5
+        y: 8
+        width: 17
+        height: 12
+      spriteId: d420b3a765752984b8614e61c1e71637
+    - name: P9 VFX 09 (Range eye boost)_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 5
+        y: 8
+        width: 17
+        height: 12
+      spriteId: 2257efcafeddb1f49a322a2bb4d26409
+    - name: P9 VFX 09 (Range eye boost)_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 5
+        y: 8
+        width: 17
+        height: 12
+      spriteId: 24e55e97d146f6846b7f02259c36b146
+    - name: P9 VFX 09 (Range eye boost)_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 7
+        y: 10
+        width: 14
+        height: 13
+      spriteId: de3b7eb9533745c4bb361d4101bf96c7
+    - name: P9 VFX 09 (Range eye boost)_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 5
+        y: 11
+        width: 16
+        height: 12
+      spriteId: ae7c8285c5843bc42af79fce3bc7e8dd
+    - name: P9 VFX 09 (Range eye boost)_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 5
+        y: 12
+        width: 16
+        height: 11
+      spriteId: 3d416fcdcb50adb46adcf234a69129db
+    - name: P9 VFX 09 (Range eye boost)_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 5
+        y: 12
+        width: 15
+        height: 1
+      spriteId: 4781e2f8389cdf348bc712cff291c620
+    - name: P9 VFX 09 (Range eye boost)_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 5
+        y: 5
+        width: 14
+        height: 13
+      spriteId: dc47f46be8ffcf04989140c343bc2ff9
+    - name: P9 VFX 09 (Range eye boost)_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 4
+        y: 4
+        width: 15
+        height: 14
+      spriteId: ff743a74df1ee5a45ad8811c0ebdbc0a
+    - name: P9 VFX 09 (Range eye boost)_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 4
+        y: 4
+        width: 15
+        height: 13
+      spriteId: b14cfa4090fa2ea4c97d1fdc9927608f
+    - name: P9 VFX 09 (Range eye boost)_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 4
+        y: 4
+        width: 15
+        height: 13
+      spriteId: 58ac3aef58186804e85711f690a1fad6
+    - name: P9 VFX 09 (Range eye boost)_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 4
+        y: 4
+        width: 15
+        height: 12
+      spriteId: 866cac4aa8040f6448e55ab465d1b303
+    - name: P9 VFX 09 (Range eye boost)_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 4
+        y: 4
+        width: 15
+        height: 10
+      spriteId: c6bc8d001d837d04c95bba65c45e5ab2
+    - name: P9 VFX 09 (Range eye boost)_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 4
+        y: 4
+        width: 14
+        height: 11
+      spriteId: 6990bf9fcd201a74eac9b8bf0bcaa31a
+    - name: P9 VFX 09 (Range eye boost)_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 5
+        y: 1
+        width: 15
+        height: 13
+      spriteId: e98c51735dd42b7459aae6d2ec0aab0e
+    - name: P9 VFX 09 (Range eye boost)_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 5
+        y: 1
+        width: 15
+        height: 12
+      spriteId: cecc50218bffbce4da7153fc8c622f1b
+    - name: P9 VFX 09 (Range eye boost)_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 5
+        y: 1
+        width: 15
+        height: 12
+      spriteId: d48f3bfb343c85f48955a31e4a554795
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 24, y: 24}

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15b14fa3d9808264b8fe827ed02cbbcc, type: 3}
+  m_Name: giantwarm_
+  m_EditorClassIdentifier: 
+  monsterName: "<b><size=28>\uC790\uC774\uC5B8\uD2B8 \uC6DC"
+  description: "\uAC70\uB300\uD55C \uC2F1\uD06C\uD640\uC758 \uC8FC\uBC94\n\uB3C4\uC2DC
+    \uD558\uB098\uB97C \uD30C\uAD34\uC2DC\uD0A8\uB2E4."

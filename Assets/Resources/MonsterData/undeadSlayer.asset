@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: undeadSlayer
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 4833804483951630597, guid: adb5788e0829ad847bb2352962618399, type: 3}
+  battleAIType: 0
+  evolutionType: 0
+  status: 9
+  monsterWeight: 2
+  monsterClass: 1
+  spawnItems: []
+  tranningType: 10
+  dictionaryData: {fileID: 11400000, guid: 3c42fb8c6f791b949a0ba1c7af05686a, type: 2}
+  hp: 45
+  mp: 10
+  dex: 5.4
+  atk: 25
+  def: 0
+  manaRecoveryRatio: 0.1
+  hpRecoveryRatio: 0.1
+  repeatRatio: -1
+  creaticalRatio: 0.25
+  datas:
+  - {fileID: 11400000, guid: 0c46f921554befd4d88394ae54abd0c7, type: 2}
+  percentSkillDatas:
+  - {fileID: 11400000, guid: d759897990443c948b08d5dfd109689f, type: 2}
+  - {fileID: 11400000, guid: 407e8c9f889e8e84498d8f975c52baaa, type: 2}
+  triggerSkillDatas: []
+  abilities: 10000000
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 00000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 0100000002000000030000000400000005000000060000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 1
+  isPocketLock: 0

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a06ce28b585120d4f8c813140b1b22c5, type: 3}
+  m_Name: HitStamp_
+  m_EditorClassIdentifier: 
+  skillName: "\uD788\uD2B8 \uC2A4\uD0EC\uD504"
+  skillDmageType: "\uACF5\uACA9\uB825 + \uC2A4\uD0AC \uACF5\uACA9\uB825"
+  targetRange: short
+  addEffect: '-'
+  skillIcon: {fileID: 21300000, guid: 8a2db5e13d91b824785e047a29e5ebf4, type: 3}
+  description: "\uC790\uC2E0\uC758 \uBB34\uAC8C\uB85C \uC0C1\uB300\uB97C \uC9D3\uBC1E\uB294\uB2E4.\n\uBB34\uAC8C\uAC00
+    \uC801\uC744\uC218\uB85D \uC704\uB825\uC774 \uC62C\uB77C\uAC04\uB2E4."

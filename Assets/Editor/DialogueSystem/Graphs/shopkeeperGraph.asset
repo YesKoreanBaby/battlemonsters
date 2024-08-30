@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0202a3095b7477a4091d56344f0af6b3, type: 3}
+  m_Name: shopkeeperGraph
+  m_EditorClassIdentifier: 
+  <FileName>k__BackingField: shopkeeper
+  <Groups>k__BackingField: []
+  <Nodes>k__BackingField:
+  - <ID>k__BackingField: 4f1e0b50-1542-4fab-9d67-71d35e168bbd
+    <Name>k__BackingField: shopkeeper
+    <Text>k__BackingField: 4
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 29642241-ef4c-4a5d-bdb1-884ca59e7145
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 2573, y: -62}
+  - <ID>k__BackingField: 29642241-ef4c-4a5d-bdb1-884ca59e7145
+    <Name>k__BackingField: shopkeeper
+    <Text>k__BackingField: soldout
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: bfb33bfa-f7f9-4864-89bf-b08d9e8dd30b
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 2936, y: -51}
+  - <ID>k__BackingField: 96a59ee0-3666-4c6a-bca5-6da3accf6317
+    <Name>k__BackingField: shopkeeper
+    <Text>k__BackingField: 5
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 29642241-ef4c-4a5d-bdb1-884ca59e7145
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 2573, y: 188}
+  - <ID>k__BackingField: 1003e512-7d3a-4df5-9e29-4b0d998af9c8
+    <Name>k__BackingField: shopkeeper
+    <Text>k__BackingField: 6
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 27456114-b981-47d9-893c-7788312d745e
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 2514, y: -240}
+  - <ID>k__BackingField: 27456114-b981-47d9-893c-7788312d745e
+    <Name>k__BackingField: shopkeeper
+    <Text>k__BackingField: emptycombinationmonster
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: c8b4c20b-d203-4028-8d7f-001aa5f8f24b
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 2842, y: -480}
+  - <ID>k__BackingField: 06e93abb-c03c-493f-8fb1-c94f2104e88d
+    <Name>k__BackingField: shopkeeper
+    <Text>k__BackingField: shopend
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 3333, y: 749}
+  - <ID>k__BackingField: 84c3fbf7-f1f5-4f77-8390-cf3fb4ed1b47
+    <Name>k__BackingField: shopkeeper
+    <Text>k__BackingField: shopstart
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: bfb33bfa-f7f9-4864-89bf-b08d9e8dd30b
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: -226, y: 187}
+  - <ID>k__BackingField: bfb33bfa-f7f9-4864-89bf-b08d9e8dd30b
+    <Name>k__BackingField: shopkeeper
+    <Text>k__BackingField: Dialogue text.
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: monster
+      <NodeID>k__BackingField: c8b4c20b-d203-4028-8d7f-001aa5f8f24b
+    - <Text>k__BackingField: item
+      <NodeID>k__BackingField: 2ad2be0c-e563-45fe-80ff-8a2a1a427154
+    - <Text>k__BackingField: shopkeeperexit
+      <NodeID>k__BackingField: 06e93abb-c03c-493f-8fb1-c94f2104e88d
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 1
+    <Position>k__BackingField: {x: 657, y: 154}
+  - <ID>k__BackingField: c8b4c20b-d203-4028-8d7f-001aa5f8f24b
+    <Name>k__BackingField: shopkeeper
+    <Text>k__BackingField: Dialogue text.
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: monstercombination
+      <NodeID>k__BackingField: 1003e512-7d3a-4df5-9e29-4b0d998af9c8
+    - <Text>k__BackingField: purchasemonster
+      <NodeID>k__BackingField: 4f1e0b50-1542-4fab-9d67-71d35e168bbd
+    - <Text>k__BackingField: monstergoback
+      <NodeID>k__BackingField: bfb33bfa-f7f9-4864-89bf-b08d9e8dd30b
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 1
+    <Position>k__BackingField: {x: 922, y: -506}
+  - <ID>k__BackingField: 2ad2be0c-e563-45fe-80ff-8a2a1a427154
+    <Name>k__BackingField: shopkeeper
+    <Text>k__BackingField: Dialogue text.
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: purchaseitem
+      <NodeID>k__BackingField: 96a59ee0-3666-4c6a-bca5-6da3accf6317
+    - <Text>k__BackingField: itemgoback
+      <NodeID>k__BackingField: bfb33bfa-f7f9-4864-89bf-b08d9e8dd30b
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 1
+    <Position>k__BackingField: {x: 831, y: 748}
+  <OldGroupNames>k__BackingField: []
+  <OldUngroupedNodeNames>k__BackingField:
+  - 4f1e0b50-1542-4fab-9d67-71d35e168bbd
+  - 29642241-ef4c-4a5d-bdb1-884ca59e7145
+  - 96a59ee0-3666-4c6a-bca5-6da3accf6317
+  - 1003e512-7d3a-4df5-9e29-4b0d998af9c8
+  - 27456114-b981-47d9-893c-7788312d745e
+  - 06e93abb-c03c-493f-8fb1-c94f2104e88d
+  - 84c3fbf7-f1f5-4f77-8390-cf3fb4ed1b47
+  - bfb33bfa-f7f9-4864-89bf-b08d9e8dd30b
+  - c8b4c20b-d203-4028-8d7f-001aa5f8f24b
+  - 2ad2be0c-e563-45fe-80ff-8a2a1a427154
+  <OldGroupedNodeNames>k__BackingField:
+    list: []

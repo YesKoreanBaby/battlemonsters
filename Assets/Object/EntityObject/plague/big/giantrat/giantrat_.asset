@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15b14fa3d9808264b8fe827ed02cbbcc, type: 3}
+  m_Name: giantrat_
+  m_EditorClassIdentifier: 
+  monsterName: "\uAD34\uBB3C \uC950"
+  description: "\uC2E4\uD5D8\uC758 \uC644\uC131\uCCB4\n\n\uBCF8\uCCB4\uB294 \uC8FD\uC5C8\uC9C0\uB9CC
+    \uC219\uC8FC\uAC00 \n\uB300\uCCB4\uD558\uC5EC \uBD88\uC0AC\uC758 \uBAB8\uC744
+    \uC9C0\uB154\uB2E4."

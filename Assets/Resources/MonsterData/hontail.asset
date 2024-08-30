@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: hontail
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 699898168701932128, guid: d87bac7719da7824db8aaee222a49f51, type: 3}
+  battleAIType: 1
+  evolutionType: 0
+  status: 4
+  monsterWeight: 2
+  monsterClass: 2
+  spawnItems: []
+  tranningType: 3
+  dictionaryData: {fileID: 11400000, guid: b7e082e07b6ab6943baffed7b0c079cd, type: 2}
+  hp: 45
+  mp: 20
+  dex: 2.8
+  atk: 15
+  def: 0
+  manaRecoveryRatio: 0.1
+  hpRecoveryRatio: 0.1
+  repeatRatio: 0.25
+  creaticalRatio: 0.25
+  datas:
+  - {fileID: 11400000, guid: dd33798683ed61e469a806dc7087cb57, type: 2}
+  - {fileID: 11400000, guid: 9543ad38813f79f41ad51b2bb23bb1c3, type: 2}
+  - {fileID: 11400000, guid: 7fb1a36c42cbda64db82493fc31a4e01, type: 2}
+  - {fileID: 11400000, guid: e2e27097213346b43852f5aa190be258, type: 2}
+  - {fileID: 11400000, guid: 3be28c1d40d97d54a90e8d811d499cec, type: 2}
+  percentSkillDatas:
+  - {fileID: 11400000, guid: 5e0239329d318464086e6740c2e44690, type: 2}
+  triggerSkillDatas: []
+  abilities: 08000000060000000700000003000000
+  confirmSkillPrioritys: 0b000000
+  selectDetailTargetTypes: 09000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

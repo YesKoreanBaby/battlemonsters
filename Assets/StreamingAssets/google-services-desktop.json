@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "262619650273",
+    "firebase_url": "https://battlemonsters-ba55b-default-rtdb.firebaseio.com",
+    "project_id": "battlemonsters-ba55b",
+    "storage_bucket": "battlemonsters-ba55b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262619650273:android:277efa41f697b71073ffa0",
+        "android_client_info": {
+          "package_name": "com.defaultcompany.battlemonsters"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu1m8KiuMc0O1pBJupomhjfM0vx6afeyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262619650273-34kjfiba2kr9v1438t91vpnhs17b360e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262619650273:android:384f185acfa46f0a73ffa0",
+        "android_client_info": {
+          "package_name": "com.defaultcompany.betatest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262619650273-3qbmifb2r0n45k5t8o487hhje00ga4k5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.defaultcompany.betatest",
+            "certificate_hash": "3151a301c7f28f95c6b311da613cf66a8eebcc85"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu1m8KiuMc0O1pBJupomhjfM0vx6afeyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262619650273-34kjfiba2kr9v1438t91vpnhs17b360e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

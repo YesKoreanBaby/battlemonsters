@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: dwarfwayferer
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 3999077964288450191, guid: de48432a9e27d6a44b1213423f3d67fb, type: 3}
+  battleAIType: 0
+  evolutionType: 0
+  status: 3
+  monsterWeight: 0
+  monsterClass: 0
+  spawnItems: []
+  tranningType: 0
+  dictionaryData: {fileID: 11400000, guid: ee4bb769be180f34e84bf5c12e338b71, type: 2}
+  hp: 15
+  mp: 10
+  dex: 4.4
+  atk: 1
+  def: 0
+  manaRecoveryRatio: 0.1
+  hpRecoveryRatio: 0.1
+  repeatRatio: 0.1
+  creaticalRatio: 0.1
+  datas:
+  - {fileID: 11400000, guid: 0e2e02d0bb4ae6a489f7084cf783d27a, type: 2}
+  percentSkillDatas: []
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: d0c478a2e2f878640b9679bb63e3b6c2, type: 2}
+  abilities: 11000000
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 00000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 0100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

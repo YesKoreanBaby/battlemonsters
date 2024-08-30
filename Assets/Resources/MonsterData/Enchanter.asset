@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: Enchanter
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 120367693718703622, guid: 04a4d7c7165862644ba78988f6a653a9, type: 3}
+  battleAIType: 0
+  evolutionType: 0
+  status: 0
+  monsterWeight: 0
+  monsterClass: 1
+  spawnItems: []
+  tranningType: 2
+  dictionaryData: {fileID: 11400000, guid: 7186db5c91f45a444a2b5220da9e40ad, type: 2}
+  hp: 20
+  mp: 20
+  dex: 4.4
+  atk: 5
+  def: 0
+  manaRecoveryRatio: 0.25
+  hpRecoveryRatio: 0.1
+  repeatRatio: 0.1
+  creaticalRatio: 0.1
+  datas:
+  - {fileID: 11400000, guid: a56bb8b9fc255ef48827b0fc9bc4826a, type: 2}
+  percentSkillDatas: []
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: 3439129b8f2f0ec4e87dc38edc65140c, type: 2}
+  abilities: 
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 00000000
+  possibleSkillDatas:
+  - {fileID: 11400000, guid: be8e5e418b17ed449b09496c89800b74, type: 2}
+  - {fileID: 11400000, guid: 88980dc21393c1740915fcf20afba846, type: 2}
+  - {fileID: 11400000, guid: 270615e275ee6f9449a46033cac51d7e, type: 2}
+  - {fileID: 11400000, guid: 6b0e29bf0f8c7ac4d96bb43a985652e4, type: 2}
+  possiblePercentSkillDatas:
+  - {fileID: 11400000, guid: efb747a939aea80439e6d98b7b18d7c5, type: 2}
+  - {fileID: 11400000, guid: f85c4be6ac487444bba4b5de09039007, type: 2}
+  - {fileID: 11400000, guid: e70ca355aa685464e935b5a6af2c5b79, type: 2}
+  - {fileID: 11400000, guid: 8761960009f75364dad00851eb12e2a1, type: 2}
+  - {fileID: 11400000, guid: 7eb75ae97a57e0241a313eca737e96a4, type: 2}
+  possibleTriggerSkillDatas:
+  - {fileID: 11400000, guid: 3d671490375d04240b9ced9ae2dba863, type: 2}
+  possibleAbilitieDatas: 0000000011000000
+  possibleConfirmSkillPriorityDatas: 010000000600000007000000090000000b000000
+  possibleSelectDetailTargetTypeDatas: 0100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

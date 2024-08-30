@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: pyromancer
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 4002604190394539432, guid: 8eded35adbb21f244b1902ae8e461bde, type: 3}
+  battleAIType: 2
+  evolutionType: 0
+  status: 1
+  monsterWeight: 2
+  monsterClass: 1
+  spawnItems: []
+  tranningType: 0
+  dictionaryData: {fileID: 11400000, guid: 8727305258a690d43b286baf27667e59, type: 2}
+  hp: 45
+  mp: 20
+  dex: 4.4
+  atk: 15
+  def: 15
+  manaRecoveryRatio: 0.1
+  hpRecoveryRatio: 0.1
+  repeatRatio: 0.1
+  creaticalRatio: 0.25
+  datas:
+  - {fileID: 11400000, guid: 3be28c1d40d97d54a90e8d811d499cec, type: 2}
+  - {fileID: 11400000, guid: dd33798683ed61e469a806dc7087cb57, type: 2}
+  percentSkillDatas:
+  - {fileID: 11400000, guid: f85c4be6ac487444bba4b5de09039007, type: 2}
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: 6c19b2e02e2b5f54e8e3a3416b19244c, type: 2}
+  abilities: 0600000007000000
+  confirmSkillPrioritys: 0b000000
+  selectDetailTargetTypes: 09000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

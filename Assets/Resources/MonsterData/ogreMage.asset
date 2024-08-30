@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: ogreMage
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 3720505298324021708, guid: 1a87ffde4f527814e81ad08b63639809, type: 3}
+  battleAIType: 1
+  evolutionType: 0
+  status: 0
+  monsterWeight: 2
+  monsterClass: 1
+  spawnItems: []
+  tranningType: 4
+  dictionaryData: {fileID: 11400000, guid: 9f9be3886dc9b2d42bc5a252983b641b, type: 2}
+  hp: 45
+  mp: 10
+  dex: 4.8
+  atk: 5
+  def: 15
+  manaRecoveryRatio: 0.1
+  hpRecoveryRatio: 0.1
+  repeatRatio: -4
+  creaticalRatio: 0
+  datas:
+  - {fileID: 11400000, guid: a56bb8b9fc255ef48827b0fc9bc4826a, type: 2}
+  - {fileID: 11400000, guid: be8e5e418b17ed449b09496c89800b74, type: 2}
+  - {fileID: 11400000, guid: 33dbdbb47a4501043b9849e5660e7df5, type: 2}
+  - {fileID: 11400000, guid: ff24b77592916334590e8addb84dcb1c, type: 2}
+  - {fileID: 11400000, guid: 88980dc21393c1740915fcf20afba846, type: 2}
+  percentSkillDatas: []
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: 9df7b586b9df94944921a3532c7402e5, type: 2}
+  abilities: 09000000
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 00000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 0b0000000a000000090000000700000001000000
+  possibleSelectDetailTargetTypeDatas: 0100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

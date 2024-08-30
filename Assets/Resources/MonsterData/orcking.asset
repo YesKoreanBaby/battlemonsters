@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: orcking
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 534946762367299475, guid: 22db8839b148aeb439e5cd3b6bc022fd, type: 3}
+  battleAIType: 2
+  evolutionType: 0
+  status: 0
+  monsterWeight: 3
+  monsterClass: 3
+  spawnItems: []
+  tranningType: 4
+  dictionaryData: {fileID: 11400000, guid: a2f66da6b0ff0f54897142c5daa6bd2f, type: 2}
+  hp: 100
+  mp: 10
+  dex: 5.2
+  atk: 15
+  def: 15
+  manaRecoveryRatio: 0.1
+  hpRecoveryRatio: 0.1
+  repeatRatio: 0
+  creaticalRatio: 0.5
+  datas:
+  - {fileID: 11400000, guid: 0c46f921554befd4d88394ae54abd0c7, type: 2}
+  - {fileID: 11400000, guid: 3be28c1d40d97d54a90e8d811d499cec, type: 2}
+  percentSkillDatas:
+  - {fileID: 11400000, guid: d759897990443c948b08d5dfd109689f, type: 2}
+  - {fileID: 11400000, guid: dcf5522c856a14f4788a15fa4ea0e9a8, type: 2}
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: 80f5d6787c8f6da41b4c21013ad4d034, type: 2}
+  abilities: 07000000060000000f0000000c000000
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 01000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

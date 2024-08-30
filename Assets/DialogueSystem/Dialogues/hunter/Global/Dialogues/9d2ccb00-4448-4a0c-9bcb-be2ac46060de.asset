@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f262818b55b0f4418296bad0176bdab, type: 3}
+  m_Name: 9d2ccb00-4448-4a0c-9bcb-be2ac46060de
+  m_EditorClassIdentifier: 
+  <DialogueName>k__BackingField: hunter
+  <Text>k__BackingField: Dialogue text.
+  <Choices>k__BackingField:
+  - <Text>k__BackingField: hunter_4
+    <NextDialogue>k__BackingField: {fileID: 11400000, guid: 9da970ef59fb676449e3e1e299ca735b, type: 2}
+  - <Text>k__BackingField: hunter_5
+    <NextDialogue>k__BackingField: {fileID: 11400000, guid: afa1c2cf4b7438f4380a3250b1ae4938, type: 2}
+  <DialogueType>k__BackingField: 1
+  <IsStartingDialogue>k__BackingField: 0

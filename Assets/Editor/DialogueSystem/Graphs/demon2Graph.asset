@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0202a3095b7477a4091d56344f0af6b3, type: 3}
+  m_Name: demon2Graph
+  m_EditorClassIdentifier: 
+  <FileName>k__BackingField: demon2
+  <Groups>k__BackingField: []
+  <Nodes>k__BackingField:
+  - <ID>k__BackingField: 56fa7b4c-b15b-4924-bbff-51689c52bfa3
+    <Name>k__BackingField: demon
+    <Text>k__BackingField: demon2_2
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 9529699c-8d02-499c-a601-f9cf77d5a668
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 1313, y: 445}
+  - <ID>k__BackingField: 9529699c-8d02-499c-a601-f9cf77d5a668
+    <Name>k__BackingField: demon
+    <Text>k__BackingField: demon2_3
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 12f9f8fd-8ded-4fa0-a0bc-0c50c9ece266
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 1733, y: 459}
+  - <ID>k__BackingField: 12f9f8fd-8ded-4fa0-a0bc-0c50c9ece266
+    <Name>k__BackingField: demon
+    <Text>k__BackingField: demon2_4
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 1ca2dad9-dc8c-4acd-ac98-f3414eb46d68
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 2611, y: 459}
+  - <ID>k__BackingField: 1ca2dad9-dc8c-4acd-ac98-f3414eb46d68
+    <Name>k__BackingField: demon
+    <Text>k__BackingField: Dialogue text.
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: demon2_5
+      <NodeID>k__BackingField: 2b784337-2df5-41ee-a5f0-3f012491b93c
+    - <Text>k__BackingField: demon2_6
+      <NodeID>k__BackingField: b7bd7fe8-afd6-4e89-b175-d4a27c1d1a9d
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 1
+    <Position>k__BackingField: {x: 3121, y: 412}
+  - <ID>k__BackingField: a0552d18-9421-4959-9fc4-7776bc61c8c6
+    <Name>k__BackingField: demon
+    <Text>k__BackingField: demon2_8
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: a2a8a1c0-2136-4efe-862f-d1d627a17210
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 4196, y: 412}
+  - <ID>k__BackingField: a2a8a1c0-2136-4efe-862f-d1d627a17210
+    <Name>k__BackingField: demon
+    <Text>k__BackingField: demon2_9
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: c44da2c2-a0a2-4f86-81cd-70a02b35b39e
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 5033, y: 412}
+  - <ID>k__BackingField: c44da2c2-a0a2-4f86-81cd-70a02b35b39e
+    <Name>k__BackingField: demon
+    <Text>k__BackingField: demon2_10
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 2731f696-a096-4162-a08f-f2bd9d8915a1
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 5495, y: 412}
+  - <ID>k__BackingField: 2b784337-2df5-41ee-a5f0-3f012491b93c
+    <Name>k__BackingField: demon
+    <Text>k__BackingField: demon2_7
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: a0552d18-9421-4959-9fc4-7776bc61c8c6
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 3697, y: 302}
+  - <ID>k__BackingField: b7bd7fe8-afd6-4e89-b175-d4a27c1d1a9d
+    <Name>k__BackingField: demon
+    <Text>k__BackingField: demon2_13
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: a0552d18-9421-4959-9fc4-7776bc61c8c6
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 3479, y: 606}
+  - <ID>k__BackingField: 0f6f5d86-ff12-4499-ac53-07ca40f17fdc
+    <Name>k__BackingField: demon
+    <Text>k__BackingField: demon2_12
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 6464, y: 428}
+  - <ID>k__BackingField: 642a8eba-1328-4755-9fc0-dbb774a49bad
+    <Name>k__BackingField: demon
+    <Text>k__BackingField: demon2_0
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 9ef245a0-47b0-468f-b757-87acd893f8dc
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 660, y: 445}
+  - <ID>k__BackingField: 9ef245a0-47b0-468f-b757-87acd893f8dc
+    <Name>k__BackingField: demon
+    <Text>k__BackingField: demon2_1
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 56fa7b4c-b15b-4924-bbff-51689c52bfa3
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 994, y: 445}
+  - <ID>k__BackingField: 2731f696-a096-4162-a08f-f2bd9d8915a1
+    <Name>k__BackingField: demon
+    <Text>k__BackingField: demon2_11
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 0f6f5d86-ff12-4499-ac53-07ca40f17fdc
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 6002, y: 428}
+  <OldGroupNames>k__BackingField: []
+  <OldUngroupedNodeNames>k__BackingField:
+  - 56fa7b4c-b15b-4924-bbff-51689c52bfa3
+  - 9529699c-8d02-499c-a601-f9cf77d5a668
+  - 12f9f8fd-8ded-4fa0-a0bc-0c50c9ece266
+  - 1ca2dad9-dc8c-4acd-ac98-f3414eb46d68
+  - a0552d18-9421-4959-9fc4-7776bc61c8c6
+  - a2a8a1c0-2136-4efe-862f-d1d627a17210
+  - c44da2c2-a0a2-4f86-81cd-70a02b35b39e
+  - 2b784337-2df5-41ee-a5f0-3f012491b93c
+  - b7bd7fe8-afd6-4e89-b175-d4a27c1d1a9d
+  - 0f6f5d86-ff12-4499-ac53-07ca40f17fdc
+  - 642a8eba-1328-4755-9fc0-dbb774a49bad
+  - 9ef245a0-47b0-468f-b757-87acd893f8dc
+  - 2731f696-a096-4162-a08f-f2bd9d8915a1
+  <OldGroupedNodeNames>k__BackingField:
+    list: []

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8887bcb76b251f442aa92ffce4e953b5, type: 3}
+  m_Name: ThunderBird
+  m_EditorClassIdentifier: 
+  skillName: 44
+  passiveName: 0
+  type: 2
+  status: 7
+  skillDictionary: {fileID: 11400000, guid: 321063ee67075ee4fa28e1f5a5213e73, type: 2}
+  summonsMonsterDatas: []
+  shieldCount: 0
+  targetLayer: 1
+  atk: 1
+  consumMpAmount: 10
+  buffValue: 0
+  statusRatio: 0.05
+  repeatRatio: 0
+  creaticalRatio: 0

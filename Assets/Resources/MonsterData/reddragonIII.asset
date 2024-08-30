@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: reddragonIII
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 6698261438918204944, guid: 91981be7274d4ec4793521b10bf6126a, type: 3}
+  battleAIType: 3
+  evolutionType: 0
+  status: 1
+  monsterWeight: 3
+  monsterClass: 4
+  spawnItems: []
+  tranningType: 4
+  dictionaryData: {fileID: 11400000, guid: c194352d7a3784c41a30c5b4ccc4ce20, type: 2}
+  hp: 100
+  mp: 100
+  dex: 5.6
+  atk: 25
+  def: 15
+  manaRecoveryRatio: 0.1
+  hpRecoveryRatio: 0.1
+  repeatRatio: 0
+  creaticalRatio: 0.25
+  datas:
+  - {fileID: 11400000, guid: 1262022a492b95f4f81ac4a16e9fb329, type: 2}
+  - {fileID: 11400000, guid: e2e27097213346b43852f5aa190be258, type: 2}
+  percentSkillDatas: []
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: c4d502ba02cd6f24499b2354acc388a6, type: 2}
+  abilities: 0b0000000700000003000000050000000f000000
+  confirmSkillPrioritys: 0b000000
+  selectDetailTargetTypes: 04000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

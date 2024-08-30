@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: mantis
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 6908279751784690640, guid: a45a65fdc373b0c49ac644d19a762ce5, type: 3}
+  battleAIType: 1
+  evolutionType: 0
+  status: 4
+  monsterWeight: 2
+  monsterClass: 2
+  spawnItems: []
+  tranningType: 5
+  dictionaryData: {fileID: 11400000, guid: c2730f0b98fcf75459cce1366259e0ac, type: 2}
+  hp: 15
+  mp: 10
+  dex: 3.4
+  atk: 25
+  def: 0
+  manaRecoveryRatio: 0.1
+  hpRecoveryRatio: 0.1
+  repeatRatio: 0.25
+  creaticalRatio: 0.25
+  datas:
+  - {fileID: 11400000, guid: 581f09290613a4b4fac272afb405bb9a, type: 2}
+  - {fileID: 11400000, guid: 83e50ca59bbef394dbc77b6c9ea83471, type: 2}
+  percentSkillDatas:
+  - {fileID: 11400000, guid: 4bc55b3497c4781489d9ee5d1e0b9bd6, type: 2}
+  - {fileID: 11400000, guid: 5e0239329d318464086e6740c2e44690, type: 2}
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: 7e0774493e3ab0349a46ae69cdeb7329, type: 2}
+  - {fileID: 11400000, guid: 9c7222d19b2daa1489f2c6b324c0159d, type: 2}
+  abilities: 08000000070000000600000003000000
+  confirmSkillPrioritys: 0a000000
+  selectDetailTargetTypes: 04000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 020000000300000004000000050000000600000007000000090000000b00000001000000
+  possibleSelectDetailTargetTypeDatas: 010000000200000003000000040000000500000006000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

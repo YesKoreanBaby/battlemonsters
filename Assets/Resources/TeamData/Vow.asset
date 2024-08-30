@@ -1,0 +1,165 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 12fbeab39f3dc6447bebe14d333982a2, type: 3}
+  m_Name: Vow
+  m_EditorClassIdentifier: 
+  teamName: Vow
+  commentViewIndex: 26
+  teamLevel: 2
+  teamIcon: {fileID: 21300000, guid: 3a45c3b91479e144a9054a50e7427e8d, type: 3}
+  startMonsters:
+  - {fileID: 11400000, guid: bf037b80377d6dd45b374ea076388a19, type: 2}
+  - {fileID: 11400000, guid: bf037b80377d6dd45b374ea076388a19, type: 2}
+  startCombineDatas:
+  - {fileID: 11400000, guid: 29d827d8540384745a1a15a106b2ce74, type: 2}
+  - {fileID: 11400000, guid: 80711ec3d4bfd944e84283d4b325ea9a, type: 2}
+  - {fileID: 11400000, guid: 22d73079818b81b4a9182334534aa944, type: 2}
+  startMoney: 500
+  startDiamond: 0
+  win: 0
+  draw: 0
+  lose: 0
+  score: 0
+  league_3Data:
+    monsterDataDic:
+    - list:
+      - Key: {x: 1, y: -1}
+        Value:
+          monsterData: {fileID: 11400000, guid: 28bb41e05de18bb4ba079d7ea4b4b023, type: 2}
+          tranningLevel: 0
+          tranningType: 0
+          selectDetailTargetType: 1
+          confirmSkillPriority: 0
+          checkFullSkill: 0
+      - Key: {x: 2, y: 1}
+        Value:
+          monsterData: {fileID: 11400000, guid: 28bb41e05de18bb4ba079d7ea4b4b023, type: 2}
+          tranningLevel: 0
+          tranningType: 0
+          selectDetailTargetType: 1
+          confirmSkillPriority: 0
+          checkFullSkill: 0
+      - Key: {x: 3, y: 0}
+        Value:
+          monsterData: {fileID: 11400000, guid: 28bb41e05de18bb4ba079d7ea4b4b023, type: 2}
+          tranningLevel: 0
+          tranningType: 0
+          selectDetailTargetType: 1
+          confirmSkillPriority: 0
+          checkFullSkill: 0
+    monsterCount: 4
+    fieldType: 13
+    battleType: 1
+    conversationData:
+      npcImage: {fileID: 0}
+      npcName: 
+      converstionData: {fileID: 0}
+      imageIndex: 0
+  league_2Data:
+    monsterDataDic:
+    - list:
+      - Key: {x: 1, y: 0}
+        Value:
+          monsterData: {fileID: 11400000, guid: bf037b80377d6dd45b374ea076388a19, type: 2}
+          tranningLevel: 1
+          tranningType: 6
+          selectDetailTargetType: 15
+          confirmSkillPriority: 0
+          checkFullSkill: 0
+      - Key: {x: 2, y: -1}
+        Value:
+          monsterData: {fileID: 11400000, guid: bf037b80377d6dd45b374ea076388a19, type: 2}
+          tranningLevel: 1
+          tranningType: 6
+          selectDetailTargetType: 15
+          confirmSkillPriority: 0
+          checkFullSkill: 0
+      - Key: {x: 3, y: 1}
+        Value:
+          monsterData: {fileID: 11400000, guid: bf037b80377d6dd45b374ea076388a19, type: 2}
+          tranningLevel: 1
+          tranningType: 6
+          selectDetailTargetType: 15
+          confirmSkillPriority: 0
+          checkFullSkill: 0
+      - Key: {x: 3, y: 0}
+        Value:
+          monsterData: {fileID: 11400000, guid: bf037b80377d6dd45b374ea076388a19, type: 2}
+          tranningLevel: 1
+          tranningType: 6
+          selectDetailTargetType: 15
+          confirmSkillPriority: 0
+          checkFullSkill: 0
+    monsterCount: 4
+    fieldType: 13
+    battleType: 1
+    conversationData:
+      npcImage: {fileID: 0}
+      npcName: 
+      converstionData: {fileID: 0}
+      imageIndex: 0
+  league_1Data:
+    monsterDataDic:
+    - list:
+      - Key: {x: 2, y: 0}
+        Value:
+          monsterData: {fileID: 11400000, guid: 5870e3cf27a785b4a9db7790414d1917, type: 2}
+          tranningLevel: 3
+          tranningType: 3
+          selectDetailTargetType: 1
+          confirmSkillPriority: 0
+          checkFullSkill: 0
+    - list:
+      - Key: {x: 2, y: 0}
+        Value:
+          monsterData: {fileID: 11400000, guid: 2f4b0b897fc94684d8f3aed7896b8538, type: 2}
+          tranningLevel: 3
+          tranningType: 3
+          selectDetailTargetType: 1
+          confirmSkillPriority: 0
+          checkFullSkill: 0
+    - list:
+      - Key: {x: 2, y: 0}
+        Value:
+          monsterData: {fileID: 11400000, guid: 562cb780dee5794479b59cb150c629e3, type: 2}
+          tranningLevel: 3
+          tranningType: 3
+          selectDetailTargetType: 1
+          confirmSkillPriority: 0
+          checkFullSkill: 0
+    monsterCount: 4
+    fieldType: 13
+    battleType: 1
+    conversationData:
+      npcImage: {fileID: 0}
+      npcName: 
+      converstionData: {fileID: 0}
+      imageIndex: 0
+  championData:
+    monsterDataDic:
+    - list:
+      - Key: {x: 2, y: 0}
+        Value:
+          monsterData: {fileID: 11400000, guid: 795f2bdad976a96428867cfa0a98a9e8, type: 2}
+          tranningLevel: 4
+          tranningType: 3
+          selectDetailTargetType: 0
+          confirmSkillPriority: 11
+          checkFullSkill: 0
+    monsterCount: 4
+    fieldType: 6
+    battleType: 1
+    conversationData:
+      npcImage: {fileID: 0}
+      npcName: 
+      converstionData: {fileID: 0}
+      imageIndex: 0

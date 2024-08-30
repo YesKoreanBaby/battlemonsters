@@ -1,0 +1,542 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1825136922457443859
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1888949820950327515}
+  - component: {fileID: 2064375819312943439}
+  - component: {fileID: 1778099723929271732}
+  m_Layer: 0
+  m_Name: IAPManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1888949820950327515
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1825136922457443859}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2064375819312943439
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1825136922457443859}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0876746fd0db1964dab90724f9ec2635, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  productDatas:
+  - id: noads
+    productType: 0
+    rewardEvt:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 1778099723929271732}
+          m_TargetAssemblyTypeName: IAPEvent, Assembly-CSharp
+          m_MethodName: NoAdsReward
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    unrewardEvt:
+      m_PersistentCalls:
+        m_Calls: []
+  - id: behemoth
+    productType: 0
+    rewardEvt:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 1778099723929271732}
+          m_TargetAssemblyTypeName: IAPEvent, Assembly-CSharp
+          m_MethodName: ProductEventReward_0
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    unrewardEvt:
+      m_PersistentCalls:
+        m_Calls: []
+  - id: fomorian
+    productType: 0
+    rewardEvt:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 1778099723929271732}
+          m_TargetAssemblyTypeName: IAPEvent, Assembly-CSharp
+          m_MethodName: ProductEventReward_1
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    unrewardEvt:
+      m_PersistentCalls:
+        m_Calls: []
+  - id: trickster
+    productType: 0
+    rewardEvt:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 1778099723929271732}
+          m_TargetAssemblyTypeName: IAPEvent, Assembly-CSharp
+          m_MethodName: ProductEventReward_2
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    unrewardEvt:
+      m_PersistentCalls:
+        m_Calls: []
+  - id: icefairy
+    productType: 0
+    rewardEvt:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 1778099723929271732}
+          m_TargetAssemblyTypeName: IAPEvent, Assembly-CSharp
+          m_MethodName: ProductEventReward_3
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    unrewardEvt:
+      m_PersistentCalls:
+        m_Calls: []
+  - id: 1000
+    productType: 0
+    rewardEvt:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 1778099723929271732}
+          m_TargetAssemblyTypeName: IAPEvent, Assembly-CSharp
+          m_MethodName: GoldReward_0
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    unrewardEvt:
+      m_PersistentCalls:
+        m_Calls: []
+  - id: 1001
+    productType: 0
+    rewardEvt:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 1778099723929271732}
+          m_TargetAssemblyTypeName: IAPEvent, Assembly-CSharp
+          m_MethodName: GoldReward_1
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    unrewardEvt:
+      m_PersistentCalls:
+        m_Calls: []
+  - id: 1002
+    productType: 0
+    rewardEvt:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 1778099723929271732}
+          m_TargetAssemblyTypeName: IAPEvent, Assembly-CSharp
+          m_MethodName: GoldReward_2
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    unrewardEvt:
+      m_PersistentCalls:
+        m_Calls: []
+  - id: 1003
+    productType: 0
+    rewardEvt:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 1778099723929271732}
+          m_TargetAssemblyTypeName: IAPEvent, Assembly-CSharp
+          m_MethodName: GoldReward_3
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    unrewardEvt:
+      m_PersistentCalls:
+        m_Calls: []
+  - id: 2000
+    productType: 0
+    rewardEvt:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 1778099723929271732}
+          m_TargetAssemblyTypeName: IAPEvent, Assembly-CSharp
+          m_MethodName: DiamondReward_0
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    unrewardEvt:
+      m_PersistentCalls:
+        m_Calls: []
+  - id: 2001
+    productType: 0
+    rewardEvt:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 1778099723929271732}
+          m_TargetAssemblyTypeName: IAPEvent, Assembly-CSharp
+          m_MethodName: DiamondReward_1
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    unrewardEvt:
+      m_PersistentCalls:
+        m_Calls: []
+  - id: 2002
+    productType: 0
+    rewardEvt:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 1778099723929271732}
+          m_TargetAssemblyTypeName: IAPEvent, Assembly-CSharp
+          m_MethodName: DiamondReward_2
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    unrewardEvt:
+      m_PersistentCalls:
+        m_Calls: []
+  - id: 2003
+    productType: 0
+    rewardEvt:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 1778099723929271732}
+          m_TargetAssemblyTypeName: IAPEvent, Assembly-CSharp
+          m_MethodName: DiamondReward_3
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    unrewardEvt:
+      m_PersistentCalls:
+        m_Calls: []
+  - id: abidal
+    productType: 0
+    rewardEvt:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 1778099723929271732}
+          m_TargetAssemblyTypeName: IAPEvent, Assembly-CSharp
+          m_MethodName: AbidalReward
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    unrewardEvt:
+      m_PersistentCalls:
+        m_Calls: []
+  - id: bendead
+    productType: 0
+    rewardEvt:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 1778099723929271732}
+          m_TargetAssemblyTypeName: IAPEvent, Assembly-CSharp
+          m_MethodName: BendeadReward
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    unrewardEvt:
+      m_PersistentCalls:
+        m_Calls: []
+  - id: dragora
+    productType: 0
+    rewardEvt:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 1778099723929271732}
+          m_TargetAssemblyTypeName: IAPEvent, Assembly-CSharp
+          m_MethodName: DragoraReward
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    unrewardEvt:
+      m_PersistentCalls:
+        m_Calls: []
+  - id: hert
+    productType: 0
+    rewardEvt:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 1778099723929271732}
+          m_TargetAssemblyTypeName: IAPEvent, Assembly-CSharp
+          m_MethodName: HertReward
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    unrewardEvt:
+      m_PersistentCalls:
+        m_Calls: []
+  - id: pneuma
+    productType: 0
+    rewardEvt:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 1778099723929271732}
+          m_TargetAssemblyTypeName: IAPEvent, Assembly-CSharp
+          m_MethodName: PneumaReward
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    unrewardEvt:
+      m_PersistentCalls:
+        m_Calls: []
+  - id: scroll
+    productType: 0
+    rewardEvt:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 1778099723929271732}
+          m_TargetAssemblyTypeName: IAPEvent, Assembly-CSharp
+          m_MethodName: ScrollReward
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    unrewardEvt:
+      m_PersistentCalls:
+        m_Calls: []
+  - id: icehog
+    productType: 0
+    rewardEvt:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 1778099723929271732}
+          m_TargetAssemblyTypeName: IAPEvent, Assembly-CSharp
+          m_MethodName: IcehogReward
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    unrewardEvt:
+      m_PersistentCalls:
+        m_Calls: []
+  - id: vernon
+    productType: 0
+    rewardEvt:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 1778099723929271732}
+          m_TargetAssemblyTypeName: IAPEvent, Assembly-CSharp
+          m_MethodName: VernonReward
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    unrewardEvt:
+      m_PersistentCalls:
+        m_Calls: []
+  - id: yaman
+    productType: 0
+    rewardEvt:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 1778099723929271732}
+          m_TargetAssemblyTypeName: IAPEvent, Assembly-CSharp
+          m_MethodName: YamanReward
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    unrewardEvt:
+      m_PersistentCalls:
+        m_Calls: []
+  - id: topupmoney
+    productType: 0
+    rewardEvt:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 1778099723929271732}
+          m_TargetAssemblyTypeName: IAPEvent, Assembly-CSharp
+          m_MethodName: TopUpMoney
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    unrewardEvt:
+      m_PersistentCalls:
+        m_Calls: []
+  - id: topupdiamond
+    productType: 0
+    rewardEvt:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 1778099723929271732}
+          m_TargetAssemblyTypeName: IAPEvent, Assembly-CSharp
+          m_MethodName: TopUpDiamond
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    unrewardEvt:
+      m_PersistentCalls:
+        m_Calls: []
+--- !u!114 &1778099723929271732
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1825136922457443859}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c83c3858ebdf53e488159e2cc17cd66d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  teamProductKeys: []
+  purchasedTutorial: 0

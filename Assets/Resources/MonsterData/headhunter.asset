@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: headhunter
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 2242933165837348162, guid: c0b34a09ced38c14d9ac0130b80516eb, type: 3}
+  battleAIType: 3
+  evolutionType: 0
+  status: 0
+  monsterWeight: 3
+  monsterClass: 3
+  spawnItems: []
+  tranningType: 4
+  dictionaryData: {fileID: 11400000, guid: 3fcd0d00f063a044788330447d0a6720, type: 2}
+  hp: 100
+  mp: 10
+  dex: 4.8
+  atk: 45
+  def: 20
+  manaRecoveryRatio: 0.1
+  hpRecoveryRatio: 0.1
+  repeatRatio: 0
+  creaticalRatio: 0.25
+  datas:
+  - {fileID: 11400000, guid: 01655688941502b41b6585225fd4081d, type: 2}
+  percentSkillDatas: []
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: 49fa085d518170d44ab4977a00aaf33a, type: 2}
+  abilities: 07000000060000000c000000
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 01000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

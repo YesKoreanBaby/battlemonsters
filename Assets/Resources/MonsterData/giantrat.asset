@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: giantrat
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 7932015536328074857, guid: 358f3eff4b911ee42858f0a1d9f985be, type: 3}
+  battleAIType: 1
+  evolutionType: 0
+  status: 8
+  monsterWeight: 3
+  monsterClass: 3
+  spawnItems: []
+  tranningType: 10
+  dictionaryData: {fileID: 11400000, guid: ae9919d82d8ba8c43a7da05cbb3a10b5, type: 2}
+  hp: 100
+  mp: 20
+  dex: 4.2
+  atk: 25
+  def: 10
+  manaRecoveryRatio: 0.25
+  hpRecoveryRatio: 0.25
+  repeatRatio: 0.25
+  creaticalRatio: 0.25
+  datas:
+  - {fileID: 11400000, guid: 01970e38649a4fa489bbcbed915874d1, type: 2}
+  - {fileID: 11400000, guid: 581f09290613a4b4fac272afb405bb9a, type: 2}
+  - {fileID: 11400000, guid: 0542840b0bb5bd841b7710cd1018a559, type: 2}
+  percentSkillDatas: []
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: d879a01d6266e5a419cdeb374736c8c7, type: 2}
+  - {fileID: 11400000, guid: 7b41caa9152ca0946adb2a9f325b48c0, type: 2}
+  - {fileID: 11400000, guid: 9c7222d19b2daa1489f2c6b324c0159d, type: 2}
+  abilities: 10000000
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 00000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

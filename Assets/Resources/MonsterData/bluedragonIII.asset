@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: bluedragonIII
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 7774066594282771836, guid: cb17b240e8ca97e45842baa98a028b71, type: 3}
+  battleAIType: 3
+  evolutionType: 0
+  status: 2
+  monsterWeight: 3
+  monsterClass: 4
+  spawnItems: []
+  tranningType: 4
+  dictionaryData: {fileID: 11400000, guid: 63eb18dc3b59b26469852b46ab64f20e, type: 2}
+  hp: 100
+  mp: 100
+  dex: 5.6
+  atk: 25
+  def: 15
+  manaRecoveryRatio: 0.1
+  hpRecoveryRatio: 0.1
+  repeatRatio: 0.25
+  creaticalRatio: 0.25
+  datas:
+  - {fileID: 11400000, guid: 45c6e0662f2f61745b2d8552a11e9640, type: 2}
+  - {fileID: 11400000, guid: 432a0cf6430680a4d890e7acb8d07629, type: 2}
+  - {fileID: 11400000, guid: e2e27097213346b43852f5aa190be258, type: 2}
+  percentSkillDatas: []
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: 9c7222d19b2daa1489f2c6b324c0159d, type: 2}
+  abilities: 0a0000000c0000000f0000000500000008000000
+  confirmSkillPrioritys: 0b000000
+  selectDetailTargetTypes: 09000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

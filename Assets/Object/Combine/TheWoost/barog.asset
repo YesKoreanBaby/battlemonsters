@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40f3705e675e1ff4b8976aa0268e6505, type: 3}
+  m_Name: barog
+  m_EditorClassIdentifier: 
+  combineMonster: {fileID: 11400000, guid: 16f17efcbe628184886e40500edd21e9, type: 2}
+  combineItem: {fileID: 0}
+  monsterDatas:
+  - monsterData: {fileID: 11400000, guid: 0db0f197a5ba02741b08931d724824f7, type: 2}
+    count: 1
+  - monsterData: {fileID: 11400000, guid: 4459f79df394f53479f87b2bc55794b4, type: 2}
+    count: 3
+  costItemDatas:
+  - itemType: 2
+    count: 100
+  consumeItemDatas: []
+  onlyOne: 1

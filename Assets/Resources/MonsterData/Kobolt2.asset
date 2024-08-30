@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: Kobolt2
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 120367693718703622, guid: 800377643e5444c4a961983f80c6f991, type: 3}
+  battleAIType: 2
+  evolutionType: 0
+  status: 3
+  monsterWeight: 0
+  monsterClass: 2
+  spawnItems: []
+  tranningType: 0
+  dictionaryData: {fileID: 11400000, guid: be6f44db6eb13cd4f8bc8d6afc18208c, type: 2}
+  hp: 20
+  mp: 20
+  dex: 4.2
+  atk: 5
+  def: 15
+  manaRecoveryRatio: 0.1
+  hpRecoveryRatio: 0.1
+  repeatRatio: -0.1
+  creaticalRatio: 0.1
+  datas:
+  - {fileID: 11400000, guid: 19abd5f9c1dfd134996e6267164c9f03, type: 2}
+  percentSkillDatas:
+  - {fileID: 11400000, guid: e70ca355aa685464e935b5a6af2c5b79, type: 2}
+  - {fileID: 11400000, guid: d759897990443c948b08d5dfd109689f, type: 2}
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: 538f8c3a83cd00a4d988d5535a044a07, type: 2}
+  abilities: 0f000000
+  confirmSkillPrioritys: 01000000
+  selectDetailTargetTypes: 00000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 05000000
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

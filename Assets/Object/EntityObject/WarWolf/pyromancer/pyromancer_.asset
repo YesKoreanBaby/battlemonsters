@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15b14fa3d9808264b8fe827ed02cbbcc, type: 3}
+  m_Name: pyromancer_
+  m_EditorClassIdentifier: 
+  monsterName: "<b><size=28>\uD30C\uC774\uB85C\uB9E8\uC11C"
+  description: "\uBD88\uC758 \uD798\uC744 \uC9C0\uB2CC \uACE0\uB300\uC758 \uC9D0\uC2B9"

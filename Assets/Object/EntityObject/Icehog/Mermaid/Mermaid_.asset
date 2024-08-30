@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15b14fa3d9808264b8fe827ed02cbbcc, type: 3}
+  m_Name: Mermaid_
+  m_EditorClassIdentifier: 
+  monsterName: "\uBA38\uBA54\uC774\uB4DC"
+  description: "\uC8FD\uC73C\uBA74 \uC544\uB984\uB2E4\uC6B4 \uBCF4\uC11D\uC744\n\uB5A8\uC5B4\uD2B8\uB9AC\uAE30\uB3C4
+    \uD55C\uB2E4.\n\n\uC774 \uC77C \uB54C\uBB38\uC5D0 \uB300\uB7C9 \uD559\uC0B4\uC774\n\uBC8C\uC5B4\uC9C0\uAE30\uB3C4
+    \uD588\uB2E4."

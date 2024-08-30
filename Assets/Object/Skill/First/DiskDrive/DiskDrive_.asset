@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a06ce28b585120d4f8c813140b1b22c5, type: 3}
+  m_Name: DiskDrive_
+  m_EditorClassIdentifier: 
+  skillName: "\uB514\uC2A4\uD06C\uB4DC\uB77C\uC774\uBE0C"
+  skillDmageType: Normal
+  skillDmgType: 1
+  skillEffectType: 5
+  targetRange: middle
+  addEffect: "\uB9C8\uBE44"
+  skillIcon: {fileID: 21300000, guid: 5488148fb1fca07448bee2e20730d811, type: 3}
+  description: "2~4\uBC88 \uAC00\uB7C9 \uC804\uAE30\uB85C \uC774\uB8E8\uC5B4\uC9C4
+    \uBD80\uBA54\uB791\uC744\n\uBC1C\uC0AC\uD55C\uB2E4.\n"

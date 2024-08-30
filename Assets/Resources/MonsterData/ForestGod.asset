@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: ForestGod
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 8423775904665356516, guid: ef95d9eeac6ed744f95a6101ee53e327, type: 3}
+  battleAIType: 0
+  evolutionType: 0
+  status: 6
+  monsterWeight: 3
+  monsterClass: 3
+  spawnItems: []
+  tranningType: 10
+  dictionaryData: {fileID: 0}
+  hp: 120
+  mp: 100
+  dex: 6
+  atk: 15
+  def: 15
+  manaRecoveryRatio: 0.25
+  hpRecoveryRatio: 0.25
+  repeatRatio: -4
+  creaticalRatio: 0.1
+  datas:
+  - {fileID: 11400000, guid: c7bdbde117982a145a3abd777d6b4e00, type: 2}
+  percentSkillDatas: []
+  triggerSkillDatas: []
+  abilities: 010000000e000000
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 04000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 1

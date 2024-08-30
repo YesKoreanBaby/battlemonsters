@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f262818b55b0f4418296bad0176bdab, type: 3}
+  m_Name: 8a37c04d-9f84-4c48-b2f7-ea9861b22b84
+  m_EditorClassIdentifier: 
+  <DialogueName>k__BackingField: paladin
+  <Text>k__BackingField: Dialogue text.
+  <Choices>k__BackingField:
+  - <Text>k__BackingField: paladin_1
+    <NextDialogue>k__BackingField: {fileID: 11400000, guid: 5781fe07922e1b0428b7493d1b6fb9d2, type: 2}
+  - <Text>k__BackingField: paladin_2
+    <NextDialogue>k__BackingField: {fileID: 11400000, guid: 8c67d0c8feb105948815f192879ee035, type: 2}
+  <DialogueType>k__BackingField: 1
+  <IsStartingDialogue>k__BackingField: 0

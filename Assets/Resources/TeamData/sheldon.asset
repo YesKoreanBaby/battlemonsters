@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 12fbeab39f3dc6447bebe14d333982a2, type: 3}
+  m_Name: sheldon
+  m_EditorClassIdentifier: 
+  teamName: Sheldon
+  commentViewIndex: 21
+  teamLevel: 4
+  teamIcon: {fileID: 21300000, guid: 9167bcd57d909da48b48c4746bbcb9d5, type: 3}
+  startMonsters:
+  - {fileID: 11400000, guid: 02f4ecab0f007494b9d084d849ede5a7, type: 2}
+  startCombineDatas:
+  - {fileID: 11400000, guid: d7e5c6e32997b1146829a13e971f49c0, type: 2}
+  startMoney: 2000
+  startDiamond: 0
+  win: 0
+  draw: 0
+  lose: 0
+  score: 0
+  league_3Data:
+    monsterDataDic:
+    - list:
+      - Key: {x: 1, y: 0}
+        Value:
+          monsterData: {fileID: 11400000, guid: 02f4ecab0f007494b9d084d849ede5a7, type: 2}
+          tranningLevel: 0
+          tranningType: 7
+          selectDetailTargetType: 9
+          confirmSkillPriority: 11
+          checkFullSkill: 0
+    monsterCount: 4
+    fieldType: 13
+    battleType: 1
+    conversationData:
+      npcImage: {fileID: 0}
+      npcName: 
+      converstionData: {fileID: 0}
+      imageIndex: 0
+  league_2Data:
+    monsterDataDic:
+    - list:
+      - Key: {x: 2, y: 0}
+        Value:
+          monsterData: {fileID: 11400000, guid: 02f4ecab0f007494b9d084d849ede5a7, type: 2}
+          tranningLevel: 2
+          tranningType: 5
+          selectDetailTargetType: 9
+          confirmSkillPriority: 11
+          checkFullSkill: 1
+    - list:
+      - Key: {x: 2, y: 0}
+        Value:
+          monsterData: {fileID: 11400000, guid: 7fd381d7a6dd6864abd65ee3411f7f68, type: 2}
+          tranningLevel: 3
+          tranningType: 6
+          selectDetailTargetType: 9
+          confirmSkillPriority: 11
+          checkFullSkill: 1
+    monsterCount: 4
+    fieldType: 13
+    battleType: 1
+    conversationData:
+      npcImage: {fileID: 0}
+      npcName: 
+      converstionData: {fileID: 0}
+      imageIndex: 0
+  league_1Data:
+    monsterDataDic:
+    - list:
+      - Key: {x: 2, y: 0}
+        Value:
+          monsterData: {fileID: 11400000, guid: 02f4ecab0f007494b9d084d849ede5a7, type: 2}
+          tranningLevel: 3
+          tranningType: 5
+          selectDetailTargetType: 1
+          confirmSkillPriority: 11
+          checkFullSkill: 1
+    - list:
+      - Key: {x: 2, y: 0}
+        Value:
+          monsterData: {fileID: 11400000, guid: 7fd381d7a6dd6864abd65ee3411f7f68, type: 2}
+          tranningLevel: 4
+          tranningType: 6
+          selectDetailTargetType: 1
+          confirmSkillPriority: 0
+          checkFullSkill: 1
+    monsterCount: 4
+    fieldType: 13
+    battleType: 1
+    conversationData:
+      npcImage: {fileID: 0}
+      npcName: 
+      converstionData: {fileID: 0}
+      imageIndex: 0
+  championData:
+    monsterDataDic:
+    - list:
+      - Key: {x: 1, y: 0}
+        Value:
+          monsterData: {fileID: 11400000, guid: 29fc93dcdb1a6b147b5dd4dc5c7d6d2a, type: 2}
+          tranningLevel: 4
+          tranningType: 3
+          selectDetailTargetType: 0
+          confirmSkillPriority: 0
+          checkFullSkill: 0
+    monsterCount: 4
+    fieldType: 6
+    battleType: 1
+    conversationData:
+      npcImage: {fileID: 0}
+      npcName: 
+      converstionData: {fileID: 0}
+      imageIndex: 0

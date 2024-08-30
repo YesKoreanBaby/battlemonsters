@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0202a3095b7477a4091d56344f0af6b3, type: 3}
+  m_Name: advisor7Graph
+  m_EditorClassIdentifier: 
+  <FileName>k__BackingField: advisor7
+  <Groups>k__BackingField: []
+  <Nodes>k__BackingField:
+  - <ID>k__BackingField: 4de4c04e-7168-4431-bf62-acd9a82c85f2
+    <Name>k__BackingField: advisor
+    <Text>k__BackingField: advisor7_1
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 42d57b58-53fa-47af-8d58-69410bd1d9bd
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 1464, y: 447}
+  - <ID>k__BackingField: a583ce4a-422c-4e3d-a915-e1c38d9b6f26
+    <Name>k__BackingField: advisor
+    <Text>k__BackingField: advisor7_0
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 4de4c04e-7168-4431-bf62-acd9a82c85f2
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 613, y: 447}
+  - <ID>k__BackingField: 42d57b58-53fa-47af-8d58-69410bd1d9bd
+    <Name>k__BackingField: advisor
+    <Text>k__BackingField: advisor7_2
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 2257, y: 447}
+  <OldGroupNames>k__BackingField: []
+  <OldUngroupedNodeNames>k__BackingField:
+  - 4de4c04e-7168-4431-bf62-acd9a82c85f2
+  - a583ce4a-422c-4e3d-a915-e1c38d9b6f26
+  - 42d57b58-53fa-47af-8d58-69410bd1d9bd
+  <OldGroupedNodeNames>k__BackingField:
+    list: []

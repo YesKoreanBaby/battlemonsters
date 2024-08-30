@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15b14fa3d9808264b8fe827ed02cbbcc, type: 3}
+  m_Name: basicDragon_
+  m_EditorClassIdentifier: 
+  monsterName: "<b><size=28>\uBCA0\uC774\uC9C1 \uB4DC\uB798\uACE4"
+  description: "\uAC00\uC7A5 \uD074\uB798\uC2DD\uD558\uACE0 \uBCF4\uD3B8\uC801\uC778
+    \uC9C4\uD654\n\uD2B9\uC720\uC758 \uBE44\uD589\uD2B9\uC131\uC774 \uBD80\uAC01\uB41C\uB2E4."

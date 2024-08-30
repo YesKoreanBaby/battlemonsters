@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: Crusade
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 6000390791350464661, guid: 7d4a43e5259333b4eb99034a96a21e2b, type: 3}
+  battleAIType: 2
+  evolutionType: 0
+  status: 0
+  monsterWeight: 0
+  monsterClass: 1
+  spawnItems: []
+  tranningType: 0
+  dictionaryData: {fileID: 11400000, guid: 528fa93ae7c40d14b8d63022d97a3e22, type: 2}
+  hp: 20
+  mp: 10
+  dex: 4.6
+  atk: 15
+  def: 10
+  manaRecoveryRatio: 0.1
+  hpRecoveryRatio: 0.1
+  repeatRatio: 0.1
+  creaticalRatio: 0.1
+  datas:
+  - {fileID: 11400000, guid: 0c46f921554befd4d88394ae54abd0c7, type: 2}
+  percentSkillDatas:
+  - {fileID: 11400000, guid: 4bc55b3497c4781489d9ee5d1e0b9bd6, type: 2}
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: 538f8c3a83cd00a4d988d5535a044a07, type: 2}
+  abilities: 0f000000
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 00000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 0100000002000000030000000400000005000000060000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

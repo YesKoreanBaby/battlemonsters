@@ -1,0 +1,727 @@
+fileFormatVersion: 2
+guid: bcdb8401a6d151d438cb7555843c1091
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: P9 VFX 12 (Speed Boost)_Frame_0
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 16
+      height: 16
+    spriteID: 327e5575c730a8846ad5084a5cd974a8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: P9 VFX 12 (Speed Boost)_Frame_3
+    originalName: 
+    pivot: {x: 0.3, y: -0.90000004}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 68
+      y: 76
+      width: 10
+      height: 10
+    spriteID: d371318dea90607438a4043391d7ad7c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 68, y: 76}
+  - name: P9 VFX 12 (Speed Boost)_Frame_4
+    originalName: 
+    pivot: {x: 0.3846154, y: -0.5384615}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 76
+      width: 13
+      height: 13
+    spriteID: 4da81ca6633f2084db707af3505eb18a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 76}
+  - name: P9 VFX 12 (Speed Boost)_Frame_5
+    originalName: 
+    pivot: {x: 0.42857143, y: -0.42857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 54
+      width: 14
+      height: 14
+    spriteID: cb14cd248798f9a4d9401c55bf0bf365
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 54}
+  - name: P9 VFX 12 (Speed Boost)_Frame_6
+    originalName: 
+    pivot: {x: 0.42857143, y: -0.42857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 26
+      y: 54
+      width: 14
+      height: 14
+    spriteID: 62bfd510a5bf5434abed0f4461628af0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 26, y: 54}
+  - name: P9 VFX 12 (Speed Boost)_Frame_7
+    originalName: 
+    pivot: {x: 0.42857143, y: -0.42857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 54
+      width: 14
+      height: 14
+    spriteID: e615ae9b4fcd8584d9308d8834e913f9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 48, y: 54}
+  - name: P9 VFX 12 (Speed Boost)_Frame_8
+    originalName: 
+    pivot: {x: 0.42857143, y: -0.42857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 70
+      y: 54
+      width: 14
+      height: 14
+    spriteID: 57bc1b55e307a9b429b407d9a94f0fc2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 70, y: 54}
+  - name: P9 VFX 12 (Speed Boost)_Frame_9
+    originalName: 
+    pivot: {x: 0.46153846, y: -0.3529412}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 28
+      width: 13
+      height: 17
+    spriteID: d6ce50518dbaf7643998cd2557aa0393
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 90, y: 28}
+  - name: P9 VFX 12 (Speed Boost)_Frame_10
+    originalName: 
+    pivot: {x: 0.46153846, y: -0.3529412}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 111
+      y: 28
+      width: 13
+      height: 17
+    spriteID: ea56d9740bde5cf44b6a8fdf970e80f6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 111, y: 28}
+  - name: P9 VFX 12 (Speed Boost)_Frame_11
+    originalName: 
+    pivot: {x: 0.42857143, y: -0.3529412}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 26
+      y: 28
+      width: 14
+      height: 17
+    spriteID: b67e1ba40d6459941bdacab673858455
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 26, y: 28}
+  - name: P9 VFX 12 (Speed Boost)_Frame_12
+    originalName: 
+    pivot: {x: 0.42857143, y: -0.46153846}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 54
+      width: 14
+      height: 13
+    spriteID: 7ad7e0d1d71829440bc59c2e3f41edda
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 92, y: 54}
+  - name: P9 VFX 12 (Speed Boost)_Frame_15
+    originalName: 
+    pivot: {x: 0.70000005, y: -0.45454547}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 114
+      y: 54
+      width: 10
+      height: 11
+    spriteID: ee97a172c35315f43a629fa6a68a3655
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 114, y: 54}
+  - name: P9 VFX 12 (Speed Boost)_Frame_16
+    originalName: 
+    pivot: {x: 0.6153846, y: -0.2857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 76
+      width: 13
+      height: 14
+    spriteID: 888caa40f4211c746b7f5c4f0258e55a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 76}
+  - name: P9 VFX 12 (Speed Boost)_Frame_17
+    originalName: 
+    pivot: {x: 0.57142854, y: -0.26666668}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 28
+      y: 4
+      width: 14
+      height: 15
+    spriteID: b461afcb9771c2347a8437278f5deb5b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 28, y: 4}
+  - name: P9 VFX 12 (Speed Boost)_Frame_18
+    originalName: 
+    pivot: {x: 0.57142854, y: -0.26666668}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 4
+      width: 14
+      height: 15
+    spriteID: 14ffc016e729a9c4a89d9280064d9ee6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 4}
+  - name: P9 VFX 12 (Speed Boost)_Frame_19
+    originalName: 
+    pivot: {x: 0.57142854, y: -0.26666668}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 4
+      width: 14
+      height: 15
+    spriteID: db2d6a01365c70b439fe379b77edaa58
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 72, y: 4}
+  - name: P9 VFX 12 (Speed Boost)_Frame_20
+    originalName: 
+    pivot: {x: 0.57142854, y: -0.26666668}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 94
+      y: 4
+      width: 14
+      height: 15
+    spriteID: 9c15c4dc2e74fba499e0b8340038fbc7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 94, y: 4}
+  - name: P9 VFX 12 (Speed Boost)_Frame_21
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.05555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 28
+      width: 13
+      height: 18
+    spriteID: 5a66fc41243a9f347b61175f94479e45
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 48, y: 28}
+  - name: P9 VFX 12 (Speed Boost)_Frame_22
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.05555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 69
+      y: 28
+      width: 13
+      height: 18
+    spriteID: 288ac5d96beb36648984b5dd5bcd5e0e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 69, y: 28}
+  - name: P9 VFX 12 (Speed Boost)_Frame_23
+    originalName: 
+    pivot: {x: 0.57142854, y: -0.05555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 28
+      width: 14
+      height: 18
+    spriteID: da72454e27802ff4bbf19919e8d6d57e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 28}
+  - name: P9 VFX 12 (Speed Boost)_Frame_24
+    originalName: 
+    pivot: {x: 0.57142854, y: -0.46153846}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 25
+      y: 76
+      width: 14
+      height: 13
+    spriteID: 636b5c85487fd10419d4090b3c0b4c51
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 25, y: 76}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -770528451
+    name: P9 VFX 12 (Speed Boost)
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: P9 VFX 12 (Speed Boost)_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 4
+        y: 4
+        width: 16
+        height: 16
+      spriteId: 327e5575c730a8846ad5084a5cd974a8
+    - name: P9 VFX 12 (Speed Boost)_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 9
+        y: 9
+        width: 10
+        height: 10
+      spriteId: d371318dea90607438a4043391d7ad7c
+    - name: P9 VFX 12 (Speed Boost)_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 7
+        y: 7
+        width: 13
+        height: 13
+      spriteId: 4da81ca6633f2084db707af3505eb18a
+    - name: P9 VFX 12 (Speed Boost)_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 6
+        y: 6
+        width: 14
+        height: 14
+      spriteId: cb14cd248798f9a4d9401c55bf0bf365
+    - name: P9 VFX 12 (Speed Boost)_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 6
+        y: 6
+        width: 14
+        height: 14
+      spriteId: 62bfd510a5bf5434abed0f4461628af0
+    - name: P9 VFX 12 (Speed Boost)_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 6
+        y: 6
+        width: 14
+        height: 14
+      spriteId: e615ae9b4fcd8584d9308d8834e913f9
+    - name: P9 VFX 12 (Speed Boost)_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 6
+        y: 6
+        width: 14
+        height: 14
+      spriteId: 57bc1b55e307a9b429b407d9a94f0fc2
+    - name: P9 VFX 12 (Speed Boost)_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 6
+        y: 6
+        width: 13
+        height: 17
+      spriteId: d6ce50518dbaf7643998cd2557aa0393
+    - name: P9 VFX 12 (Speed Boost)_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 6
+        y: 6
+        width: 13
+        height: 17
+      spriteId: ea56d9740bde5cf44b6a8fdf970e80f6
+    - name: P9 VFX 12 (Speed Boost)_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 6
+        y: 6
+        width: 14
+        height: 17
+      spriteId: b67e1ba40d6459941bdacab673858455
+    - name: P9 VFX 12 (Speed Boost)_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 6
+        y: 6
+        width: 14
+        height: 13
+      spriteId: 7ad7e0d1d71829440bc59c2e3f41edda
+    - name: P9 VFX 12 (Speed Boost)_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 5
+        y: 5
+        width: 10
+        height: 11
+      spriteId: ee97a172c35315f43a629fa6a68a3655
+    - name: P9 VFX 12 (Speed Boost)_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 4
+        y: 4
+        width: 13
+        height: 14
+      spriteId: 888caa40f4211c746b7f5c4f0258e55a
+    - name: P9 VFX 12 (Speed Boost)_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 4
+        y: 4
+        width: 14
+        height: 15
+      spriteId: b461afcb9771c2347a8437278f5deb5b
+    - name: P9 VFX 12 (Speed Boost)_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 4
+        y: 4
+        width: 14
+        height: 15
+      spriteId: 14ffc016e729a9c4a89d9280064d9ee6
+    - name: P9 VFX 12 (Speed Boost)_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 4
+        y: 4
+        width: 14
+        height: 15
+      spriteId: db2d6a01365c70b439fe379b77edaa58
+    - name: P9 VFX 12 (Speed Boost)_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 4
+        y: 4
+        width: 14
+        height: 15
+      spriteId: 9c15c4dc2e74fba499e0b8340038fbc7
+    - name: P9 VFX 12 (Speed Boost)_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 5
+        y: 1
+        width: 13
+        height: 18
+      spriteId: 5a66fc41243a9f347b61175f94479e45
+    - name: P9 VFX 12 (Speed Boost)_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 5
+        y: 1
+        width: 13
+        height: 18
+      spriteId: 288ac5d96beb36648984b5dd5bcd5e0e
+    - name: P9 VFX 12 (Speed Boost)_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 4
+        y: 1
+        width: 14
+        height: 18
+      spriteId: da72454e27802ff4bbf19919e8d6d57e
+    - name: P9 VFX 12 (Speed Boost)_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 4
+        y: 6
+        width: 14
+        height: 13
+      spriteId: 636b5c85487fd10419d4090b3c0b4c51
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 24, y: 24}

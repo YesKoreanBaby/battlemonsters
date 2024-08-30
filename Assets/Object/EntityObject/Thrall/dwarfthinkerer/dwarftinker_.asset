@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15b14fa3d9808264b8fe827ed02cbbcc, type: 3}
+  m_Name: dwarftinker_
+  m_EditorClassIdentifier: 
+  monsterName: "<b><size=28>\uB4DC\uC6CC\uD504 \uACF5\uC0AC\uBCD1"
+  description: "\uB6F0\uC5B4\uB09C \uAE30\uC220\uC744 \uAC00\uC9C4\n\uB09C\uC7C1\uC774
+    \uAC74\uCD95\uAC00."

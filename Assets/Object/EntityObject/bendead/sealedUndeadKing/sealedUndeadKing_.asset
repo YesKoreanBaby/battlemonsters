@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15b14fa3d9808264b8fe827ed02cbbcc, type: 3}
+  m_Name: sealedUndeadKing_
+  m_EditorClassIdentifier: 
+  monsterName: "\uBD09\uC778\uB41C \uB9AC\uCE58\uD0B9"
+  description: "\uC624\uB798\uC804 \uD55C \uC131\uC9C1\uC790\uC5D0 \uC758\uD574\n\uC721\uC2E0\uC774
+    \uBD09\uC778\uB41C \uC5B8\uB370\uB4DC \uC655\n\n\uC601\uD63C\uB9CC \uB5A0\uB3CC\uC544
+    \uB2E4\uB2CC\uB2E4."

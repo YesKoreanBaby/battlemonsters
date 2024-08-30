@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8887bcb76b251f442aa92ffce4e953b5, type: 3}
+  m_Name: SummonsMagic_Elemental
+  m_EditorClassIdentifier: 
+  skillName: 113
+  passiveName: 0
+  type: 3
+  status: 9
+  skillDictionary: {fileID: 11400000, guid: b15e8d72ec8164147b461d44cf5a4f1f, type: 2}
+  summonsMonsterDatas:
+  - {fileID: 11400000, guid: 52e9cbbed1576124bb002f47b3e3daa8, type: 2}
+  - {fileID: 11400000, guid: a11fb63e00791fc4797a3cce8914828b, type: 2}
+  - {fileID: 11400000, guid: 7bbff37f7a5be7044a800807d382f0e4, type: 2}
+  - {fileID: 11400000, guid: aab53fb97f02fbb47b5536541d54d401, type: 2}
+  - {fileID: 11400000, guid: 8b2dcd2eb8d4e604fbd1dcfaf417b7bf, type: 2}
+  shieldCount: 0
+  targetLayer: 1
+  atk: 0
+  consumMpAmount: 8
+  buffValue: 0
+  statusRatio: 0
+  repeatRatio: 0
+  creaticalRatio: 0

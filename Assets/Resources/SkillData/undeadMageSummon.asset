@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8887bcb76b251f442aa92ffce4e953b5, type: 3}
+  m_Name: undeadMageSummon
+  m_EditorClassIdentifier: 
+  skillName: 113
+  passiveName: 0
+  type: 3
+  status: 9
+  skillDictionary: {fileID: 11400000, guid: b15e8d72ec8164147b461d44cf5a4f1f, type: 2}
+  summonsMonsterDatas:
+  - {fileID: 11400000, guid: 42b277d34e4f91b4aaa3c13a4c5de4fe, type: 2}
+  - {fileID: 11400000, guid: aa068b2184a024545951ba6994dbc15a, type: 2}
+  - {fileID: 11400000, guid: 9207697263397de4f99f7daa621c080f, type: 2}
+  shieldCount: 0
+  targetLayer: 1
+  atk: 0
+  consumMpAmount: 8
+  buffValue: 0
+  statusRatio: 0
+  repeatRatio: 0
+  creaticalRatio: 0

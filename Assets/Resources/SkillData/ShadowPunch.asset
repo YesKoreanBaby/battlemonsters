@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8887bcb76b251f442aa92ffce4e953b5, type: 3}
+  m_Name: ShadowPunch
+  m_EditorClassIdentifier: 
+  skillName: 132
+  passiveName: 0
+  type: 0
+  status: 7
+  skillDictionary: {fileID: 11400000, guid: e82b6a77e9e43c6448acc0253a0e6879, type: 2}
+  summonsMonsterDatas: []
+  shieldCount: 0
+  targetLayer: 0
+  atk: 12
+  consumMpAmount: 5
+  buffValue: 0.75
+  statusRatio: 0.1
+  repeatRatio: 0.1
+  creaticalRatio: 0

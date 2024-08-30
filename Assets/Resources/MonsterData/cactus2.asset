@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: cactus2
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 9068302440755056647, guid: 5e0b499dfc091464aa77afe775bebb16, type: 3}
+  battleAIType: 0
+  evolutionType: 0
+  status: 6
+  monsterWeight: 1
+  monsterClass: 0
+  spawnItems: []
+  tranningType: 0
+  dictionaryData: {fileID: 11400000, guid: 6dee123bcc1139b4da0f8401d8f30ef3, type: 2}
+  hp: 20
+  mp: 10
+  dex: 4.2
+  atk: 3
+  def: 0
+  manaRecoveryRatio: 0.25
+  hpRecoveryRatio: 0.25
+  repeatRatio: 0
+  creaticalRatio: 0
+  datas:
+  - {fileID: 11400000, guid: cd42b1af86014044f8354ee2dec5572c, type: 2}
+  percentSkillDatas: []
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: 3d671490375d04240b9ced9ae2dba863, type: 2}
+  abilities: 01000000
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 00000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas:
+  - {fileID: 11400000, guid: 34bc1329be1c8cd43a9cdd1df5d9b18a, type: 2}
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 0700000009000000010000000a0000000b000000
+  possibleSelectDetailTargetTypeDatas: 0100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

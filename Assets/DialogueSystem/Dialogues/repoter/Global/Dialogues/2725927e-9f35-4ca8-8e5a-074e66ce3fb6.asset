@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f262818b55b0f4418296bad0176bdab, type: 3}
+  m_Name: 2725927e-9f35-4ca8-8e5a-074e66ce3fb6
+  m_EditorClassIdentifier: 
+  <DialogueName>k__BackingField: repoter
+  <Text>k__BackingField: Dialogue text.
+  <Choices>k__BackingField:
+  - <Text>k__BackingField: repoter_1
+    <NextDialogue>k__BackingField: {fileID: 11400000, guid: 48688a7906a3949438c75765b5d9bb53, type: 2}
+  - <Text>k__BackingField: repoter_2
+    <NextDialogue>k__BackingField: {fileID: 11400000, guid: ddbab3c7a30c2eb43a61f554e64961d6, type: 2}
+  - <Text>k__BackingField: repoter_3
+    <NextDialogue>k__BackingField: {fileID: 11400000, guid: 6a8f93fa8ef02f54c8e34f07f2e3940e, type: 2}
+  <DialogueType>k__BackingField: 1
+  <IsStartingDialogue>k__BackingField: 0

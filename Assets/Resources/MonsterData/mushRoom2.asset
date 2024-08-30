@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: mushRoom2
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 5064636319461194255, guid: 13ef48ecab6085c49aa2f8124fb8a645, type: 3}
+  battleAIType: 5
+  evolutionType: 0
+  status: 9
+  monsterWeight: 1
+  monsterClass: 0
+  spawnItems:
+  - {fileID: 11400000, guid: 0d7b3a6fb77753442b176239bf99f66c, type: 2}
+  tranningType: 0
+  dictionaryData: {fileID: 11400000, guid: fc1d43bc7b0f5834cb2edb565852075b, type: 2}
+  hp: 15
+  mp: 20
+  dex: 4.2
+  atk: 1
+  def: 0
+  manaRecoveryRatio: 0.25
+  hpRecoveryRatio: 0.25
+  repeatRatio: 0
+  creaticalRatio: 0
+  datas:
+  - {fileID: 11400000, guid: b6e276c51c3905b4aa0b47373c928c30, type: 2}
+  percentSkillDatas:
+  - {fileID: 11400000, guid: 7b8d7d8b92383434793695334e0ab959, type: 2}
+  triggerSkillDatas: []
+  abilities: 0a00000004000000
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 00000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 02000000040000000a000000
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

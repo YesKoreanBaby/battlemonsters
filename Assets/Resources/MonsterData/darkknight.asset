@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: darkknight
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 5391261979780884313, guid: 2290319e53d02a5479fe9f900d4361da, type: 3}
+  battleAIType: 1
+  evolutionType: 0
+  status: 9
+  monsterWeight: 0
+  monsterClass: 4
+  spawnItems: []
+  tranningType: 2
+  dictionaryData: {fileID: 11400000, guid: b65c3ff8f161b4449899178f621c6fe0, type: 2}
+  hp: 45
+  mp: 45
+  dex: 3.4
+  atk: 15
+  def: 5
+  manaRecoveryRatio: 0.1
+  hpRecoveryRatio: 0.1
+  repeatRatio: 0.25
+  creaticalRatio: 0.25
+  datas:
+  - {fileID: 11400000, guid: c85135fd063a9bf4d854eb651f126768, type: 2}
+  percentSkillDatas: []
+  triggerSkillDatas: []
+  abilities: 06000000
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 00000000
+  possibleSkillDatas:
+  - {fileID: 11400000, guid: 6b70b38412f1aba41afbbad3fe1cbf7f, type: 2}
+  - {fileID: 11400000, guid: 87d758c6039cbd543a774c7bdf927866, type: 2}
+  - {fileID: 11400000, guid: 291f3b00b3b7aed4fa8bf43275adcb4c, type: 2}
+  - {fileID: 11400000, guid: 270615e275ee6f9449a46033cac51d7e, type: 2}
+  possiblePercentSkillDatas:
+  - {fileID: 11400000, guid: 468033801a36b4d4bbd49ce07f9b14a1, type: 2}
+  - {fileID: 11400000, guid: bafe3cb75c822aa409a2bf462747d554, type: 2}
+  possibleTriggerSkillDatas:
+  - {fileID: 11400000, guid: 7e0774493e3ab0349a46ae69cdeb7329, type: 2}
+  - {fileID: 11400000, guid: 1aa281670376d7f43994e9a38c219e09, type: 2}
+  - {fileID: 11400000, guid: 4445a8996c5ab34498aa6f5cd56ed8f4, type: 2}
+  - {fileID: 11400000, guid: a1513c71f9821f1469e056cc46b785bd, type: 2}
+  possibleAbilitieDatas: 00000000030000000700000008000000
+  possibleConfirmSkillPriorityDatas: 01000000020000000300000004000000050000000600000007000000090000000a0000000b000000
+  possibleSelectDetailTargetTypeDatas: 010000000200000003000000040000000500000006000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

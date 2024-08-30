@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: Solar
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 6933073562958937879, guid: bee04773692ca5544bb41cfa20d17d67, type: 3}
+  battleAIType: 0
+  evolutionType: 0
+  status: 10
+  monsterWeight: 3
+  monsterClass: 5
+  spawnItems: []
+  tranningType: 1
+  dictionaryData: {fileID: 11400000, guid: ee03c69bd955d394b99e123b4af72caf, type: 2}
+  hp: 100
+  mp: 100
+  dex: 5.2
+  atk: 25
+  def: 25
+  manaRecoveryRatio: 0.25
+  hpRecoveryRatio: 0.25
+  repeatRatio: 0.25
+  creaticalRatio: 0.1
+  datas:
+  - {fileID: 11400000, guid: f7997c4f0a98aa44993172045debab97, type: 2}
+  - {fileID: 11400000, guid: ca12631724bbede43b87aa64244ca1e1, type: 2}
+  - {fileID: 11400000, guid: 09f67ed7c8d5a9b4990f4375ad069de7, type: 2}
+  percentSkillDatas:
+  - {fileID: 11400000, guid: 8761960009f75364dad00851eb12e2a1, type: 2}
+  - {fileID: 11400000, guid: 5e0239329d318464086e6740c2e44690, type: 2}
+  - {fileID: 11400000, guid: f85c4be6ac487444bba4b5de09039007, type: 2}
+  - {fileID: 11400000, guid: efb747a939aea80439e6d98b7b18d7c5, type: 2}
+  - {fileID: 11400000, guid: 17cb3ebecb01dd348855585e4fdf815f, type: 2}
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: 17c7cbed656b79a4092aeb27a80eba13, type: 2}
+  - {fileID: 11400000, guid: 3d671490375d04240b9ced9ae2dba863, type: 2}
+  - {fileID: 11400000, guid: 41b42c054117a2b459841b084d8cf1e5, type: 2}
+  abilities: 0100000008000000030000000d000000
+  confirmSkillPrioritys: 09000000
+  selectDetailTargetTypes: 04000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 1

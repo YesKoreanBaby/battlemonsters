@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15b14fa3d9808264b8fe827ed02cbbcc, type: 3}
+  m_Name: Enchanter_
+  m_EditorClassIdentifier: 
+  monsterName: "\uCD08\uC2EC\uC790"
+  description: "\uC704\uB300\uD55C \uB9C8\uBC95\uC0AC\uB97C \uAFC8\uAFB8\uB294\n\uB178\uB825\uC758
+    \uCC9C\uC7AC\n\n\uB2E4\uC591\uD55C \uC18D\uC131 \uB9C8\uBC95\uC744\n\uAD6C\uC0AC\uD558\uC5EC
+    \uC801\uC744 \uBB3C\uB9AC\uCE5C\uB2E4"

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15b14fa3d9808264b8fe827ed02cbbcc, type: 3}
+  m_Name: Chimera_
+  m_EditorClassIdentifier: 
+  monsterName: "\uD0A4\uBA54\uB77C"
+  description: "\uC5EC\uB7EC \uBAAC\uC2A4\uD130\uC758 \uC601\uD63C\uB4E4\uC774 \uD569\uCCB4\uD558\uC5EC\n\uD0C4\uC0DD\uB41C
+    \uC0AC\uC545\uD55C \uBAAC\uC2A4\uD130\n\n\uB2E4\uC591\uD55C \uAE30\uC220\uC744
+    \uAD6C\uC0AC\uD560 \uC218 \uC788\uC73C\uBA70\n\uB9F7\uC9D1\uC774 \uB6F0\uC5B4\uB098\uB2E4."

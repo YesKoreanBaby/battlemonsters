@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: SpearMan
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 120367693718703622, guid: 369ac81b21a29ae4cb85f01ab24f759a, type: 3}
+  battleAIType: 2
+  evolutionType: 0
+  status: 2
+  monsterWeight: 0
+  monsterClass: 2
+  spawnItems: []
+  tranningType: 0
+  dictionaryData: {fileID: 11400000, guid: 81ae62551e3886b4d95168407b44db30, type: 2}
+  hp: 100
+  mp: 10
+  dex: 2.8
+  atk: 5
+  def: 10
+  manaRecoveryRatio: 0.1
+  hpRecoveryRatio: 0.1
+  repeatRatio: 0.1
+  creaticalRatio: 0.1
+  datas:
+  - {fileID: 11400000, guid: be8e5e418b17ed449b09496c89800b74, type: 2}
+  percentSkillDatas: []
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: 29afeed6fd49e74408209991cf605d71, type: 2}
+  abilities: 0c000000
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 00000000
+  possibleSkillDatas:
+  - {fileID: 11400000, guid: d510c55ea70bab346bb553864e1d987b, type: 2}
+  - {fileID: 11400000, guid: 4f3fa8fe7dae8034286af9b88e0082a2, type: 2}
+  - {fileID: 11400000, guid: cc865e9474a6ea34298d72635f2a23f4, type: 2}
+  possiblePercentSkillDatas:
+  - {fileID: 11400000, guid: efb747a939aea80439e6d98b7b18d7c5, type: 2}
+  possibleTriggerSkillDatas:
+  - {fileID: 11400000, guid: 82aab4677ddeb3241b37c99dedc93c84, type: 2}
+  possibleAbilitieDatas: 03000000
+  possibleConfirmSkillPriorityDatas: 0100000002000000030000000400000005000000060000000700000009000000
+  possibleSelectDetailTargetTypeDatas: 0100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: oozeSlimp
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 157181233337698512, guid: f31c45f6ecbec284fa2b16d7d6aeb11f, type: 3}
+  battleAIType: 0
+  evolutionType: 0
+  status: 8
+  monsterWeight: 0
+  monsterClass: 2
+  spawnItems: []
+  tranningType: 3
+  dictionaryData: {fileID: 11400000, guid: 75fd5eaab734c8643b391080c380902c, type: 2}
+  hp: 20
+  mp: 20
+  dex: 4.8
+  atk: 15
+  def: 5
+  manaRecoveryRatio: 0.25
+  hpRecoveryRatio: 0.25
+  repeatRatio: 0
+  creaticalRatio: 0
+  datas:
+  - {fileID: 11400000, guid: 01970e38649a4fa489bbcbed915874d1, type: 2}
+  percentSkillDatas: []
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: bb726b8725002b742b43566a8eaccc6d, type: 2}
+  abilities: 08000000
+  confirmSkillPrioritys: 00000000
+  selectDetailTargetTypes: 01000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas:
+  - {fileID: 11400000, guid: 10bbda8fec4ec7441a98139659e547cb, type: 2}
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 0000000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

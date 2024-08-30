@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4b2a6a2a8e1a64cad0b80b8355ef5e, type: 3}
+  m_Name: Ninja
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 4233718425333819863, guid: 62c87a341bd86ae41ac44b75c93daa20, type: 3}
+  battleAIType: 1
+  evolutionType: 0
+  status: 0
+  monsterWeight: 0
+  monsterClass: 2
+  spawnItems: []
+  tranningType: 9
+  dictionaryData: {fileID: 11400000, guid: fca79ebb192d9c04599176ddf61c5574, type: 2}
+  hp: 8
+  mp: 20
+  dex: 3.2
+  atk: 15
+  def: 0
+  manaRecoveryRatio: 0.1
+  hpRecoveryRatio: 0.1
+  repeatRatio: 0.25
+  creaticalRatio: 0.25
+  datas:
+  - {fileID: 11400000, guid: 581f09290613a4b4fac272afb405bb9a, type: 2}
+  - {fileID: 11400000, guid: 890eeecbc61aaf94c9774ea6392ffa2c, type: 2}
+  - {fileID: 11400000, guid: 83e50ca59bbef394dbc77b6c9ea83471, type: 2}
+  - {fileID: 11400000, guid: c8cf3b2c0a05c5041982d9d9108af891, type: 2}
+  percentSkillDatas:
+  - {fileID: 11400000, guid: 4bc55b3497c4781489d9ee5d1e0b9bd6, type: 2}
+  - {fileID: 11400000, guid: d759897990443c948b08d5dfd109689f, type: 2}
+  triggerSkillDatas:
+  - {fileID: 11400000, guid: 0c42d34a746cdf744b50a65d4fbd421b, type: 2}
+  abilities: 080000000700000003000000
+  confirmSkillPrioritys: 0b000000
+  selectDetailTargetTypes: 09000000
+  possibleSkillDatas: []
+  possiblePercentSkillDatas: []
+  possibleTriggerSkillDatas: []
+  possibleAbilitieDatas: 
+  possibleConfirmSkillPriorityDatas: 
+  possibleSelectDetailTargetTypeDatas: 
+  evolutionMonsterData: {fileID: 0}
+  evolutionRangeType: 0
+  isDeadLock: 0
+  isPocketLock: 0

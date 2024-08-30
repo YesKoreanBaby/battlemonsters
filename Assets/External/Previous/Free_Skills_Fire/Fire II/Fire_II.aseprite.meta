@@ -1,0 +1,3667 @@
+fileFormatVersion: 2
+guid: 308584fe9d149e94a8b71f82d849448a
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Fire_II_Frame_12
+    originalName: 
+    pivot: {x: -3, y: -7.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 319
+      y: 375
+      width: 4
+      height: 4
+    spriteID: 799042082d900d640a77978f081cd844
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 319, y: 375}
+  - name: Fire_II_Frame_13
+    originalName: 
+    pivot: {x: -1.2500002, y: -7.0000005}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 107
+      width: 4
+      height: 5
+    spriteID: 950518ef86467824faf12fe713190022
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 107}
+  - name: Fire_II_Frame_14
+    originalName: 
+    pivot: {x: -0.50000024, y: -7.6000004}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 120
+      width: 4
+      height: 5
+    spriteID: 587559b8feb7ff04aa57be0e239c4fcb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 120}
+  - name: Fire_II_Frame_15
+    originalName: 
+    pivot: {x: 0, y: -7.6000004}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 133
+      width: 4
+      height: 5
+    spriteID: d6b5c17a712cec9428adaf43764acc4e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 133}
+  - name: Fire_II_Frame_16
+    originalName: 
+    pivot: {x: 0.49999988, y: -7.6000004}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 149
+      width: 4
+      height: 5
+    spriteID: 47d62b62c525ffb4989ee2615faa67c3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 149}
+  - name: Fire_II_Frame_17
+    originalName: 
+    pivot: {x: 2.25, y: -7.0000005}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 162
+      width: 4
+      height: 5
+    spriteID: ad65c76bd56a10f49877072cbf4688c1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 162}
+  - name: Fire_II_Frame_18
+    originalName: 
+    pivot: {x: 3.5000002, y: -5.8}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 175
+      width: 4
+      height: 5
+    spriteID: 57f40cc509d860041bf157bb96805066
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 175}
+  - name: Fire_II_Frame_19
+    originalName: 
+    pivot: {x: 4.5, y: -4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 206
+      y: 501
+      width: 4
+      height: 6
+    spriteID: 72b61f1c3da862a46b43eb99173bb6d0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 206, y: 501}
+  - name: Fire_II_Frame_20
+    originalName: 
+    pivot: {x: 4.5, y: -3.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 248
+      y: 480
+      width: 4
+      height: 6
+    spriteID: a187fd5a53d5e3248b6e403631963cd3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 248, y: 480}
+  - name: Fire_II_Frame_21
+    originalName: 
+    pivot: {x: 4.5, y: -3.3333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 219
+      y: 496
+      width: 4
+      height: 6
+    spriteID: 504ef70f3d9e8ba41a2d627e82b9e358
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 219, y: 496}
+  - name: Fire_II_Frame_22
+    originalName: 
+    pivot: {x: 3.5000002, y: -3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 188
+      width: 4
+      height: 5
+    spriteID: c34833d37ce88a84fb92439bc9b26ecf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 188}
+  - name: Fire_II_Frame_23
+    originalName: 
+    pivot: {x: 2.25, y: -2.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 319
+      y: 387
+      width: 4
+      height: 4
+    spriteID: d76891b66b91a604e8c3b10800ee7dff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 319, y: 387}
+  - name: Fire_II_Frame_24
+    originalName: 
+    pivot: {x: 1.0000001, y: -1.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 201
+      width: 4
+      height: 5
+    spriteID: 94da111dc3fcea84dbf961aa7e1a77de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 201}
+  - name: Fire_II_Frame_25
+    originalName: 
+    pivot: {x: 0.49999988, y: -1.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 214
+      width: 4
+      height: 5
+    spriteID: b270cd9306858034ab309d620701f67e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 214}
+  - name: Fire_II_Frame_26
+    originalName: 
+    pivot: {x: 0, y: -1.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 428
+      width: 4
+      height: 5
+    spriteID: 93c1eb89d924fd84aa878a5c0808daa9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 428}
+  - name: Fire_II_Frame_27
+    originalName: 
+    pivot: {x: -0.3333334, y: 0.54838705}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 307
+      y: 206
+      width: 15
+      height: 31
+    spriteID: 840aaec4bdacfe642a2ccc7dbd9840ac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 307, y: 206}
+  - name: Fire_II_Frame_28
+    originalName: 
+    pivot: {x: -1.8000001, y: 0.34375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 206
+      y: 461
+      width: 5
+      height: 32
+    spriteID: 856190176f6473d4da02e0b0c744fcb5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 206, y: 461}
+  - name: Fire_II_Frame_29
+    originalName: 
+    pivot: {x: -0.5, y: 0.24242425}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 285
+      y: 467
+      width: 12
+      height: 33
+    spriteID: 7a1f3c2afe58a5c4ba9fc4e82dfc794e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 285, y: 467}
+  - name: Fire_II_Frame_30
+    originalName: 
+    pivot: {x: -0.2857142, y: 0.22857144}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 263
+      y: 467
+      width: 14
+      height: 35
+    spriteID: 2df833f3ed0c82e41b7fecb9180e19c7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 263, y: 467}
+  - name: Fire_II_Frame_31
+    originalName: 
+    pivot: {x: -0.12500006, y: 0.2162162}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 182
+      y: 461
+      width: 16
+      height: 37
+    spriteID: f37df746ed47e2142a07fd5878de9e18
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 182, y: 461}
+  - name: Fire_II_Frame_32
+    originalName: 
+    pivot: {x: 0.21739128, y: 0.3333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 147
+      y: 456
+      width: 23
+      height: 51
+    spriteID: 6f1ac48b1354e5a4cb71cce0a2ee93ea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 147, y: 456}
+  - name: Fire_II_Frame_33
+    originalName: 
+    pivot: {x: 0.43478262, y: 0.29310346}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 182
+      y: 395
+      width: 23
+      height: 58
+    spriteID: 1f133bbe61984414bb41a6b11797a3c3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 182, y: 395}
+  - name: Fire_II_Frame_34
+    originalName: 
+    pivot: {x: 0.6363637, y: 0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 147
+      y: 234
+      width: 22
+      height: 66
+    spriteID: 1541b892c103f0c4e8c1ab71d64f6472
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 147, y: 234}
+  - name: Fire_II_Frame_35
+    originalName: 
+    pivot: {x: 0.70000005, y: 0.3529412}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 182
+      y: 319
+      width: 20
+      height: 68
+    spriteID: af527baff0cc09e448f425f1405ecee2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 182, y: 319}
+  - name: Fire_II_Frame_36
+    originalName: 
+    pivot: {x: 0.77777785, y: 0.3714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 147
+      y: 308
+      width: 18
+      height: 70
+    spriteID: 694fe20a7e3390c41b8fcac1fe93d938
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 147, y: 308}
+  - name: Fire_II_Frame_37
+    originalName: 
+    pivot: {x: 0.35714287, y: 0.43055555}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 348
+      width: 28
+      height: 72
+    spriteID: 13598e05bf678674388b1f08dc714676
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 96, y: 348}
+  - name: Fire_II_Frame_38
+    originalName: 
+    pivot: {x: 0.51851857, y: 0.5138889}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 147
+      y: 4
+      width: 27
+      height: 72
+    spriteID: ec1263a967b014046b3a44fe1fa578d0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 147, y: 4}
+  - name: Fire_II_Frame_39
+    originalName: 
+    pivot: {x: 0.6923077, y: 0.56338024}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 219
+      y: 250
+      width: 26
+      height: 71
+    spriteID: 3bc77980f3a601e449eb238fea6cc536
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 219, y: 250}
+  - name: Fire_II_Frame_40
+    originalName: 
+    pivot: {x: 0.75, y: 0.5797101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 147
+      y: 84
+      width: 24
+      height: 69
+    spriteID: 03106bfb8cbb22c46b7a625ac26a69e3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 147, y: 84}
+  - name: Fire_II_Frame_41
+    originalName: 
+    pivot: {x: 0.6923077, y: 0.5970149}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 263
+      y: 242
+      width: 26
+      height: 67
+    spriteID: 1464d550c60348c439d600698a8c9b32
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 263, y: 242}
+  - name: Fire_II_Frame_42
+    originalName: 
+    pivot: {x: 0.43750003, y: 0.63793105}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 219
+      y: 184
+      width: 32
+      height: 58
+    spriteID: 3e1ed037ee8cdc44a941bfbf5ec948e0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 219, y: 184}
+  - name: Fire_II_Frame_43
+    originalName: 
+    pivot: {x: 0.35714287, y: 0.72549015}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 182
+      y: 143
+      width: 28
+      height: 51
+    spriteID: e3ed1776a01d17e40b0935589ddad7bd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 182, y: 143}
+  - name: Fire_II_Frame_44
+    originalName: 
+    pivot: {x: 0.38888893, y: 0.7692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 219
+      y: 4
+      width: 36
+      height: 52
+    spriteID: 49f7946cded23e94da83f0840c5eee0f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 219, y: 4}
+  - name: Fire_II_Frame_45
+    originalName: 
+    pivot: {x: 0.38888893, y: 0.7692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 219
+      y: 64
+      width: 36
+      height: 52
+    spriteID: a3e56ab7562a90448ae5784c5ddf495f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 219, y: 64}
+  - name: Fire_II_Frame_46
+    originalName: 
+    pivot: {x: 0.38888893, y: 0.7692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 219
+      y: 124
+      width: 36
+      height: 52
+    spriteID: e8c31699879d0dd44aa40793d2420445
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 219, y: 124}
+  - name: Fire_II_Frame_47
+    originalName: 
+    pivot: {x: 0.35714287, y: 0.51428574}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 428
+      width: 28
+      height: 70
+    spriteID: 34f85d7c58875cc48bdd8f401f846e23
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 96, y: 428}
+  - name: Fire_II_Frame_48
+    originalName: 
+    pivot: {x: 0.35714287, y: 0.4736842}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 65
+      width: 28
+      height: 76
+    spriteID: 1aea0ebbf9c442a4d8afdc7dc7d13326
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 96, y: 65}
+  - name: Fire_II_Frame_49
+    originalName: 
+    pivot: {x: 0.38888893, y: 0.4698795}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 36
+      height: 83
+    spriteID: 94a1f461c870df0428676ebb1bd6ceef
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Fire_II_Frame_50
+    originalName: 
+    pivot: {x: 0.38888893, y: 0.4698795}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 95
+      width: 36
+      height: 83
+    spriteID: 84ba2846b532ab64c897ff090509da3f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 95}
+  - name: Fire_II_Frame_51
+    originalName: 
+    pivot: {x: 0.38888893, y: 0.4698795}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 186
+      width: 36
+      height: 83
+    spriteID: 7a2d1a8d26b28e943abb76b34cb5fa8d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 186}
+  - name: Fire_II_Frame_52
+    originalName: 
+    pivot: {x: 0.35714287, y: 0.4736842}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 149
+      width: 28
+      height: 76
+    spriteID: 91d0a61d7afbb0e4badc9a13fd526c5a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 96, y: 149}
+  - name: Fire_II_Frame_53
+    originalName: 
+    pivot: {x: 0.43750003, y: 0.5217391}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 291
+      width: 32
+      height: 69
+    spriteID: ab4f948f09f53bd4e8741747a50e7bb6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 48, y: 291}
+  - name: Fire_II_Frame_54
+    originalName: 
+    pivot: {x: 0.45000002, y: 0.5735294}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 4
+      width: 40
+      height: 68
+    spriteID: 765a98fa94ce26547b5aa747956669ef
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 48, y: 4}
+  - name: Fire_II_Frame_55
+    originalName: 
+    pivot: {x: 0.45000002, y: 0.5909091}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 80
+      width: 40
+      height: 66
+    spriteID: c32e84d31a1b5d145a12a0ca2c7e84e2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 48, y: 80}
+  - name: Fire_II_Frame_56
+    originalName: 
+    pivot: {x: 0.45000002, y: 0.609375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 154
+      width: 40
+      height: 64
+    spriteID: d6a41764753850f43a5a7c08d33dcb08
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 48, y: 154}
+  - name: Fire_II_Frame_57
+    originalName: 
+    pivot: {x: 0.43750003, y: 0.64285713}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 263
+      y: 178
+      width: 32
+      height: 56
+    spriteID: 58eb82b2efebe224b86df128c402037d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 263, y: 178}
+  - name: Fire_II_Frame_58
+    originalName: 
+    pivot: {x: 0.35714287, y: 0.7058824}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 182
+      y: 202
+      width: 28
+      height: 51
+    spriteID: 08d84e8dfdfc13547b2617445b21d77f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 182, y: 202}
+  - name: Fire_II_Frame_59
+    originalName: 
+    pivot: {x: 0.38888893, y: 0.78}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 263
+      y: 4
+      width: 36
+      height: 50
+    spriteID: e1ba21b1dd403e84393047bf4e591fb9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 263, y: 4}
+  - name: Fire_II_Frame_60
+    originalName: 
+    pivot: {x: 0.38888893, y: 0.78}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 263
+      y: 62
+      width: 36
+      height: 50
+    spriteID: 783c142c2a0cb0445a2f131dd2cb4e7b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 263, y: 62}
+  - name: Fire_II_Frame_61
+    originalName: 
+    pivot: {x: 0.38888893, y: 0.78}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 263
+      y: 120
+      width: 36
+      height: 50
+    spriteID: 3c929b286585d614db76f5683812d1a2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 263, y: 120}
+  - name: Fire_II_Frame_62
+    originalName: 
+    pivot: {x: 0.35714287, y: 0.71999997}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 182
+      y: 261
+      width: 28
+      height: 50
+    spriteID: f7931a3d3a2bc074da4a68d049355b2d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 182, y: 261}
+  - name: Fire_II_Frame_63
+    originalName: 
+    pivot: {x: 0.35714287, y: 0.6315789}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 182
+      y: 78
+      width: 28
+      height: 57
+    spriteID: 9b71a3b8316ea3a4581b5a522222e105
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 182, y: 78}
+  - name: Fire_II_Frame_64
+    originalName: 
+    pivot: {x: 0.38888893, y: 0.61904764}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 425
+      width: 36
+      height: 63
+    spriteID: 1e1cc6a5bb39c5c45a01f5a6cd25c54d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 425}
+  - name: Fire_II_Frame_65
+    originalName: 
+    pivot: {x: 0.38888893, y: 0.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 352
+      width: 36
+      height: 65
+    spriteID: f47a93c07e2ca4043b58e74d17e5b303
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 352}
+  - name: Fire_II_Frame_66
+    originalName: 
+    pivot: {x: 0.38888893, y: 0.58208954}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 277
+      width: 36
+      height: 67
+    spriteID: 472b4a1d5c989064a96a153a33d6dd4a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 277}
+  - name: Fire_II_Frame_67
+    originalName: 
+    pivot: {x: -0.7692307, y: 0.38596493}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 307
+      y: 141
+      width: 13
+      height: 57
+    spriteID: 19f003d7d1915f445b988a1a89753bfd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 307, y: 141}
+  - name: Fire_II_Frame_68
+    originalName: 
+    pivot: {x: -0.26315793, y: 0.359375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 307
+      y: 4
+      width: 19
+      height: 64
+    spriteID: 8b0463fe37aca9e4eacfeec61e6cdb1c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 307, y: 4}
+  - name: Fire_II_Frame_69
+    originalName: 
+    pivot: {x: 0, y: 0.3382353}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 263
+      y: 391
+      width: 25
+      height: 68
+    spriteID: 21b322482452af14990359df01e79602
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 263, y: 391}
+  - name: Fire_II_Frame_70
+    originalName: 
+    pivot: {x: 0.07407406, y: 0.3382353}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 219
+      y: 329
+      width: 27
+      height: 68
+    spriteID: b0331029e7402ed45b0d2fa5f71d0502
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 219, y: 329}
+  - name: Fire_II_Frame_71
+    originalName: 
+    pivot: {x: 0.14814816, y: 0.3283582}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 219
+      y: 405
+      width: 27
+      height: 67
+    spriteID: 11d2cfc88d62b974b8d8e785cb25d26c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 219, y: 405}
+  - name: Fire_II_Frame_72
+    originalName: 
+    pivot: {x: 0.27272728, y: 0.359375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 439
+      width: 33
+      height: 64
+    spriteID: 4d0ececd7e0e4854fb84962fe372985b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 48, y: 439}
+  - name: Fire_II_Frame_73
+    originalName: 
+    pivot: {x: 0.3589744, y: 0.40350875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 226
+      width: 39
+      height: 57
+    spriteID: c15163187c8dd4345ad587dcb01123cf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 48, y: 226}
+  - name: Fire_II_Frame_74
+    originalName: 
+    pivot: {x: 0.41860467, y: 0.43396226}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 4
+      width: 43
+      height: 53
+    spriteID: 23e52b6f59aab1343b7862ae172baa4b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 96, y: 4}
+  - name: Fire_II_Frame_75
+    originalName: 
+    pivot: {x: 0.4390244, y: 0.44}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 290
+      width: 41
+      height: 50
+    spriteID: cbab174ea3418ae4a9b827fc9b1205e7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 96, y: 290}
+  - name: Fire_II_Frame_76
+    originalName: 
+    pivot: {x: 0.42857146, y: 0.46938774}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 233
+      width: 42
+      height: 49
+    spriteID: 4636efec1ef29134eb9eafeca0165173
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 96, y: 233}
+  - name: Fire_II_Frame_77
+    originalName: 
+    pivot: {x: -0.6666666, y: 0.40350875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 307
+      y: 76
+      width: 15
+      height: 57
+    spriteID: 81bbbac05d668af43a8ff42efa0152ad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 307, y: 76}
+  - name: Fire_II_Frame_78
+    originalName: 
+    pivot: {x: -0.25000006, y: 0.37096772}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 147
+      y: 386
+      width: 20
+      height: 62
+    spriteID: 2b07c7e2b361b4d47987d2772e82980f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 147, y: 386}
+  - name: Fire_II_Frame_79
+    originalName: 
+    pivot: {x: 0, y: 0.33846155}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 147
+      y: 161
+      width: 23
+      height: 65
+    spriteID: 0292e5df5d641d448a3987cc744b5dad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 147, y: 161}
+  - name: Fire_II_Frame_80
+    originalName: 
+    pivot: {x: 0.07692306, y: 0.34848484}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 263
+      y: 317
+      width: 26
+      height: 66
+    spriteID: 77ac916e42d917744a60b4f72b4ca493
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 263, y: 317}
+  - name: Fire_II_Frame_81
+    originalName: 
+    pivot: {x: 0.13793105, y: 0.34848484}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 182
+      y: 4
+      width: 29
+      height: 66
+    spriteID: 370e8d63f1b51e941b436780e3da0cb4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 182, y: 4}
+  - name: Fire_II_Frame_82
+    originalName: 
+    pivot: {x: 0.2647059, y: 0.36507937}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 368
+      width: 34
+      height: 63
+    spriteID: 629fd3109170d0548a78909d2037e1b2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 48, y: 368}
+  - name: Fire_II_Frame_83
+    originalName: 
+    pivot: {x: 3.5000002, y: -4.8333335}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 231
+      y: 496
+      width: 4
+      height: 6
+    spriteID: 563a2dbfd25b6ea44ab34ff57b3632ca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 231, y: 496}
+  - name: Fire_II_Frame_84
+    originalName: 
+    pivot: {x: 4.5, y: -4.8}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 441
+      width: 4
+      height: 5
+    spriteID: 0624516e5264ed942a7a38384d02bf8e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 441}
+  - name: Fire_II_Frame_85
+    originalName: 
+    pivot: {x: 4.5, y: -4.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 454
+      width: 4
+      height: 5
+    spriteID: d19418664cb56d849a7d3595734fd3e9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 454}
+  - name: Fire_II_Frame_86
+    originalName: 
+    pivot: {x: 4.5, y: -4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 467
+      width: 4
+      height: 5
+    spriteID: 01bb4537ec736474a82845443fac18a7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 467}
+  - name: Fire_II_Frame_87
+    originalName: 
+    pivot: {x: 3.5000002, y: -4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 319
+      y: 399
+      width: 4
+      height: 4
+    spriteID: ae7c5cdc04423844b869a7f6f8178995
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 319, y: 399}
+  - name: Fire_II_Frame_88
+    originalName: 
+    pivot: {x: 2.25, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 480
+      width: 4
+      height: 5
+    spriteID: 47bfbc173c3eb0840bf55341e24f4752
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 480}
+  - name: Fire_II_Frame_89
+    originalName: 
+    pivot: {x: 1.5, y: -1.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 493
+      width: 4
+      height: 5
+    spriteID: 3314c91c93a81b146a1b346a1b57b22e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 493}
+  - name: Fire_II_Frame_90
+    originalName: 
+    pivot: {x: 1.0000001, y: -1.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 307
+      y: 245
+      width: 4
+      height: 5
+    spriteID: b92224c3fd5217347af5357802e35caf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 307, y: 245}
+  - name: Fire_II_Frame_91
+    originalName: 
+    pivot: {x: 0.49999988, y: -1.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 307
+      y: 258
+      width: 4
+      height: 5
+    spriteID: 38d5e458a5d421c4a8f25fda81e2c3eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 307, y: 258}
+  - name: Fire_II_Frame_92
+    originalName: 
+    pivot: {x: -1.2500002, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 307
+      y: 271
+      width: 4
+      height: 5
+    spriteID: 3fc92b412e7adc94d9842ffd5082c58c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 307, y: 271}
+  - name: Fire_II_Frame_93
+    originalName: 
+    pivot: {x: -2.4999998, y: -3.2000003}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 307
+      y: 284
+      width: 4
+      height: 5
+    spriteID: 685e228b8dcae4443b2851ca2ea869f5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 307, y: 284}
+  - name: Fire_II_Frame_94
+    originalName: 
+    pivot: {x: -3.5000002, y: -3.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 243
+      y: 496
+      width: 4
+      height: 6
+    spriteID: 21349b861ebc9a046bf788ae570925ae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 243, y: 496}
+  - name: Fire_II_Frame_95
+    originalName: 
+    pivot: {x: -3.5000002, y: -3.8333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 348
+      width: 4
+      height: 6
+    spriteID: 99ff18eed9366ab45a1cda9692a288bb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 348}
+  - name: Fire_II_Frame_96
+    originalName: 
+    pivot: {x: -3.5000002, y: -4.1666665}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 362
+      width: 4
+      height: 6
+    spriteID: c151862e77eea024381cdd7d00cc3b0b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 362}
+  - name: Fire_II_Frame_97
+    originalName: 
+    pivot: {x: -2.4999998, y: -6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 307
+      y: 297
+      width: 4
+      height: 5
+    spriteID: c18a9a8be37445846b4e150734d53b65
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 307, y: 297}
+  - name: Fire_II_Frame_98
+    originalName: 
+    pivot: {x: -1.2500002, y: -9}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 319
+      y: 411
+      width: 4
+      height: 4
+    spriteID: c75b5eb681b8fda40b5917a6af420d97
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 319, y: 411}
+  - name: Fire_II_Frame_99
+    originalName: 
+    pivot: {x: 0, y: -7.8}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 307
+      y: 310
+      width: 4
+      height: 5
+    spriteID: 58e7b9365c6fc1b4ca8a7dbbae1e498c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 307, y: 310}
+  - name: Fire_II_Frame_100
+    originalName: 
+    pivot: {x: 0.49999988, y: -7.8}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 307
+      y: 323
+      width: 4
+      height: 5
+    spriteID: ab170a350560b014cb9518cfd50aef66
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 307, y: 323}
+  - name: Fire_II_Frame_101
+    originalName: 
+    pivot: {x: 1.0000001, y: -7.8}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 307
+      y: 336
+      width: 4
+      height: 5
+    spriteID: 1039532fb92d69a499928cbe3d1b4579
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 307, y: 336}
+  - name: Fire_II_Frame_102
+    originalName: 
+    pivot: {x: -2.4999998, y: -5.8}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 307
+      y: 349
+      width: 4
+      height: 5
+    spriteID: 4585a91988948d3469519a272c0866a7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 307, y: 349}
+  - name: Fire_II_Frame_103
+    originalName: 
+    pivot: {x: -1.2500002, y: -5.8333335}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 376
+      width: 4
+      height: 6
+    spriteID: e6b82d3b093ddad4b8cf677d3d9c3bc8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 376}
+  - name: Fire_II_Frame_104
+    originalName: 
+    pivot: {x: 0, y: -7.6000004}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 307
+      y: 362
+      width: 4
+      height: 5
+    spriteID: ae941c93d43665e41930b8a3c4b1e5b8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 307, y: 362}
+  - name: Fire_II_Frame_105
+    originalName: 
+    pivot: {x: 0.49999988, y: -7.6000004}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 307
+      y: 375
+      width: 4
+      height: 5
+    spriteID: da1ce0f1b60848f4da668d6012fcbdc1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 307, y: 375}
+  - name: Fire_II_Frame_106
+    originalName: 
+    pivot: {x: 1.0000001, y: -7.6000004}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 307
+      y: 388
+      width: 4
+      height: 5
+    spriteID: 4d6df33f39cccc143a2c8ce018f1fa87
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 307, y: 388}
+  - name: Fire_II_Frame_107
+    originalName: 
+    pivot: {x: 2.25, y: -9}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 319
+      y: 423
+      width: 4
+      height: 4
+    spriteID: ad66613592c77d94d846b852f34d5f80
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 319, y: 423}
+  - name: Fire_II_Frame_108
+    originalName: 
+    pivot: {x: 3.5000002, y: -6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 307
+      y: 401
+      width: 4
+      height: 5
+    spriteID: be831483984abb044bb8a4db9ab44158
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 307, y: 401}
+  - name: Fire_II_Frame_109
+    originalName: 
+    pivot: {x: 4.5, y: -5.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 307
+      y: 414
+      width: 4
+      height: 5
+    spriteID: ce620a41a3a263046a77bb1b4ecaa929
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 307, y: 414}
+  - name: Fire_II_Frame_110
+    originalName: 
+    pivot: {x: 4.5, y: -5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 307
+      y: 427
+      width: 4
+      height: 5
+    spriteID: bb8ecf552163838478d0e764bda4a892
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 307, y: 427}
+  - name: Fire_II_Frame_111
+    originalName: 
+    pivot: {x: 4.5, y: -4.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 307
+      y: 440
+      width: 4
+      height: 5
+    spriteID: 0b43a1a5269e887429d7ff6a5c717f62
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 307, y: 440}
+  - name: Fire_II_Frame_112
+    originalName: 
+    pivot: {x: 3.5000002, y: -3.2000003}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 307
+      y: 453
+      width: 4
+      height: 5
+    spriteID: ab642585bddceb642beb3949995ee99d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 307, y: 453}
+  - name: Fire_II_Frame_113
+    originalName: 
+    pivot: {x: 2.25, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 307
+      y: 466
+      width: 4
+      height: 5
+    spriteID: 18f563794553f33468cec301722f7ed9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 307, y: 466}
+  - name: Fire_II_Frame_114
+    originalName: 
+    pivot: {x: 1.0000001, y: -1.1666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 390
+      width: 4
+      height: 6
+    spriteID: 8b717c404acb99d48a578a61440e47ac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 390}
+  - name: Fire_II_Frame_115
+    originalName: 
+    pivot: {x: 0.49999988, y: -1.1666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 404
+      width: 4
+      height: 6
+    spriteID: 823d1d738ab54e04ba96a82f9b11b8b3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 404}
+  - name: Fire_II_Frame_116
+    originalName: 
+    pivot: {x: 0, y: -1.1666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 65
+      width: 4
+      height: 6
+    spriteID: 867d3a73242f5a54fb65787b7265a48b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 65}
+  - name: Fire_II_Frame_117
+    originalName: 
+    pivot: {x: -1.2500002, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 307
+      y: 479
+      width: 4
+      height: 5
+    spriteID: d15e1944f1b6d33499b566c922609390
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 307, y: 479}
+  - name: Fire_II_Frame_118
+    originalName: 
+    pivot: {x: -2.4999998, y: -4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 319
+      y: 435
+      width: 4
+      height: 4
+    spriteID: 4e8242d71a0d6d3478ccaa876fea6d8b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 319, y: 435}
+  - name: Fire_II_Frame_119
+    originalName: 
+    pivot: {x: -3.5000002, y: -4.2000003}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 307
+      y: 492
+      width: 4
+      height: 5
+    spriteID: 18a43facc45b185419e4eb6fc1da0b76
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 307, y: 492}
+  - name: Fire_II_Frame_120
+    originalName: 
+    pivot: {x: -3.5000002, y: -4.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 319
+      y: 245
+      width: 4
+      height: 5
+    spriteID: 88239d4e4ae367e4ab37e382a4e1094f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 319, y: 245}
+  - name: Fire_II_Frame_121
+    originalName: 
+    pivot: {x: -3.5000002, y: -5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 319
+      y: 258
+      width: 4
+      height: 5
+    spriteID: ab382e6233ddbd34c86e61fadaf22a26
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 319, y: 258}
+  - name: Fire_II_Frame_122
+    originalName: 
+    pivot: {x: 0.33333325, y: -3.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 234
+      y: 480
+      width: 6
+      height: 6
+    spriteID: dc0e016483cee6c4fbd6cf623036b676
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 234, y: 480}
+  - name: Fire_II_Frame_123
+    originalName: 
+    pivot: {x: 0.2857142, y: -2.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 219
+      y: 480
+      width: 7
+      height: 8
+    spriteID: b1a8715a828b8b0458257e588aa25973
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 219, y: 480}
+  - name: Fire_II_Frame_124
+    originalName: 
+    pivot: {x: 0.33333334, y: -2.2222223}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 22
+      y: 496
+      width: 9
+      height: 9
+    spriteID: a7f1ce94d7f2c7c409cae2a09b8bc172
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 22, y: 496}
+  - name: Fire_II_Frame_125
+    originalName: 
+    pivot: {x: 0.40000007, y: -2.2222223}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 496
+      width: 10
+      height: 9
+    spriteID: 68db07f484100c5479a0d5a76b04e914
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 496}
+  - name: Fire_II_Frame_0
+    originalName: 
+    pivot: {x: 0.49999988, y: -4.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 319
+      y: 271
+      width: 4
+      height: 5
+    spriteID: 0cc17380d7ed19f4bb14f3cc176e3e5c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 319, y: 271}
+  - name: Fire_II_Frame_1
+    originalName: 
+    pivot: {x: 0.49999988, y: -3.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 79
+      width: 4
+      height: 6
+    spriteID: 1f8a8f7098192fe48b400959b75dd798
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 79}
+  - name: Fire_II_Frame_2
+    originalName: 
+    pivot: {x: 0.49999988, y: -4.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 319
+      y: 284
+      width: 4
+      height: 5
+    spriteID: d7fbceb24b11e0e4da2db717613ca71c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 319, y: 284}
+  - name: Fire_II_Frame_3
+    originalName: 
+    pivot: {x: 0.49999988, y: -5.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 319
+      y: 447
+      width: 4
+      height: 4
+    spriteID: 83e0f1dca4bea5a469c7258eaab18712
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 319, y: 447}
+  - name: Fire_II_Frame_4
+    originalName: 
+    pivot: {x: 0.49999988, y: -4.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 319
+      y: 297
+      width: 4
+      height: 5
+    spriteID: 62a9601a611cd4f458df1cf2ca7281dc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 319, y: 297}
+  - name: Fire_II_Frame_5
+    originalName: 
+    pivot: {x: 0.49999988, y: -4.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 319
+      y: 310
+      width: 4
+      height: 5
+    spriteID: 4766130a5069ba44698423ed0215c29e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 319, y: 310}
+  - name: Fire_II_Frame_6
+    originalName: 
+    pivot: {x: 0.49999988, y: -4.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 319
+      y: 323
+      width: 4
+      height: 5
+    spriteID: e1c113cfcc1733f4497524d8cd3ad279
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 319, y: 323}
+  - name: Fire_II_Frame_7
+    originalName: 
+    pivot: {x: 0.49999988, y: -4.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 319
+      y: 336
+      width: 4
+      height: 5
+    spriteID: 974cef0f5a691224db756d2fb3dd6b09
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 319, y: 336}
+  - name: Fire_II_Frame_8
+    originalName: 
+    pivot: {x: 0.49999988, y: -3.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 93
+      width: 4
+      height: 6
+    spriteID: 5190196924fb6f7458c7113ac336ef29
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 93}
+  - name: Fire_II_Frame_9
+    originalName: 
+    pivot: {x: 0.49999988, y: -4.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 319
+      y: 349
+      width: 4
+      height: 5
+    spriteID: 050a731436c846142a67716f466c06d0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 319, y: 349}
+  - name: Fire_II_Frame_10
+    originalName: 
+    pivot: {x: 0.49999988, y: -5.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 319
+      y: 459
+      width: 4
+      height: 4
+    spriteID: cc8241f0cc17d5f41b16d8feede2649d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 319, y: 459}
+  - name: Fire_II_Frame_11
+    originalName: 
+    pivot: {x: 0.49999988, y: -4.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 319
+      y: 362
+      width: 4
+      height: 5
+    spriteID: a6ecbb1f65e783142be4ab932c7b1648
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 319, y: 362}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1270712923
+    name: Fire_II
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Fire_II_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 36
+        y: 29
+        width: 4
+        height: 4
+      spriteId: 799042082d900d640a77978f081cd844
+    - name: Fire_II_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 29
+        y: 35
+        width: 4
+        height: 5
+      spriteId: 950518ef86467824faf12fe713190022
+    - name: Fire_II_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 26
+        y: 38
+        width: 4
+        height: 5
+      spriteId: 587559b8feb7ff04aa57be0e239c4fcb
+    - name: Fire_II_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 24
+        y: 38
+        width: 4
+        height: 5
+      spriteId: d6b5c17a712cec9428adaf43764acc4e
+    - name: Fire_II_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 22
+        y: 38
+        width: 4
+        height: 5
+      spriteId: 47d62b62c525ffb4989ee2615faa67c3
+    - name: Fire_II_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 15
+        y: 35
+        width: 4
+        height: 5
+      spriteId: ad65c76bd56a10f49877072cbf4688c1
+    - name: Fire_II_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 10
+        y: 29
+        width: 4
+        height: 5
+      spriteId: 57f40cc509d860041bf157bb96805066
+    - name: Fire_II_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 6
+        y: 24
+        width: 4
+        height: 6
+      spriteId: 72b61f1c3da862a46b43eb99173bb6d0
+    - name: Fire_II_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 6
+        y: 22
+        width: 4
+        height: 6
+      spriteId: a187fd5a53d5e3248b6e403631963cd3
+    - name: Fire_II_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 6
+        y: 20
+        width: 4
+        height: 6
+      spriteId: 504ef70f3d9e8ba41a2d627e82b9e358
+    - name: Fire_II_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 10
+        y: 15
+        width: 4
+        height: 5
+      spriteId: c34833d37ce88a84fb92439bc9b26ecf
+    - name: Fire_II_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 15
+        y: 9
+        width: 4
+        height: 4
+      spriteId: d76891b66b91a604e8c3b10800ee7dff
+    - name: Fire_II_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 20
+        y: 6
+        width: 4
+        height: 5
+      spriteId: 94da111dc3fcea84dbf961aa7e1a77de
+    - name: Fire_II_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 22
+        y: 6
+        width: 4
+        height: 5
+      spriteId: b270cd9306858034ab309d620701f67e
+    - name: Fire_II_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 24
+        y: 6
+        width: 4
+        height: 5
+      spriteId: 93c1eb89d924fd84aa878a5c0808daa9
+    - name: Fire_II_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 29
+        y: -17
+        width: 15
+        height: 31
+      spriteId: 840aaec4bdacfe642a2ccc7dbd9840ac
+    - name: Fire_II_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 33
+        y: -11
+        width: 5
+        height: 32
+      spriteId: 856190176f6473d4da02e0b0c744fcb5
+    - name: Fire_II_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 30
+        y: -8
+        width: 12
+        height: 33
+      spriteId: 7a1f3c2afe58a5c4ba9fc4e82dfc794e
+    - name: Fire_II_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 28
+        y: -8
+        width: 14
+        height: 35
+      spriteId: 2df833f3ed0c82e41b7fecb9180e19c7
+    - name: Fire_II_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 26
+        y: -8
+        width: 16
+        height: 37
+      spriteId: f37df746ed47e2142a07fd5878de9e18
+    - name: Fire_II_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 19
+        y: -17
+        width: 23
+        height: 51
+      spriteId: 6f1ac48b1354e5a4cb71cce0a2ee93ea
+    - name: Fire_II_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 14
+        y: -17
+        width: 23
+        height: 58
+      spriteId: 1f133bbe61984414bb41a6b11797a3c3
+    - name: Fire_II_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 10
+        y: -22
+        width: 22
+        height: 66
+      spriteId: 1541b892c103f0c4e8c1ab71d64f6472
+    - name: Fire_II_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 10
+        y: -24
+        width: 20
+        height: 68
+      spriteId: af527baff0cc09e448f425f1405ecee2
+    - name: Fire_II_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 10
+        y: -26
+        width: 18
+        height: 70
+      spriteId: 694fe20a7e3390c41b8fcac1fe93d938
+    - name: Fire_II_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 14
+        y: -31
+        width: 28
+        height: 72
+      spriteId: 13598e05bf678674388b1f08dc714676
+    - name: Fire_II_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 10
+        y: -37
+        width: 27
+        height: 72
+      spriteId: ec1263a967b014046b3a44fe1fa578d0
+    - name: Fire_II_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: 6
+        y: -40
+        width: 26
+        height: 71
+      spriteId: 3bc77980f3a601e449eb238fea6cc536
+    - name: Fire_II_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: 6
+        y: -40
+        width: 24
+        height: 69
+      spriteId: 03106bfb8cbb22c46b7a625ac26a69e3
+    - name: Fire_II_Frame_41
+      frameIndex: 41
+      cellRect:
+        x: 6
+        y: -40
+        width: 26
+        height: 67
+      spriteId: 1464d550c60348c439d600698a8c9b32
+    - name: Fire_II_Frame_42
+      frameIndex: 42
+      cellRect:
+        x: 10
+        y: -37
+        width: 32
+        height: 58
+      spriteId: 3e1ed037ee8cdc44a941bfbf5ec948e0
+    - name: Fire_II_Frame_43
+      frameIndex: 43
+      cellRect:
+        x: 14
+        y: -37
+        width: 28
+        height: 51
+      spriteId: e3ed1776a01d17e40b0935589ddad7bd
+    - name: Fire_II_Frame_44
+      frameIndex: 44
+      cellRect:
+        x: 10
+        y: -40
+        width: 36
+        height: 52
+      spriteId: 49f7946cded23e94da83f0840c5eee0f
+    - name: Fire_II_Frame_45
+      frameIndex: 45
+      cellRect:
+        x: 10
+        y: -40
+        width: 36
+        height: 52
+      spriteId: a3e56ab7562a90448ae5784c5ddf495f
+    - name: Fire_II_Frame_46
+      frameIndex: 46
+      cellRect:
+        x: 10
+        y: -40
+        width: 36
+        height: 52
+      spriteId: e8c31699879d0dd44aa40793d2420445
+    - name: Fire_II_Frame_47
+      frameIndex: 47
+      cellRect:
+        x: 14
+        y: -36
+        width: 28
+        height: 70
+      spriteId: 34f85d7c58875cc48bdd8f401f846e23
+    - name: Fire_II_Frame_48
+      frameIndex: 48
+      cellRect:
+        x: 14
+        y: -36
+        width: 28
+        height: 76
+      spriteId: 1aea0ebbf9c442a4d8afdc7dc7d13326
+    - name: Fire_II_Frame_49
+      frameIndex: 49
+      cellRect:
+        x: 10
+        y: -39
+        width: 36
+        height: 83
+      spriteId: 94a1f461c870df0428676ebb1bd6ceef
+    - name: Fire_II_Frame_50
+      frameIndex: 50
+      cellRect:
+        x: 10
+        y: -39
+        width: 36
+        height: 83
+      spriteId: 84ba2846b532ab64c897ff090509da3f
+    - name: Fire_II_Frame_51
+      frameIndex: 51
+      cellRect:
+        x: 10
+        y: -39
+        width: 36
+        height: 83
+      spriteId: 7a2d1a8d26b28e943abb76b34cb5fa8d
+    - name: Fire_II_Frame_52
+      frameIndex: 52
+      cellRect:
+        x: 14
+        y: -36
+        width: 28
+        height: 76
+      spriteId: 91d0a61d7afbb0e4badc9a13fd526c5a
+    - name: Fire_II_Frame_53
+      frameIndex: 53
+      cellRect:
+        x: 10
+        y: -36
+        width: 32
+        height: 69
+      spriteId: ab4f948f09f53bd4e8741747a50e7bb6
+    - name: Fire_II_Frame_54
+      frameIndex: 54
+      cellRect:
+        x: 6
+        y: -39
+        width: 40
+        height: 68
+      spriteId: 765a98fa94ce26547b5aa747956669ef
+    - name: Fire_II_Frame_55
+      frameIndex: 55
+      cellRect:
+        x: 6
+        y: -39
+        width: 40
+        height: 66
+      spriteId: c32e84d31a1b5d145a12a0ca2c7e84e2
+    - name: Fire_II_Frame_56
+      frameIndex: 56
+      cellRect:
+        x: 6
+        y: -39
+        width: 40
+        height: 64
+      spriteId: d6a41764753850f43a5a7c08d33dcb08
+    - name: Fire_II_Frame_57
+      frameIndex: 57
+      cellRect:
+        x: 10
+        y: -36
+        width: 32
+        height: 56
+      spriteId: 58eb82b2efebe224b86df128c402037d
+    - name: Fire_II_Frame_58
+      frameIndex: 58
+      cellRect:
+        x: 14
+        y: -36
+        width: 28
+        height: 51
+      spriteId: 08d84e8dfdfc13547b2617445b21d77f
+    - name: Fire_II_Frame_59
+      frameIndex: 59
+      cellRect:
+        x: 10
+        y: -39
+        width: 36
+        height: 50
+      spriteId: e1ba21b1dd403e84393047bf4e591fb9
+    - name: Fire_II_Frame_60
+      frameIndex: 60
+      cellRect:
+        x: 10
+        y: -39
+        width: 36
+        height: 50
+      spriteId: 783c142c2a0cb0445a2f131dd2cb4e7b
+    - name: Fire_II_Frame_61
+      frameIndex: 61
+      cellRect:
+        x: 10
+        y: -39
+        width: 36
+        height: 50
+      spriteId: 3c929b286585d614db76f5683812d1a2
+    - name: Fire_II_Frame_62
+      frameIndex: 62
+      cellRect:
+        x: 14
+        y: -36
+        width: 28
+        height: 50
+      spriteId: f7931a3d3a2bc074da4a68d049355b2d
+    - name: Fire_II_Frame_63
+      frameIndex: 63
+      cellRect:
+        x: 14
+        y: -36
+        width: 28
+        height: 57
+      spriteId: 9b71a3b8316ea3a4581b5a522222e105
+    - name: Fire_II_Frame_64
+      frameIndex: 64
+      cellRect:
+        x: 10
+        y: -39
+        width: 36
+        height: 63
+      spriteId: 1e1cc6a5bb39c5c45a01f5a6cd25c54d
+    - name: Fire_II_Frame_65
+      frameIndex: 65
+      cellRect:
+        x: 10
+        y: -39
+        width: 36
+        height: 65
+      spriteId: f47a93c07e2ca4043b58e74d17e5b303
+    - name: Fire_II_Frame_66
+      frameIndex: 66
+      cellRect:
+        x: 10
+        y: -39
+        width: 36
+        height: 67
+      spriteId: 472b4a1d5c989064a96a153a33d6dd4a
+    - name: Fire_II_Frame_67
+      frameIndex: 67
+      cellRect:
+        x: 34
+        y: -22
+        width: 13
+        height: 57
+      spriteId: 19f003d7d1915f445b988a1a89753bfd
+    - name: Fire_II_Frame_68
+      frameIndex: 68
+      cellRect:
+        x: 29
+        y: -23
+        width: 19
+        height: 64
+      spriteId: 8b0463fe37aca9e4eacfeec61e6cdb1c
+    - name: Fire_II_Frame_69
+      frameIndex: 69
+      cellRect:
+        x: 24
+        y: -23
+        width: 25
+        height: 68
+      spriteId: 21b322482452af14990359df01e79602
+    - name: Fire_II_Frame_70
+      frameIndex: 70
+      cellRect:
+        x: 22
+        y: -23
+        width: 27
+        height: 68
+      spriteId: b0331029e7402ed45b0d2fa5f71d0502
+    - name: Fire_II_Frame_71
+      frameIndex: 71
+      cellRect:
+        x: 20
+        y: -22
+        width: 27
+        height: 67
+      spriteId: 11d2cfc88d62b974b8d8e785cb25d26c
+    - name: Fire_II_Frame_72
+      frameIndex: 72
+      cellRect:
+        x: 15
+        y: -23
+        width: 33
+        height: 64
+      spriteId: 4d0ececd7e0e4854fb84962fe372985b
+    - name: Fire_II_Frame_73
+      frameIndex: 73
+      cellRect:
+        x: 10
+        y: -23
+        width: 39
+        height: 57
+      spriteId: c15163187c8dd4345ad587dcb01123cf
+    - name: Fire_II_Frame_74
+      frameIndex: 74
+      cellRect:
+        x: 6
+        y: -23
+        width: 43
+        height: 53
+      spriteId: 23e52b6f59aab1343b7862ae172baa4b
+    - name: Fire_II_Frame_75
+      frameIndex: 75
+      cellRect:
+        x: 6
+        y: -22
+        width: 41
+        height: 50
+      spriteId: cbab174ea3418ae4a9b827fc9b1205e7
+    - name: Fire_II_Frame_76
+      frameIndex: 76
+      cellRect:
+        x: 6
+        y: -23
+        width: 42
+        height: 49
+      spriteId: 4636efec1ef29134eb9eafeca0165173
+    - name: Fire_II_Frame_77
+      frameIndex: 77
+      cellRect:
+        x: 34
+        y: -23
+        width: 15
+        height: 57
+      spriteId: 81bbbac05d668af43a8ff42efa0152ad
+    - name: Fire_II_Frame_78
+      frameIndex: 78
+      cellRect:
+        x: 29
+        y: -23
+        width: 20
+        height: 62
+      spriteId: 2b07c7e2b361b4d47987d2772e82980f
+    - name: Fire_II_Frame_79
+      frameIndex: 79
+      cellRect:
+        x: 24
+        y: -22
+        width: 23
+        height: 65
+      spriteId: 0292e5df5d641d448a3987cc744b5dad
+    - name: Fire_II_Frame_80
+      frameIndex: 80
+      cellRect:
+        x: 22
+        y: -23
+        width: 26
+        height: 66
+      spriteId: 77ac916e42d917744a60b4f72b4ca493
+    - name: Fire_II_Frame_81
+      frameIndex: 81
+      cellRect:
+        x: 20
+        y: -23
+        width: 29
+        height: 66
+      spriteId: 370e8d63f1b51e941b436780e3da0cb4
+    - name: Fire_II_Frame_82
+      frameIndex: 82
+      cellRect:
+        x: 15
+        y: -23
+        width: 34
+        height: 63
+      spriteId: 629fd3109170d0548a78909d2037e1b2
+    - name: Fire_II_Frame_83
+      frameIndex: 83
+      cellRect:
+        x: 10
+        y: 29
+        width: 4
+        height: 6
+      spriteId: 563a2dbfd25b6ea44ab34ff57b3632ca
+    - name: Fire_II_Frame_84
+      frameIndex: 84
+      cellRect:
+        x: 6
+        y: 24
+        width: 4
+        height: 5
+      spriteId: 0624516e5264ed942a7a38384d02bf8e
+    - name: Fire_II_Frame_85
+      frameIndex: 85
+      cellRect:
+        x: 6
+        y: 22
+        width: 4
+        height: 5
+      spriteId: d19418664cb56d849a7d3595734fd3e9
+    - name: Fire_II_Frame_86
+      frameIndex: 86
+      cellRect:
+        x: 6
+        y: 20
+        width: 4
+        height: 5
+      spriteId: 01bb4537ec736474a82845443fac18a7
+    - name: Fire_II_Frame_87
+      frameIndex: 87
+      cellRect:
+        x: 10
+        y: 16
+        width: 4
+        height: 4
+      spriteId: ae7c5cdc04423844b869a7f6f8178995
+    - name: Fire_II_Frame_88
+      frameIndex: 88
+      cellRect:
+        x: 15
+        y: 10
+        width: 4
+        height: 5
+      spriteId: 47bfbc173c3eb0840bf55341e24f4752
+    - name: Fire_II_Frame_89
+      frameIndex: 89
+      cellRect:
+        x: 18
+        y: 7
+        width: 4
+        height: 5
+      spriteId: 3314c91c93a81b146a1b346a1b57b22e
+    - name: Fire_II_Frame_90
+      frameIndex: 90
+      cellRect:
+        x: 20
+        y: 7
+        width: 4
+        height: 5
+      spriteId: b92224c3fd5217347af5357802e35caf
+    - name: Fire_II_Frame_91
+      frameIndex: 91
+      cellRect:
+        x: 22
+        y: 7
+        width: 4
+        height: 5
+      spriteId: 38d5e458a5d421c4a8f25fda81e2c3eb
+    - name: Fire_II_Frame_92
+      frameIndex: 92
+      cellRect:
+        x: 29
+        y: 10
+        width: 4
+        height: 5
+      spriteId: 3fc92b412e7adc94d9842ffd5082c58c
+    - name: Fire_II_Frame_93
+      frameIndex: 93
+      cellRect:
+        x: 34
+        y: 16
+        width: 4
+        height: 5
+      spriteId: 685e228b8dcae4443b2851ca2ea869f5
+    - name: Fire_II_Frame_94
+      frameIndex: 94
+      cellRect:
+        x: 38
+        y: 21
+        width: 4
+        height: 6
+      spriteId: 21349b861ebc9a046bf788ae570925ae
+    - name: Fire_II_Frame_95
+      frameIndex: 95
+      cellRect:
+        x: 38
+        y: 23
+        width: 4
+        height: 6
+      spriteId: 99ff18eed9366ab45a1cda9692a288bb
+    - name: Fire_II_Frame_96
+      frameIndex: 96
+      cellRect:
+        x: 38
+        y: 25
+        width: 4
+        height: 6
+      spriteId: c151862e77eea024381cdd7d00cc3b0b
+    - name: Fire_II_Frame_97
+      frameIndex: 97
+      cellRect:
+        x: 34
+        y: 30
+        width: 4
+        height: 5
+      spriteId: c18a9a8be37445846b4e150734d53b65
+    - name: Fire_II_Frame_98
+      frameIndex: 98
+      cellRect:
+        x: 29
+        y: 36
+        width: 4
+        height: 4
+      spriteId: c75b5eb681b8fda40b5917a6af420d97
+    - name: Fire_II_Frame_99
+      frameIndex: 99
+      cellRect:
+        x: 24
+        y: 39
+        width: 4
+        height: 5
+      spriteId: 58e7b9365c6fc1b4ca8a7dbbae1e498c
+    - name: Fire_II_Frame_100
+      frameIndex: 100
+      cellRect:
+        x: 22
+        y: 39
+        width: 4
+        height: 5
+      spriteId: ab170a350560b014cb9518cfd50aef66
+    - name: Fire_II_Frame_101
+      frameIndex: 101
+      cellRect:
+        x: 20
+        y: 39
+        width: 4
+        height: 5
+      spriteId: 1039532fb92d69a499928cbe3d1b4579
+    - name: Fire_II_Frame_102
+      frameIndex: 102
+      cellRect:
+        x: 34
+        y: 29
+        width: 4
+        height: 5
+      spriteId: 4585a91988948d3469519a272c0866a7
+    - name: Fire_II_Frame_103
+      frameIndex: 103
+      cellRect:
+        x: 29
+        y: 35
+        width: 4
+        height: 6
+      spriteId: e6b82d3b093ddad4b8cf677d3d9c3bc8
+    - name: Fire_II_Frame_104
+      frameIndex: 104
+      cellRect:
+        x: 24
+        y: 38
+        width: 4
+        height: 5
+      spriteId: ae941c93d43665e41930b8a3c4b1e5b8
+    - name: Fire_II_Frame_105
+      frameIndex: 105
+      cellRect:
+        x: 22
+        y: 38
+        width: 4
+        height: 5
+      spriteId: da1ce0f1b60848f4da668d6012fcbdc1
+    - name: Fire_II_Frame_106
+      frameIndex: 106
+      cellRect:
+        x: 20
+        y: 38
+        width: 4
+        height: 5
+      spriteId: 4d6df33f39cccc143a2c8ce018f1fa87
+    - name: Fire_II_Frame_107
+      frameIndex: 107
+      cellRect:
+        x: 15
+        y: 36
+        width: 4
+        height: 4
+      spriteId: ad66613592c77d94d846b852f34d5f80
+    - name: Fire_II_Frame_108
+      frameIndex: 108
+      cellRect:
+        x: 10
+        y: 30
+        width: 4
+        height: 5
+      spriteId: be831483984abb044bb8a4db9ab44158
+    - name: Fire_II_Frame_109
+      frameIndex: 109
+      cellRect:
+        x: 6
+        y: 27
+        width: 4
+        height: 5
+      spriteId: ce620a41a3a263046a77bb1b4ecaa929
+    - name: Fire_II_Frame_110
+      frameIndex: 110
+      cellRect:
+        x: 6
+        y: 25
+        width: 4
+        height: 5
+      spriteId: bb8ecf552163838478d0e764bda4a892
+    - name: Fire_II_Frame_111
+      frameIndex: 111
+      cellRect:
+        x: 6
+        y: 23
+        width: 4
+        height: 5
+      spriteId: 0b43a1a5269e887429d7ff6a5c717f62
+    - name: Fire_II_Frame_112
+      frameIndex: 112
+      cellRect:
+        x: 10
+        y: 16
+        width: 4
+        height: 5
+      spriteId: ab642585bddceb642beb3949995ee99d
+    - name: Fire_II_Frame_113
+      frameIndex: 113
+      cellRect:
+        x: 15
+        y: 10
+        width: 4
+        height: 5
+      spriteId: 18f563794553f33468cec301722f7ed9
+    - name: Fire_II_Frame_114
+      frameIndex: 114
+      cellRect:
+        x: 20
+        y: 7
+        width: 4
+        height: 6
+      spriteId: 8b717c404acb99d48a578a61440e47ac
+    - name: Fire_II_Frame_115
+      frameIndex: 115
+      cellRect:
+        x: 22
+        y: 7
+        width: 4
+        height: 6
+      spriteId: 823d1d738ab54e04ba96a82f9b11b8b3
+    - name: Fire_II_Frame_116
+      frameIndex: 116
+      cellRect:
+        x: 24
+        y: 7
+        width: 4
+        height: 6
+      spriteId: 867d3a73242f5a54fb65787b7265a48b
+    - name: Fire_II_Frame_117
+      frameIndex: 117
+      cellRect:
+        x: 29
+        y: 10
+        width: 4
+        height: 5
+      spriteId: d15e1944f1b6d33499b566c922609390
+    - name: Fire_II_Frame_118
+      frameIndex: 118
+      cellRect:
+        x: 34
+        y: 16
+        width: 4
+        height: 4
+      spriteId: 4e8242d71a0d6d3478ccaa876fea6d8b
+    - name: Fire_II_Frame_119
+      frameIndex: 119
+      cellRect:
+        x: 38
+        y: 21
+        width: 4
+        height: 5
+      spriteId: 18a43facc45b185419e4eb6fc1da0b76
+    - name: Fire_II_Frame_120
+      frameIndex: 120
+      cellRect:
+        x: 38
+        y: 23
+        width: 4
+        height: 5
+      spriteId: 88239d4e4ae367e4ab37e382a4e1094f
+    - name: Fire_II_Frame_121
+      frameIndex: 121
+      cellRect:
+        x: 38
+        y: 25
+        width: 4
+        height: 5
+      spriteId: ab382e6233ddbd34c86e61fadaf22a26
+    - name: Fire_II_Frame_122
+      frameIndex: 122
+      cellRect:
+        x: 22
+        y: 21
+        width: 6
+        height: 6
+      spriteId: dc0e016483cee6c4fbd6cf623036b676
+    - name: Fire_II_Frame_123
+      frameIndex: 123
+      cellRect:
+        x: 22
+        y: 20
+        width: 7
+        height: 8
+      spriteId: b1a8715a828b8b0458257e588aa25973
+    - name: Fire_II_Frame_124
+      frameIndex: 124
+      cellRect:
+        x: 21
+        y: 20
+        width: 9
+        height: 9
+      spriteId: a7f1ce94d7f2c7c409cae2a09b8bc172
+    - name: Fire_II_Frame_125
+      frameIndex: 125
+      cellRect:
+        x: 20
+        y: 20
+        width: 10
+        height: 9
+      spriteId: 68db07f484100c5479a0d5a76b04e914
+    - name: Fire_II_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 22
+        y: 22
+        width: 4
+        height: 5
+      spriteId: 0cc17380d7ed19f4bb14f3cc176e3e5c
+    - name: Fire_II_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 22
+        y: 22
+        width: 4
+        height: 6
+      spriteId: 1f8a8f7098192fe48b400959b75dd798
+    - name: Fire_II_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 22
+        y: 22
+        width: 4
+        height: 5
+      spriteId: d7fbceb24b11e0e4da2db717613ca71c
+    - name: Fire_II_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 22
+        y: 22
+        width: 4
+        height: 4
+      spriteId: 83e0f1dca4bea5a469c7258eaab18712
+    - name: Fire_II_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 22
+        y: 22
+        width: 4
+        height: 5
+      spriteId: 62a9601a611cd4f458df1cf2ca7281dc
+    - name: Fire_II_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 22
+        y: 22
+        width: 4
+        height: 5
+      spriteId: 4766130a5069ba44698423ed0215c29e
+    - name: Fire_II_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 22
+        y: 22
+        width: 4
+        height: 5
+      spriteId: e1c113cfcc1733f4497524d8cd3ad279
+    - name: Fire_II_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 22
+        y: 22
+        width: 4
+        height: 5
+      spriteId: 974cef0f5a691224db756d2fb3dd6b09
+    - name: Fire_II_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 22
+        y: 22
+        width: 4
+        height: 6
+      spriteId: 5190196924fb6f7458c7113ac336ef29
+    - name: Fire_II_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 22
+        y: 22
+        width: 4
+        height: 5
+      spriteId: 050a731436c846142a67716f466c06d0
+    - name: Fire_II_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 22
+        y: 22
+        width: 4
+        height: 4
+      spriteId: cc8241f0cc17d5f41b16d8feede2649d
+    - name: Fire_II_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 22
+        y: 22
+        width: 4
+        height: 5
+      spriteId: a6ecbb1f65e783142be4ab932c7b1648
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 48, y: 48}

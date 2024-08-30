@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a06ce28b585120d4f8c813140b1b22c5, type: 3}
+  m_Name: FireBlade_
+  m_EditorClassIdentifier: 
+  skillName: "\uD30C\uC774\uC5B4 \uBE14\uB808\uC774\uB4DC"
+  skillDmageType: "\uACF5\uACA9\uB825 + \uC2A4\uD0AC \uACF5\uACA9\uB825"
+  skillDmgType: 0
+  skillEffectType: 4
+  targetRange: short
+  addEffect: "\uD654\uC0C1"
+  skillIcon: {fileID: 21300000, guid: 4822f55c0bb6d1e4bb4d376a432f7ae8, type: 3}
+  description: "\uBD88\uC758 \uD615\uC0C1\uC73C\uB85C \uB9CC\uB4E4\uC5B4\uC9C4 \uAC80\uC774\n\uD558\uB298\uC5D0\uC11C
+    \uB0B4\uB824\uCE5C\uB2E4."
