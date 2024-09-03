@@ -21,10 +21,10 @@ MonoBehaviour:
   spawnItems: []
   tranningType: 0
   dictionaryData: {fileID: 11400000, guid: 81ae62551e3886b4d95168407b44db30, type: 2}
-  hp: 100
+  hp: 20
   mp: 10
-  dex: 2.8
-  atk: 5
+  dex: 4.2
+  atk: 12
   def: 10
   manaRecoveryRatio: 0.1
   hpRecoveryRatio: 0.1
