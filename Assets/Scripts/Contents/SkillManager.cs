@@ -16173,7 +16173,7 @@ public class SkillManager : MonoBehaviour
         int count = 5;
         bool isAlive = false;
         float percent = 0.1f;
-        float offsetScale = willPowerStructure.isHomegrounds[index] ? -1f : 1f;
+        //float offsetScale = willPowerStructure.isHomegrounds[index] ? -1f : 1f;
 
         Vector2 startPosition = Vector2.zero;
         if (check)
@@ -16181,8 +16181,8 @@ public class SkillManager : MonoBehaviour
         else
         {
             Vector2 offset = willPowerStructure.objs[index].center.position - willPowerStructure.objs[index].transform.position;
-        
-            Vector3 fianlOffset = CombatManager.Instance.homegroundMonsters.Contains(willPowerStructure.objs[index]) ? new Vector3(-offset.y, offset.x) : new Vector3(offset.y, -offset.x);
+
+            Vector3 fianlOffset = (willPowerStructure.objs[index].transform.localScale.x >= 0) ? new Vector3(-offset.y, offset.x) : new Vector3(offset.y, -offset.x);
             startPosition = willPowerStructure.objs[index].transform.position + fianlOffset;
         }
         for (int i = count; i > 0; i--)
