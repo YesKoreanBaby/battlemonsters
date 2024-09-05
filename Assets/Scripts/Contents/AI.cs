@@ -39,5 +39,5 @@ public class AI : MonoBehaviour
     public BattleData singleGameblingData;
     public BattleData tutorialData;
     public BattleData pvpData;
-    public BattleData testData;
+    //public BattleData testData;
 }

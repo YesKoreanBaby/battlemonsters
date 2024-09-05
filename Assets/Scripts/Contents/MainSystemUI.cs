@@ -525,8 +525,8 @@ public class MainSystemUI : MonoBehaviour
     {
         Closed();
         yield return new WaitForSeconds(0.45f);
-        //CombatManager.Instance.battleDataObject = CombatManager.Instance.ai.friendshipData;
-        CombatManager.Instance.battleDataObject = CombatManager.Instance.ai.testData;
+        CombatManager.Instance.battleDataObject = CombatManager.Instance.ai.friendshipData;
+        //CombatManager.Instance.battleDataObject = CombatManager.Instance.ai.testData;
         CombatManager.Instance.ReturnGame();
 
         CombatUI.Instance.UpdateMonsterImages();
