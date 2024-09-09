@@ -10,7 +10,7 @@ public class AlarmUI : MonoBehaviour
     public Button button_0;
     public Button button_1;
     public Button cancel;
-    public Animator alarmAnim;
+    public RectTransform officalPanel;
 
     public bool isPopUp { get; private set; }
 
@@ -38,7 +38,7 @@ public class AlarmUI : MonoBehaviour
             gameObject.SetActive(true);
         }
 
-        alarmAnim.gameObject.SetActive(false);
+        officalPanel.gameObject.SetActive(false);
         alamText.gameObject.SetActive(true);
 
         alamText.text = text;
@@ -134,6 +134,7 @@ public class AlarmUI : MonoBehaviour
 
         button_0.transform.GetChild(0).GetComponent<TextMeshProUGUI>().text = "Enter";
 
+        var alarmAnim = officalPanel.transform.GetChild(0).GetComponent<Animator>();
         var hImage = alarmAnim.transform.GetChild(0).GetComponent<Image>();
         var hText = hImage.transform.GetChild(0).GetComponent<TextMeshProUGUI>();
         var aImage = alarmAnim.transform.GetChild(1).GetComponent<Image>();
@@ -168,7 +169,9 @@ public class AlarmUI : MonoBehaviour
 
     private IEnumerator PopUpForMatchingRoutine()
     {
-        alarmAnim.gameObject.SetActive(true);
+        var alarmAnim = officalPanel.transform.GetChild(0).GetComponent<Animator>();
+
+        officalPanel.gameObject.SetActive(true);
         alamText.gameObject.SetActive(false);
         button_0.gameObject.SetActive(false);
         button_1.gameObject.SetActive(false);
