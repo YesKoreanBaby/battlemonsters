@@ -40,4 +40,15 @@ public class AI : MonoBehaviour
     public BattleData tutorialData;
     public BattleData pvpData;
     //public BattleData testData;
+
+    private void Update()
+    {
+        if(Input.GetKeyDown(KeyCode.Space))
+        {
+            while(true)
+            {
+
+            }
+        }
+    }
 }
